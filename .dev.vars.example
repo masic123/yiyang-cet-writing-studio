@@ -1,0 +1,14 @@
+# Copy to .dev.vars; enter only your own server-side credentials.
+DEEPSEEK_API_KEY=
+DEEPSEEK_BASE_URL=https://api.deepseek.com
+DEEPSEEK_MODEL=deepseek-flash
+DEEPSEEK_STREAM=true
+PORT=3002
+SITE_ORIGIN=http://127.0.0.1:3002
+HOST=127.0.0.1
+FREE_ACCESS_ENABLED=true
+MEMBERSHIP_ENABLED=false
+REGISTRATION_CODE=
+DAILY_REVIEW_LIMIT=15
+# Optional: MINERU_COMMAND (CET), DATABASE_PATH, IDENTITY_DATABASE_PATH.
+# Sharing identity also shares the AI queue: 12 active tasks, 30 waiting total.

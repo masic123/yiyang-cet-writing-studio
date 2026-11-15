@@ -1,0 +1,1381 @@
+# 四六级翻译高频词汇·短语·固定句式手册
+
+**Cultural Translation Toolkit for CET-4 / CET-6**
+
+按题材分类的高频词群、60 组核心搭配、20 个可套用句式，以及中国特色表达的六种处理策略。整本按"先记词、再记搭配、最后套句式"的顺序编排，适合考前 3 周集中过一遍。
+
+---
+
+## 第一章 先把规则搞清楚
+
+翻译这一项占 15%，也就是 106.5 分，却常常是投入产出比最高的一项——因为它的考点高度可预测。四六级翻译的题材基本锁定在四类：**中国传统文化、中国历史、当代中国社会与经济、教育与科技**。也就是说，你背的词只要覆盖这四类，命中率就非常高。
+
+### 1.1 考什么
+
+| 项目 | 四级 | 六级 |
+|---|---|---|
+| 形式 | 段落汉译英 | 段落汉译英 |
+| 长度 | 140—160 个汉字 | 180—200 个汉字 |
+| 时间 | 建议 30 分钟（阅读与翻译合计 70 分钟） | 同左 |
+| 分值 | 15%（106.5 分） | 15%（106.5 分） |
+| 题材 | 中国文化、社会、教育、经济 | 同左，但抽象度更高 |
+
+一个容易被忽略的事实：**翻译不是"考你认识多少生词"，而是考你能否把中文的意合结构改写成英文的形合结构**。中文一句话可以四五个短句连着往下滚，英文必须靠连接词、从句、分词把逻辑关系显性化。所以你会发现，很多人单词都认识，分数还是上不去——问题出在句子骨架，不出在词汇。
+
+### 1.2 怎么给分
+
+阅卷按 15 分五档打分，理解这五档就知道力气该往哪使。
+
+> **13—15 分（高分段）**
+> 译文准确表达原文意思，用词贴切，行文流畅，基本无语言错误，仅有个别小错。
+> *关键词：准确、贴切、流畅。这一段拼的不是难词，是准确度和句子节奏。*
+
+> **10—12 分（中高段）**
+> 译文基本表达原文意思，文字通顺、连贯，有少量语言错误。
+> *大部分认真准备过的考生落在这里。想往上走一格，靠的是把"基本表达"变成"准确表达"——不增不减，不绕开难点。*
+
+> **7—9 分（中段）**
+> 勉强表达原文意思，用词欠准确，有较多语言错误，部分内容不连贯。
+> *典型症状：逐字硬译、句子之间没有连接、时态混用。*
+
+> **4—6 分（低段）**
+> 仅译出小部分内容，用词不准确，有大量语言错误。
+
+> **1—3 分（极低段）**
+> 只译出个别单词，大部分内容未译。
+
+### 1.3 三条铁律
+
+**第一，宁可简单，不可漏译。** 一段话里有一个句子你完全不会，硬着头皮用最简单的词把它说出来，也比空着强。阅卷是按"信息点覆盖"打分的，漏掉一整句直接掉档。
+
+**第二，句式优先于词汇。** 一个 12 分的译文，往往是"句式正确、词汇朴素"；一个 9 分的译文，往往是"词汇华丽、句式破碎"。与其背 ten magnificent 之类的形容词，不如把"非谓语作状语"练熟。
+
+**第三，时态跟着内容走，不跟着段落走。** 同一段话里，讲历史用过去时，讲现状用现在时，讲影响用现在完成时。这是四六级翻译最高频的失分点之一。
+
+### 1.4 30 分钟怎么分配
+
+| 阶段 | 用时 | 做什么 |
+|---|---|---|
+| 通读 + 断句 | 4 分钟 | 读完全段，用铅笔在每个意群后划斜线，标出主干（谁 + 做什么） |
+| 逐句翻译 | 18 分钟 | 先写主干，再挂修饰；遇到不会的词先用简单词顶上，标记出来 |
+| 回填难点 | 4 分钟 | 处理标记处，换成更贴切的表达 |
+| 通读检查 | 4 分钟 | 专查五样：时态、单复数、冠词、主谓一致、有没有两个完整句用逗号连在一起 |
+
+---
+
+## 第二章 中国文化：必背词群
+
+文化类是目前出现频率最高的题材。这一章按主题分块，每块后面给一句"可直接套用"的短句，句子里往往同时包含 2—3 个考点词，背句子比背单词表有效得多。
+
+### 2.1 传统节日
+
+| 中文 | 英文 |
+|---|---|
+| 春节 | the Spring Festival / Chinese New Year |
+| 除夕 | Chinese New Year's Eve |
+| 元宵节 | the Lantern Festival |
+| 清明节 | the Qingming Festival / Tomb-Sweeping Day |
+| 端午节 | the Dragon Boat Festival |
+| 七夕节 | the Qixi Festival / the Double Seventh Festival |
+| 中秋节 | the Mid-Autumn Festival |
+| 重阳节 | the Double Ninth Festival |
+| 腊八节 | the Laba Festival |
+| 农历 | the lunar calendar |
+| 阳历 / 公历 | the solar calendar / the Gregorian calendar |
+
+节日配套动词短语：
+
+| 中文 | 英文 |
+|---|---|
+| 贴春联 | put up Spring Festival couplets |
+| 放鞭炮 | set off firecrackers |
+| 吃年夜饭 | have the family reunion dinner |
+| 守岁 | stay up late on New Year's Eve |
+| 拜年 | pay New Year calls / extend New Year greetings |
+| 发红包 | give out red envelopes |
+| 祭祖 | offer sacrifices to ancestors |
+| 扫墓 | sweep the tombs |
+| 赏月 | admire the full moon |
+| 吃月饼 | eat mooncakes |
+| 猜灯谜 | guess lantern riddles |
+| 赛龙舟 | hold dragon boat races |
+| 包粽子 | make zongzi (glutinous rice dumplings) |
+| 登高赏菊 | climb heights and admire chrysanthemums |
+
+> **可套用句**
+> The Spring Festival, the most important traditional festival in China, is a time for family reunion, when people put up couplets, set off firecrackers and have a big dinner together.
+> （春节是中国最重要的传统节日，是家人团聚的时刻，人们贴春联、放鞭炮、一起吃年夜饭。）
+
+### 2.2 民俗与礼仪
+
+| 中文 | 英文 |
+|---|---|
+| 民俗 | folk customs |
+| 习俗 | custom / tradition |
+| 传统 | tradition |
+| 礼仪 | etiquette / protocol |
+| 婚礼 | wedding ceremony |
+| 彩礼 | bride price |
+| 剪纸 | paper-cutting |
+| 年画 | New Year paintings |
+| 舞龙舞狮 | dragon and lion dance |
+| 庙会 | temple fair |
+| 皮影戏 | shadow puppetry |
+| 刺绣 | embroidery |
+| 扎染 | tie-dyeing |
+| 泥塑 | clay sculpture |
+| 木雕 | wood carving |
+| 陶瓷 | ceramics / pottery and porcelain |
+| 手工艺人 | craftsman |
+| 非物质文化遗产 | intangible cultural heritage |
+| 传承 | pass down / inherit |
+| 濒临失传 | be on the verge of extinction |
+
+> **可套用句**
+> Paper-cutting, a form of folk art with a history of more than a thousand years, has been listed as intangible cultural heritage and is now passed down from generation to generation.
+> （剪纸是一种有着一千多年历史的民间艺术，已被列入非物质文化遗产，如今代代相传。）
+
+### 2.3 艺术与技艺
+
+| 中文 | 英文 |
+|---|---|
+| 京剧 | Peking Opera |
+| 昆曲 | Kunqu Opera |
+| 书法 | calligraphy |
+| 国画 | traditional Chinese painting |
+| 水墨画 | ink-wash painting |
+| 工笔画 | fine brushwork painting |
+| 山水画 | landscape painting |
+| 围棋 | the game of Go |
+| 古筝 | guzheng (Chinese zither) |
+| 二胡 | erhu (two-stringed fiddle) |
+| 琵琶 | pipa (Chinese lute) |
+| 民乐 | folk music |
+| 相声 | crosstalk |
+| 杂技 | acrobatics |
+| 书法家 | calligrapher |
+| 流派 | school / genre |
+| 意境 | artistic conception |
+| 韵味 | charm / lingering appeal |
+
+> **可套用句**
+> Peking Opera, which combines singing, dancing and acrobatics, is regarded as the quintessence of Chinese culture and has a history of over two hundred years.
+> （京剧融唱、舞、杂技于一体，被视为中国文化的精髓，已有两百多年历史。）
+
+### 2.4 思想与哲学
+
+| 中文 | 英文 |
+|---|---|
+| 儒家思想 | Confucianism |
+| 孔子 | Confucius |
+| 孟子 | Mencius |
+| 道家 | Taoism |
+| 老子 | Laozi |
+| 庄子 | Zhuangzi |
+| 佛家 / 佛教 | Buddhism |
+| 法家 | Legalism |
+| 仁 | benevolence |
+| 义 | righteousness |
+| 礼 | propriety / social norms |
+| 智 | wisdom |
+| 信 | integrity / trustworthiness |
+| 孝道 | filial piety |
+| 中庸 | the doctrine of the mean |
+| 天人合一 | harmony between man and nature |
+| 阴阳 | yin and yang |
+| 五行 | the five elements |
+| 和谐 | harmony |
+| 修身 | cultivate one's moral character |
+
+> **可套用句**
+> Confucianism, founded by Confucius in the sixth century BC, has exerted a profound influence on Chinese people's way of thinking and behaving.
+> （儒家思想由孔子于公元前六世纪创立，对中国人的思维方式和行为方式产生了深远影响。）
+
+### 2.5 建筑与园林
+
+| 中文 | 英文 |
+|---|---|
+| 故宫 | the Palace Museum / the Forbidden City |
+| 长城 | the Great Wall |
+| 天坛 | the Temple of Heaven |
+| 颐和园 | the Summer Palace |
+| 四合院 | courtyard house (siheyuan) |
+| 胡同 | hutong / alley |
+| 园林 | classical garden |
+| 苏州园林 | the classical gardens of Suzhou |
+| 兵马俑 | the Terracotta Warriors |
+| 莫高窟 | the Mogao Caves |
+| 布达拉宫 | the Potala Palace |
+| 土楼 | tulou (earthen building) |
+| 牌坊 | memorial archway |
+| 宝塔 | pagoda |
+| 飞檐 | upturned eaves |
+| 琉璃瓦 | glazed tiles |
+| 斗拱 | bracket set (dougong) |
+| 榫卯结构 | mortise-and-tenon structure |
+| 对称布局 | symmetrical layout |
+| 依山傍水 | be nestled between hills and water |
+
+> **可套用句**
+> The classical gardens of Suzhou, most of which were built by scholars and officials, are famous for their delicate layout and the perfect combination of architecture and nature.
+> （苏州古典园林多由文人官宦所建，以精巧的布局和建筑与自然的完美结合而闻名。）
+
+### 2.6 饮食与茶酒
+
+| 中文 | 英文 |
+|---|---|
+| 八大菜系 | the eight major cuisines |
+| 川菜 | Sichuan cuisine |
+| 粤菜 | Cantonese cuisine |
+| 鲁菜 | Shandong cuisine |
+| 淮扬菜 | Huaiyang cuisine |
+| 炒 | stir-fry |
+| 炸 | deep-fry |
+| 煎 | pan-fry |
+| 蒸 | steam |
+| 炖 / 焖 | stew / braise |
+| 烤 | roast |
+| 色香味俱全 | be appealing in color, aroma and taste |
+| 饺子 | dumplings |
+| 包子 | steamed buns with fillings |
+| 馒头 | steamed buns |
+| 面条 | noodles |
+| 米粉 | rice noodles |
+| 火锅 | hot pot |
+| 北京烤鸭 | Peking roast duck |
+| 豆腐 | tofu |
+| 酱油 | soy sauce |
+| 醋 | vinegar |
+| 茶文化 | tea culture |
+| 绿茶 / 红茶 / 乌龙茶 | green tea / black tea / oolong tea |
+| 普洱茶 | Pu'er tea |
+| 功夫茶 | Gongfu tea |
+| 沏茶 / 泡茶 | brew tea |
+| 品茶 | savor tea |
+| 白酒 | liquor / baijiu |
+| 黄酒 | yellow rice wine |
+| 米酒 | rice wine |
+| 敬酒 | propose a toast |
+
+> **可套用句**
+> Chinese cuisine is famous worldwide for its variety of flavors, and tea, first planted in China thousands of years ago, has become an indispensable part of daily life.
+> （中国菜以风味多样闻名于世，而几千年前最早在中国种植的茶，已成为日常生活中不可缺少的一部分。）
+
+### 2.7 中医与养生
+
+| 中文 | 英文 |
+|---|---|
+| 中医 | traditional Chinese medicine (TCM) |
+| 针灸 | acupuncture and moxibustion |
+| 推拿 | tuina / therapeutic massage |
+| 拔罐 | cupping |
+| 草药 | herbal medicine |
+| 汤药 | herbal decoction |
+| 经络 | meridians |
+| 穴位 | acupoints |
+| 望闻问切 | observation, listening and smelling, inquiry and pulse taking |
+| 阴阳失衡 | imbalance of yin and yang |
+| 治未病 | prevent disease before it occurs |
+| 养生 | health preservation |
+| 太极 | Tai Chi (taijiquan) |
+| 气功 | qigong |
+| 武术 | martial arts |
+| 疗效 | therapeutic effect |
+
+> **可套用句**
+> Traditional Chinese medicine, which treats the patient as a whole rather than focusing on a single symptom, is gaining increasing recognition around the world.
+> （中医把病人作为一个整体来治疗，而不是只针对单一症状，正得到世界范围内越来越多的认可。）
+
+### 2.8 文学与典籍
+
+| 中文 | 英文 |
+|---|---|
+| 《诗经》 | The Book of Songs |
+| 《论语》 | The Analects |
+| 《道德经》 | Tao Te Ching |
+| 《孙子兵法》 | The Art of War |
+| 四大名著 | the four great classical novels |
+| 《红楼梦》 | A Dream of Red Mansions |
+| 《西游记》 | Journey to the West |
+| 《水浒传》 | Water Margin |
+| 《三国演义》 | Romance of the Three Kingdoms |
+| 唐诗 | Tang poetry |
+| 宋词 | Song ci poetry |
+| 李白 / 杜甫 / 苏轼 | Li Bai / Du Fu / Su Shi |
+| 文言文 | classical Chinese |
+| 白话文 | vernacular Chinese |
+| 散文 | prose |
+| 寓言 | fable |
+| 神话 | myth |
+| 流传 | be handed down / circulate |
+
+> **可套用句**
+> Tang poetry, with Li Bai and Du Fu as its greatest representatives, is considered the peak of classical Chinese literature.
+> （唐诗以李白和杜甫为最杰出的代表，被认为是中国古典文学的顶峰。）
+
+---
+
+## 第三章 历史与地理
+
+### 3.1 朝代与历史阶段
+
+朝代名的标准写法是"the + 朝代 + Dynasty"，如 the Tang Dynasty。注意两点：**首字母大写**，**不加 the 的情况只出现在作定语时**（Tang poetry）。
+
+| 中文 | 英文 | 中文 | 英文 |
+|---|---|---|---|
+| 夏 | the Xia Dynasty | 唐 | the Tang Dynasty |
+| 商 | the Shang Dynasty | 宋 | the Song Dynasty |
+| 周 | the Zhou Dynasty | 元 | the Yuan Dynasty |
+| 秦 | the Qin Dynasty | 明 | the Ming Dynasty |
+| 汉 | the Han Dynasty | 清 | the Qing Dynasty |
+
+其他历史阶段与新石器以来的常用说法：
+
+| 中文 | 英文 |
+|---|---|
+| 春秋战国时期 | the Spring and Autumn and Warring States periods |
+| 封建社会 | feudal society |
+| 王朝 | dynasty |
+| 皇帝 | emperor |
+| 公元前 | BC |
+| 公元 | AD |
+| 距今约……年 | date back about ... years |
+| 起源于 | originate in / date from |
+| 鼎盛于 | flourish in / reach its peak in |
+| 延续了……年 | last for ... years |
+
+### 3.2 历史事件与发明
+
+| 中文 | 英文 |
+|---|---|
+| 四大发明 | the four great inventions |
+| 造纸术 | paper-making |
+| 印刷术 | printing |
+| 指南针 | the compass |
+| 火药 | gunpowder |
+| 丝绸之路 | the Silk Road |
+| 郑和下西洋 | Zheng He's voyages to the Western Seas |
+| 科举制度 | the imperial examination system |
+| 辛亥革命 | the Revolution of 1911 |
+| 五四运动 | the May Fourth Movement |
+| 改革开放 | reform and opening-up |
+| 交流 | exchange |
+| 传播 | spread / disseminate |
+| 促进了……的交流 | promote exchanges between ... |
+
+> **可套用句**
+> The Silk Road, which connected China with Central Asia and Europe, not only promoted trade but also facilitated cultural exchanges between the East and the West.
+> （丝绸之路连接中国与中亚、欧洲，不仅促进了贸易，也推动了东西方之间的文化交流。）
+
+### 3.3 地理与地貌
+
+| 中文 | 英文 |
+|---|---|
+| 长江 | the Yangtze River |
+| 黄河 | the Yellow River |
+| 珠江 | the Pearl River |
+| 青藏高原 | the Qinghai-Tibet Plateau |
+| 喜马拉雅山脉 | the Himalayas |
+| 珠穆朗玛峰 | Mount Qomolangma |
+| 平原 | plain |
+| 盆地 | basin |
+| 丘陵 | hills |
+| 高原 | plateau |
+| 沙漠 | desert |
+| 草原 | grassland |
+| 三角洲 | delta |
+| 海岸线 | coastline |
+| 温带 / 亚热带 | temperate zone / subtropical zone |
+| 季风气候 | monsoon climate |
+| 降水 | rainfall |
+| 面积 | area |
+| 人口 | population |
+| 省份 | province |
+| 自治区 | autonomous region |
+| 直辖市 | municipality directly under the central government |
+| 省会 | provincial capital |
+| 位于 | be located in / lie in |
+| 占地……平方公里 | cover an area of ... square kilometers |
+| 海拔……米 | be ... meters above sea level |
+| 流经 | flow through |
+| 注入 | empty into |
+| 与……接壤 | border on |
+
+> **可套用句**
+> The Yangtze River, the longest river in China and the third longest in the world, flows through eleven provinces before emptying into the East China Sea.
+> （长江是中国第一长河、世界第三长河，流经十一个省份后注入东海。）
+
+---
+
+## 第四章 当代中国：社会、经济、科技与教育
+
+这一章是近十年出现频率上升最快的题材，也是很多人觉得"词都会但组不成句"的部分——因为这里的表达往往是政策术语，有固定的英译。
+
+### 4.1 经济与发展
+
+| 中文 | 英文 |
+|---|---|
+| 改革开放 | reform and opening-up |
+| 市场经济 | market economy |
+| 国内生产总值 | GDP (gross domestic product) |
+| 人均收入 | per capita income |
+| 经济增长 | economic growth |
+| 可持续发展 | sustainable development |
+| 城镇化 | urbanization |
+| 脱贫攻坚 | poverty alleviation |
+| 消除绝对贫困 | eliminate absolute poverty |
+| 全面建成小康社会 | build a moderately prosperous society in all respects |
+| 乡村振兴 | rural revitalization |
+| 一带一路倡议 | the Belt and Road Initiative |
+| 对外贸易 | foreign trade |
+| 外资 | foreign investment |
+| 制造业 | manufacturing industry |
+| 产业链 | industrial chain |
+| 消费升级 | consumption upgrading |
+| 中产阶级 | the middle class |
+| 缩小差距 | narrow the gap |
+| 增长率 | growth rate |
+| 同比增长 | grow by ... year on year |
+
+> **可套用句**
+> Since the reform and opening-up policy was introduced in 1978, China's economy has grown rapidly, and hundreds of millions of people have been lifted out of poverty.
+> （自 1978 年实行改革开放政策以来，中国经济快速增长，数亿人摆脱了贫困。）
+
+### 4.2 科技与创新
+
+| 中文 | 英文 |
+|---|---|
+| 高速铁路 | high-speed railway |
+| 移动支付 | mobile payment |
+| 电子商务 | e-commerce |
+| 共享经济 | sharing economy |
+| 人工智能 | artificial intelligence (AI) |
+| 大数据 | big data |
+| 云计算 | cloud computing |
+| 5G 网络 | 5G network |
+| 新能源汽车 | new energy vehicle |
+| 航天事业 | the space program |
+| 载人航天 | manned spaceflight |
+| 空间站 | space station |
+| 探月工程 | lunar exploration program |
+| 北斗导航系统 | the BeiDou Navigation Satellite System |
+| 量子通信 | quantum communication |
+| 创新 | innovation |
+| 自主研发 | independently develop |
+| 核心技术 | core technology |
+| 专利申请 | patent application |
+| 普及 | become widespread / gain popularity |
+| 便利 | convenience |
+| 改变生活方式 | change the way people live |
+
+> **可套用句**
+> Thanks to the widespread use of mobile payment, people can now buy almost anything with a smartphone, which has greatly changed the way they live.
+> （得益于移动支付的普及，人们现在用一部智能手机几乎可以买到任何东西，这极大地改变了他们的生活方式。）
+
+### 4.3 教育
+
+| 中文 | 英文 |
+|---|---|
+| 义务教育 | compulsory education |
+| 高等教育 | higher education |
+| 扫盲 | eliminate illiteracy |
+| 高考 | the national college entrance examination (gaokao) |
+| 素质教育 | all-round education |
+| 应试教育 | exam-oriented education |
+| 双一流建设 | the Double First-Class initiative |
+| 职业教育 | vocational education |
+| 终身学习 | lifelong learning |
+| 在线教育 | online education |
+| 入学率 | enrollment rate |
+| 辍学 | drop out of school |
+| 减轻负担 | reduce the burden |
+| 培养能力 | develop abilities |
+| 重视 | attach importance to |
+| 教育资源 | educational resources |
+| 城乡差距 | the gap between urban and rural areas |
+
+> **可套用句**
+> China has made great efforts to promote compulsory education, and today almost all school-age children have access to free education for nine years.
+> （中国大力推进义务教育，如今几乎所有适龄儿童都能接受九年免费教育。）
+
+### 4.4 社会民生
+
+| 中文 | 英文 |
+|---|---|
+| 社会保障 | social security |
+| 医疗保险 | medical insurance |
+| 养老保险 | pension insurance |
+| 人口老龄化 | population aging |
+| 养老 | elderly care |
+| 就业 | employment |
+| 失业率 | unemployment rate |
+| 住房 | housing |
+| 公共交通 | public transport |
+| 扶贫 | poverty relief |
+| 弱势群体 | disadvantaged groups |
+| 公益 | public welfare |
+| 志愿者 | volunteer |
+| 生活质量 | quality of life |
+| 幸福感 | sense of happiness |
+| 覆盖 | cover |
+| 惠及 | benefit |
+| 改善 | improve |
+
+> **可套用句**
+> With the improvement of the social security system, more and more rural residents now have access to medical insurance and pension insurance.
+> （随着社会保障体系的完善，越来越多的农村居民现在能够享受医疗保险和养老保险。）
+
+### 4.5 生态与环境
+
+| 中文 | 英文 |
+|---|---|
+| 生态文明 | ecological civilization |
+| 碳中和 | carbon neutrality |
+| 碳达峰 | carbon peak |
+| 可再生能源 | renewable energy |
+| 太阳能 / 风能 | solar energy / wind energy |
+| 节能减排 | save energy and reduce emissions |
+| 污染治理 | pollution control |
+| 空气质量 | air quality |
+| 垃圾分类 | garbage sorting |
+| 植树造林 | afforestation |
+| 退耕还林 | return farmland to forest |
+| 绿水青山就是金山银山 | lucid waters and lush mountains are invaluable assets |
+| 生态保护 | ecological protection |
+| 生物多样性 | biodiversity |
+| 濒危物种 | endangered species |
+| 环保意识 | environmental awareness |
+| 低碳生活 | low-carbon lifestyle |
+| 排放 | emission |
+
+> **可套用句**
+> In recent years China has invested heavily in renewable energy, aiming to reach carbon peak by 2030 and carbon neutrality by 2060.
+> （近年来中国在可再生能源上投入巨大，目标是 2030 年前实现碳达峰、2060 年前实现碳中和。）
+
+### 4.6 体育与健康
+
+| 中文 | 英文 |
+|---|---|
+| 奥运会 | the Olympic Games |
+| 冬奥会 | the Winter Olympics |
+| 全民健身 | the national fitness campaign |
+| 体育强国 | a leading sporting nation |
+| 运动员 | athlete |
+| 金牌 | gold medal |
+| 夺冠 | win the championship |
+| 主办 | host |
+| 场馆 | venue |
+| 竞技体育 | competitive sports |
+| 团队精神 | team spirit |
+| 身心健康 | physical and mental health |
+| 饮食习惯 | eating habits |
+| 营养 | nutrition |
+
+> **可套用句**
+> Beijing is the first city in the world to have hosted both the Summer and the Winter Olympic Games.
+> （北京是世界上第一个既举办过夏季奥运会又举办过冬季奥运会的城市。）
+
+---
+
+## 第五章 高频动词与核心搭配
+
+前一章是"名词库"，这一章是"动词库"。四六级翻译真正的分水岭在这里：同一个"促进"，有人只会 promote，有人知道 facilitate、boost、give impetus to，差距不在词汇量，在于**搭配是否地道**。
+
+下面按语义功能分成八组，每条给出"中文短语—英文—搭配说明"。加粗的是最容易被写错介词的部分。
+
+### 5.1 起源、延续与变迁
+
+| 中文 | 英文 | 搭配说明 |
+|---|---|---|
+| 起源于 | originate **in** / derive **from** | originate in + 地点或时间；derive from 强调来源 |
+| 追溯到 | date back **to** / date **from** | 两者都接时间点，date back to 更常用 |
+| 有……年历史 | have a history of ... years | 也可写 with a history of |
+| 流传至今 | be handed down to this day | hand down 用被动 |
+| 代代相传 | be passed down from generation to generation | |
+| 兴盛于 | flourish **in** / reach its peak **in** | |
+| 衰落 | decline / fall into decline | |
+| 演变 | evolve **into** / develop **into** | |
+| 延续 | last / continue / persist | last 后直接接时间段 |
+| 消失 | disappear / vanish / die out | die out 用于习俗、物种 |
+
+### 5.2 促进、推动与阻碍
+
+| 中文 | 英文 | 搭配说明 |
+|---|---|---|
+| 促进 | promote / facilitate / boost | facilitate 后接抽象名词，最书面 |
+| 推动 | drive / push forward / give impetus to | |
+| 加快 | accelerate / speed up | |
+| 带动 | drive / stimulate | |
+| 推动……发展 | promote the development **of** | 注意介词 of |
+| 为……奠定基础 | lay the foundation **for** | |
+| 起重要作用 | play an important role **in** | 高频，必须记牢 |
+| 产生深远影响 | exert a profound influence **on** | exert ... on 是加分搭配 |
+| 阻碍 | hinder / hamper / stand in the way of | |
+| 限制 | restrict / limit | |
+
+### 5.3 象征、代表与体现
+
+| 中文 | 英文 | 搭配说明 |
+|---|---|---|
+| 象征 | symbolize / be a symbol **of** | |
+| 代表 | represent / be representative **of** | |
+| 体现 | embody / reflect / give expression to | |
+| 意味着 | mean / signify / imply | |
+| 被视为 | be regarded **as** / be seen **as** | 两个 as 都不能漏 |
+| 被誉为 | be hailed **as** / be acclaimed **as** | |
+| 被公认为 | be universally acknowledged **as** | |
+| 是……的象征 | be the symbol of | |
+
+### 5.4 吸引、流行与普及
+
+| 中文 | 英文 | 搭配说明 |
+|---|---|---|
+| 吸引 | attract / appeal **to** | appeal 必须带 to |
+| 深受……欢迎 | be popular **with** / be well received **by** | popular with 是固定搭配 |
+| 广受欢迎 | be widely welcomed / enjoy great popularity | |
+| 普及 | become widespread / gain popularity | 不要用 be popularized 硬译 |
+| 流行 | be in fashion / be prevalent | |
+| 风靡 | take ... by storm | 高级表达，慎用 |
+| 引起关注 | attract / draw attention | |
+| 受到青睐 | be favored **by** | |
+
+### 5.5 提高、改善与增强
+
+| 中文 | 英文 | 搭配说明 |
+|---|---|---|
+| 提高 | improve / enhance / raise | improve 水平，raise 数量，enhance 抽象品质 |
+| 提升地位 | raise the status | |
+| 改善 | improve / better | |
+| 增强 | strengthen / enhance | |
+| 扩大 | expand / enlarge | expand 范围，enlarge 体积 |
+| 增加 | increase / add | |
+| 减少 | reduce / decrease / cut down | |
+| 缓解 | ease / relieve / alleviate | |
+| 满足需求 | meet / satisfy the demand | |
+| 保证 | ensure / guarantee | ensure 后接从句或名词 |
+
+### 5.6 保护、传承与开发
+
+| 中文 | 英文 | 搭配说明 |
+|---|---|---|
+| 保护 | protect / preserve / conserve | preserve 用于文化遗产，conserve 用于资源 |
+| 传承 | inherit and carry forward / pass down | 中式固定译法 |
+| 弘扬 | carry forward / promote | |
+| 修复 | restore / renovate | restore 文物，renovate 建筑 |
+| 开发 | develop / exploit | exploit 带贬义，慎用 |
+| 利用 | make use **of** / utilize | |
+| 保存完好 | be well preserved | |
+| 列入名录 | be inscribed **on** the list | 世遗标准说法 |
+| 濒临失传 | be on the verge **of** extinction | |
+
+### 5.7 位置、构成与数量
+
+| 中文 | 英文 | 搭配说明 |
+|---|---|---|
+| 位于 | be located **in** / lie **in** / be situated **at** | |
+| 占地 | cover an area **of** | |
+| 由……组成 | consist **of** / be composed **of** / be made up **of** | 三个 of 都不能丢 |
+| 分为 | be divided **into** | |
+| 占……比例 | account **for** / make up | account for 是高频搭配 |
+| 多达 | as many as / as much as | 可数用 many |
+| 不少于 | no less than | |
+| 大约 | approximately / around | |
+| 增长……倍 | increase ... times / grow by ... percent | |
+| 位居第…… | rank ... (in the world) | |
+| 平均 | on average | |
+
+### 5.8 评价、比较与关联
+
+| 中文 | 英文 | 搭配说明 |
+|---|---|---|
+| 以……闻名 | be famous **for** / be renowned **for** | famous for 是"因某特点"，famous as 是"作为某身份" |
+| 与……相似 | be similar **to** | |
+| 不同于 | be different **from** / differ **from** | |
+| 优于 | be superior **to** | 不能用 than |
+| 相比 | compared **with** / in comparison **with** | |
+| 取决于 | depend **on** / hinge **on** | |
+| 归功于 | be attributed **to** / owe ... **to** | |
+| 与……密切相关 | be closely related **to** | |
+| 有利于 | be beneficial **to** / be conducive **to** | conducive to 是高分搭配 |
+| 适应 | adapt **to** / adjust **to** | |
+
+---
+
+## 第六章 万能短语与连接手段
+
+中文靠意合，英文靠形合。这一章解决的是"句子之间怎么接"——很多译文读起来像一堆断句，问题全在这里。
+
+### 6.1 开头铺垫：把背景交代清楚
+
+| 功能 | 英文表达 |
+|---|---|
+| 随着……的发展 | With the development of ... |
+| 在……的背景下 | Against the background of ... |
+| 近年来 | In recent years / Over the past few years |
+| 自古以来 | Since ancient times |
+| 在中国历史上 | In Chinese history |
+| 作为……的一部分 | As part of ... |
+| 提到……，人们往往会想到 | When it comes to ..., people tend to think of ... |
+| ……有着悠久的历史 | ... has a long history |
+| ……是中国文化的重要组成部分 | ... is an important part of Chinese culture |
+
+### 6.2 逻辑连接：六类关系各记两个
+
+| 关系 | 表达 |
+|---|---|
+| 递进 | moreover / in addition / what is more / furthermore |
+| 因果 | therefore / as a result / consequently / thus |
+| 转折 | however / nevertheless / on the other hand / whereas |
+| 举例 | for example / for instance / such as / take ... as an example |
+| 让步 | although / even though / despite / in spite of |
+| 总结 | in short / in a word / to sum up / all in all |
+
+> **提醒**：连接词不是越多越好。一段 150 词的译文里放三到四个连接词就够了，堆砌反而显得生硬。真正的连贯靠的是**代词指代**和**同义替换**，比如前句说 the festival，后句用 it / this occasion / the celebration 承接。
+
+### 6.3 程度与范围：让表达更精确
+
+| 中文 | 英文 |
+|---|---|
+| 之一 | one of the + 最高级 + 复数名词 |
+| 大多数 | most of / the majority of |
+| 相当一部分 | a considerable number of |
+| 越来越多的 | a growing number of / an increasing number of |
+| 不少于 / 多达 | no less than / as many as |
+| 几乎全部 | almost all |
+| 仅少数 | only a small proportion of |
+| 从……到……不等 | range from ... to ... |
+| 在……方面 | in terms of / in the field of |
+| 就……而言 | as far as ... is concerned |
+
+### 6.4 数据表达：增长、下降、占比、排名
+
+| 中文 | 英文 |
+|---|---|
+| 增长了 20% | increase by 20% |
+| 增长到 20% | increase to 20% |
+| 达到…… | reach / amount to / stand at |
+| 下降了…… | decrease by ... / drop by ... |
+| 占比…… | account for ... percent |
+| 是……的两倍 | be twice as much as / double |
+| 位居世界第一 | rank first in the world |
+| 平均每人 | per capita |
+| 据统计 | according to statistics |
+| 数据显示 | statistics show that / data indicate that |
+
+> **注意**："增长了"用 increase **by**，"增长到"用 increase **to**。这两个介词写反是四六级翻译最常见的数字错误之一。
+
+### 6.5 结尾升华：三种收束方式
+
+| 方式 | 例句 |
+|---|---|
+| 总结意义 | In short, it is not only a tradition but also a bond that ties the nation together. |
+| 展望未来 | With joint efforts, it will continue to play a greater role in the years to come. |
+| 强调价值 | Its value lies not in its form but in the spirit it carries. |
+
+---
+
+## 第七章 可套用的 20 个固定句式
+
+这是整本手册最该反复过的一章。四六级翻译的句子虽然千变万化，但底层句式就那么二十来个。**把模板练到条件反射，考场上就能把注意力省下来想词汇。**
+
+### 7.1 无主句 —— 三种补法
+
+中文大量句子没有主语，英文必须有。三种处理方式按场景选：
+
+**模板 A（存在句）**：`There be + 名词 + 地点/范围状语`
+> **原句** 中国有许多传统节日。
+>
+> **译文** There are many traditional festivals in China.
+
+**模板 B（补主语）**：`We / People / The Chinese people + 动词`
+> **原句** 通常在春节期间吃饺子和鱼。
+>
+> **译文** People usually eat dumplings and fish during the Spring Festival.
+
+**模板 C（转被动）**：`主语 + be + 过去分词`
+> **原句** 每年都举办龙舟比赛。
+>
+> **译文** Dragon boat races are held every year.
+
+> **选法**：说"存在什么"用 A；说"人们做什么"用 B；说"什么东西被怎么样"用 C。C 最稳，因为中文的"人们""大家""我们"译成被动永远不会错。
+
+### 7.2 强调句 —— "是……的"
+
+**模板**：`It is / was + 被强调部分 + that / who + 其余部分`
+> **原句** 正是在这一时期，中国出现了第一批城市。
+>
+> **译文** It was during this period that the first cities appeared in China.
+
+> **提示**：中文的"正是……""就是……才……"最适合用这个句式。注意被强调部分是时间或地点时，只能用 that，不能用 when 或 where。
+
+### 7.3 据说、相传、据记载
+
+**模板**：`It is said / believed / reported / recorded that + 从句`
+> **原句** 相传，端午节起源于纪念诗人屈原。
+>
+> **译文** It is said that the Dragon Boat Festival originated as a way to commemorate the poet Qu Yuan.
+
+其他同族表达：`Legend has it that ...`（传说）、`According to historical records, ...`（据史料记载）。
+
+### 7.4 "……之一"
+
+**模板**：`one of the + 最高级 + 复数名词`
+> **原句** 长城是世界上最伟大的建筑之一。
+>
+> **译文** The Great Wall is one of the greatest architectural wonders in the world.
+
+> **必查**：one of 后面的名词**必须是复数**。这是最高频的低级错误，写完后专门扫一眼。
+
+### 7.5 "不仅……而且……"（含倒装升级版）
+
+**基础版**：`not only ... but also ...`
+> **原句** 茶不仅是一种饮品，也是一种文化。
+>
+> **译文** Tea is not only a drink but also a culture.
+
+**升级版（not only 置于句首时倒装）**：
+> **译文** Not only is tea a drink, but it is also a culture.
+
+> **提示**：倒装版风险高，改动一个词序就可能出错。基础版写对了同样是 13 分档次，不必冒险。
+
+### 7.6 "随着……"
+
+**模板**：`With the + 名词短语, 主句`
+> **原句** 随着经济的发展，人们的生活水平不断提高。
+>
+> **译文** With the development of the economy, people's living standards have kept improving.
+
+> **提示**：with 后面只能接名词或名词短语，不能接句子。想接句子就用 `As the economy develops, ...`。这一条几乎每年都有人写错。
+
+### 7.7 因果 —— "由于、得益于、因此"
+
+| 关系 | 模板 | 例句 |
+|---|---|---|
+| 原因（中性） | Due to / Owing to + 名词 | Due to its mild climate, the city attracts many tourists. |
+| 原因（积极） | Thanks to + 名词 | Thanks to the new policy, rural education has improved greatly. |
+| 原因（从句） | Because / Since + 从句 | Since it is convenient, mobile payment is widely used. |
+| 结果 | Therefore / As a result, + 主句 | As a result, the number of visitors has doubled. |
+
+> **提示**：due to / owing to / thanks to 都是介词短语，后面**只能接名词**。接从句要换成 because / since / as。
+
+### 7.8 "使……能够""使得"
+
+**模板 A**：`enable / allow sb. to do sth.`
+> **原句** 高铁使人们能够在一天之内往返于两座城市。
+>
+> **译文** High-speed trains enable people to travel between two cities within a single day.
+
+**模板 B**：`make it possible for sb. to do sth.`
+> **译文** High-speed trains make it possible for people to travel between two cities within a single day.
+
+**模板 C**：`lead to / result in + 名词`
+> **原句** 这导致了严重的环境污染。
+>
+> **译文** This has led to serious environmental pollution.
+
+### 7.9 "越来越……"
+
+**三种写法，按难度排序**：
+> **①** more and more + 形容词（最稳）→ more and more popular
+>
+> **②** increasingly + 形容词 → increasingly popular
+>
+> **③** a growing number of + 可数名词复数 → a growing number of people
+
+> **原句** 越来越多的年轻人开始学习书法。
+>
+> **译文** A growing number of young people are beginning to learn calligraphy.
+
+### 7.10 "被公认为""被誉为"
+
+| 中文 | 英文 |
+|---|---|
+| 被誉为 | be hailed as / be acclaimed as / be honored as |
+| 被公认为 | be universally acknowledged as / be widely recognized as |
+| 被视为 | be regarded as / be seen as / be considered as |
+| 被列为 | be listed as / be inscribed on the list of |
+
+> **原句** 他被公认为中国最伟大的诗人之一。
+>
+> **译文** He is widely recognized as one of the greatest poets in China.
+
+### 7.11 追溯 —— "起源于""可追溯到"
+
+**模板**：`date back to / date from + 时间点`　`originate in + 地点`
+> **原句** 这一习俗可以追溯到两千多年前。
+>
+> **译文** This custom can be traced back to more than two thousand years ago.
+
+> **提示**：date back to 本身已含"追溯到"的意思，不用再加 can be traced，两种写法二选一即可。
+
+### 7.12 位置 —— "位于""坐落于""占地"
+
+**模板**：`be located in / lie in + 地点`；`cover an area of + 数字 + square kilometers`
+> **原句** 该市位于中国东部沿海，占地面积约八千平方公里。
+>
+> **译文** The city is located on the east coast of China, covering an area of about 8,000 square kilometers.
+
+> **提示**：中文的"位于……沿海"用 on the coast，不用 in；"位于……省"用 in。
+
+### 7.13 占比 —— "占……比例"
+
+**模板**：`account for / make up / constitute + 百分比`
+> **原句** 服务业占国内生产总值的一半以上。
+>
+> **译文** The service sector accounts for more than half of GDP.
+
+### 7.14 闻名 —— "以……闻名"
+
+**模板**：`be famous / well-known / renowned for + 特点`；`be known as + 身份`
+> **原句** 杭州以西湖闻名于世。
+>
+> **译文** Hangzhou is renowned worldwide for the West Lake.
+
+### 7.15 范围 —— "从……到……不等"
+
+**模板**：`range from A to B` / `vary from A to B`
+> **原句** 中国菜的口味从清淡到辛辣不等。
+>
+> **译文** The flavors of Chinese dishes range from mild to spicy.
+
+### 7.16 数据引用 —— "据统计""数据显示"
+
+| 中文 | 英文 |
+|---|---|
+| 据统计 | According to statistics, |
+| 数据显示 | Statistics show that / Data indicate that |
+| 调查表明 | A survey shows that |
+| 据估计 | It is estimated that |
+
+> **原句** 据统计，中国目前有超过四亿人学习英语。
+>
+> **译文** According to statistics, more than 400 million people in China are now learning English.
+
+### 7.17 "无论……都……"
+
+**模板**：`No matter + 疑问词 + 从句, 主句`　/　`Whatever / Whoever / Wherever + 从句, 主句`
+> **原句** 无论走到哪里，中国人都不会忘记春节。
+>
+> **译文** No matter where they go, Chinese people never forget the Spring Festival.
+
+### 7.18 "只有……才……"（倒装）
+
+**模板**：`Only + 状语 + 助动词 + 主语 + 动词`
+> **原句** 只有保护好环境，我们才能实现可持续发展。
+>
+> **译文** Only by protecting the environment can we achieve sustainable development.
+
+> **提示**：Only 引导状语放句首时，主句必须部分倒装——把助动词提到主语前。这是六级常考的加分句式，但也是翻车率最高的一个，不确定就改成 `We can achieve sustainable development only by protecting the environment.`
+
+### 7.19 "为……提供""给……带来"
+
+| 中文 | 英文 |
+|---|---|
+| 为……提供 | provide sb. **with** sth. / provide sth. **for** sb. / offer sth. **to** sb. |
+| 给……带来 | bring ... **to** / bring about |
+| 为……创造条件 | create conditions **for** |
+| 为……树立榜样 | set an example **for** |
+
+> **原句** 这项政策为农村学生提供了更多机会。
+>
+> **译文** This policy provides rural students with more opportunities.
+
+> **提示**：provide 的两种搭配不能混用。`provide sb. with sth.` 和 `provide sth. for sb.` 都对，但 `provide sb. sth.` 是错的。
+
+### 7.20 "有助于""有利于"
+
+| 中文 | 英文 | 语域 |
+|---|---|---|
+| 有助于 | help to / contribute to / be conducive to | 后两个更书面 |
+| 有利于 | be beneficial to / be favorable to | |
+| 有益于健康 | be good for health | |
+
+> **原句** 适度运动有助于身心健康。
+>
+> **译文** Moderate exercise contributes to both physical and mental health.
+
+> **提示**：contribute to 和 be conducive to 后面接**名词或动名词**，不能接动词原形。`contribute to improve` 是典型错误，应为 `contribute to improving`。
+
+---
+
+## 第八章 中国特色表达怎么处理
+
+背完词，真正的难点才出现：中文里那些英文没有对应形式的东西——四字格、无主句、流水句、虚数、专有名词。这一章给六种可操作的策略，每种的背后都是"**先拆义、再组句**"这一个原则。
+
+### 8.1 四字格：砍掉修饰，只留核心
+
+四字格是四六级翻译的头号障碍，但它的处理逻辑极其简单：**四个字里通常只有两个字是信息，另两个是修辞**。
+
+| 四字格 | 拆义 | 英译 |
+|---|---|---|
+| 历史悠久 | 历史 + 久 | have a long history |
+| 风景优美 | 风景 + 美 | have beautiful scenery |
+| 举世闻名 | 全世界 + 闻名 | be world-famous |
+| 丰富多彩 | 丰富 + 多彩 | rich and varied |
+| 博大精深 | 广博 + 深奥 | extensive and profound |
+| 独一无二 | 唯一 | unique |
+| 络绎不绝 | 人不断 | a continuous stream of visitors |
+| 川流不息 | 车/人不断 | flow in an endless stream |
+| 因地制宜 | 按当地条件 | adapt to local conditions |
+| 精益求精 | 追求更好 | strive for perfection |
+
+**两种情况分开处理**：
+
+- **并列型**（丰富多样、山清水秀）→ 用 and 连接两个形容词：`rich and diverse`、`beautiful mountains and clear waters`
+- **偏正型**（历史悠久、技术先进）→ 译成 `have + 形容词 + 名词` 或 `with + 名词`：`with a long history`、`with advanced technology`
+
+> **原句** 这座古城历史悠久，风景优美。
+>
+> **译文** This ancient city has a long history and beautiful scenery.
+>
+> **而不是** This ancient city's history is long and its scenery is beautiful.（语法没错，但读起来像小学生作文）
+
+### 8.2 无主句：三种补法（见 7.1）
+
+补充一个易错点：中文的"有"字句，不能一律译成 have。
+
+| 中文 | 错译 | 正译 |
+|---|---|---|
+| 中国有 56 个民族 | China has 56 ethnic groups.（其实可以，但不如 there be 自然） | There are 56 ethnic groups in China. |
+| 这座山上有座庙 | The mountain has a temple. | There is a temple on the mountain. |
+| 近年来出现了新趋势 | Recent years have appeared a new trend. | A new trend has emerged in recent years. |
+
+规律：**"某地有某物"用 there be，"某人拥有某物"才用 have**。
+
+### 8.3 流水句：先找主干，再挂配件
+
+中文一个句号里可以塞五个动作，英文必须有一个主句。处理步骤：
+
+1. 找出**最主要的那件事**，把它写成主句
+2. 其余动作用三种方式挂上去：**分词短语**、**定语从句**、**with 独立结构**
+
+**原文**：这座城市依山傍水，气候宜人，吸引了大量游客前来观光。
+
+**第一步**：主干是"城市吸引游客"→ `The city attracts a large number of tourists.`
+**第二步**：把"依山傍水""气候宜人"改成修饰成分
+
+> **译文** Nestled between hills and water and blessed with a pleasant climate, the city attracts a large number of tourists.
+>
+> **另一种** The city, which is nestled between hills and water and enjoys a pleasant climate, attracts a large number of tourists.
+
+三种挂法的使用场景：
+
+| 挂法 | 适用 | 例句 |
+|---|---|---|
+| 分词短语（前置） | 表示原因、状态、伴随 | **Located on the coast**, the city enjoys a mild climate. |
+| 定语从句（后置） | 补充说明特征 | The book, **which was written in the Tang Dynasty**, is still popular. |
+| with 结构 | 表示伴随状况 | The park is beautiful, **with lakes and pavilions scattered around**. |
+
+> **加分点**：一段译文里出现一到两个分词前置结构，句式立刻从"平铺"变成"有层次"，这是 13 分档和 10 分档的常见差别。
+
+### 8.4 数字、年代与虚数
+
+| 类型 | 中文 | 英文 |
+|---|---|---|
+| 确数 | 五千多年 | more than 5,000 years |
+| 约数 | 约 / 大约 | about / around / approximately |
+| 上下 | 一百人左右 | about one hundred people |
+| 虚数 | 成千上万 | tens of thousands of |
+| 虚数 | 数以百计 | hundreds of |
+| 虚数 | 三三两两 | in twos and threes |
+| 年代 | 20 世纪 80 年代 | the 1980s / the 1980s |
+| 世纪 | 公元前 221 年 | 221 BC |
+| 朝代年 | 唐朝（618—907） | the Tang Dynasty (618–907) |
+
+> **虚数陷阱**：中文的"三""九""百""千"常常不是实数。"三思而后行"不能译成 think three times。遇到"三番五次""九牛一毛""十万八千里"这类，一律意译：`time and again`、`a drop in the bucket`、`a world of difference`。
+
+### 8.5 专有名词：三条命名规则
+
+| 规则 | 说明 | 示例 |
+|---|---|---|
+| 音译 + 意译组合 | 地名通名意译，专名音译 | 长江 the Yangtze River；黄河 the Yellow River |
+| 已成固定译名 | 直接背，不要自己造 | 故宫 the Palace Museum；兵马俑 the Terracotta Warriors |
+| 文化专有词 | 音译后加括号解释 | 气 qi (vital energy)；太极 Tai Chi (taijiquan) |
+
+四条硬性格式要求：
+
+- 专有名词**首字母大写**：the Silk Road、the Ming Dynasty
+- 独一无二的事物前**加 the**：the Great Wall、the Yellow River
+- **不加 the** 的情况：人名、城市名、省份名、山峰（Mount Tai）
+- 朝代名标准格式：`the + 朝代 + Dynasty`，如 the Qing Dynasty
+
+### 8.6 文化专有概念：解释性翻译
+
+有些词英文里根本没有对应物，硬译会让人看不懂。三种处理：
+
+| 策略 | 适用 | 示例 |
+|---|---|---|
+| 音译 + 简短解释 | 独一无二的文化概念 | 阴阳 yin and yang, two opposing forces in nature |
+| 功能对等 | 有相似物但不同 | 饺子 dumplings（不译 jiaozi，除非上下文需要） |
+| 直译 + 意译并用 | 需要保留意象 | 纸老虎 a paper tiger |
+
+> **原句** 中医强调阴阳平衡。
+>
+> **译文** Traditional Chinese medicine emphasizes the balance between yin and yang.
+
+> **原句** 春节时人们会贴春联。
+>
+> **译文** During the Spring Festival, people put up Spring Festival couplets.
+
+### 8.7 成语、谚语与诗句
+
+原则只有一条：**能意译就意译，绝不逐字直译**。四六级不考文学性，考的是意思传达。
+
+| 中文 | 推荐译法 | 不要这样译 |
+|---|---|---|
+| 熟能生巧 | Practice makes perfect. | Skill comes from familiar. |
+| 饮水思源 | Never forget where your happiness comes from. | When drinking water, think of its source. |
+| 千里之行，始于足下 | A journey of a thousand miles begins with a single step. | 直译虽可，但不如固定译法稳妥 |
+| 一举两得 | achieve two things at once | one action two gains |
+| 各有所长 | Each has its own strengths. | Every has its own long. |
+
+> **保底策略**：遇到完全没把握的成语，**跳过修饰、只译核心意思**。比如"这座园林巧夺天工"，不会译 art beats nature，就写 `This garden is extremely exquisite.` —— 拿分，不出错。
+
+### 8.8 中式英语的八个高频雷区
+
+| 雷区 | 错误写法 | 正确写法 |
+|---|---|---|
+| 词性误用 | This city is very **beautifully**. | This city is very **beautiful**. |
+| 动词误加 to | make people **to** improve / let it **to** grow | make people improve / let it grow |
+| 冠词缺失 | **Ancient China** was a agricultural country. | Ancient China was **an** agricultural country. |
+| 复数漏加 | one of the greatest **building** | one of the greatest **buildings** |
+| 介词错配 | **in** the coast | **on** the coast |
+| 时态混用 | The festival **is** originated in... | The festival **originated** in... |
+| 逗号连句 | It is convenient, **people like it**. | It is convenient, **so people like it**. |
+| 主谓不一致 | The number of visitors **have** increased. | The number of visitors **has** increased. |
+
+> **最后一条尤其隐蔽**：`the number of + 复数名词` 作主语时，谓语用**单数**；`a number of + 复数名词` 作主语时，谓语用**复数**。这是四六级翻译和写作共同的考点。
+
+---
+
+## 第九章 高频错误清单：写完必查的 20 条
+
+下面这 20 条，是按"扣分频率"排序的。翻译写完后花三分钟逐条扫一遍，通常能挽回 1—2 分。
+
+### 9.1 语法类（扣分最重）
+
+| # | 检查项 | 典型错误 | 修正 |
+|---|---|---|---|
+| 1 | 主谓一致 | The number of ... have | The number of ... has |
+| 2 | 时态 | 讲历史用现在时 | 历史用过去时，现状用现在时 |
+| 3 | 单复数 | one of the greatest building | one of the greatest buildings |
+| 4 | 冠词 | 可数名词单数裸奔 | 加 a / an / the |
+| 5 | 被动语态结构 | be originate in | originate in（不及物，无被动） |
+| 6 | 两个完整句用逗号连 | ..., people like it. | ..., so people like it. |
+| 7 | 悬垂分词 | Walking in the park, the flowers were beautiful. | Walking in the park, **I found** the flowers beautiful. |
+| 8 | 词性 | very beautifully（作表语） | very beautiful |
+
+> **关于第 5 条**：`originate`、`date back`、`consist of`、`lie in`、`belong to`、`exist`、`happen` 都是**不及物动词，没有被动语态**。写成 `is originated in` 是硬伤。
+
+### 9.2 搭配类（最容易被忽略）
+
+| # | 检查项 | 典型错误 | 修正 |
+|---|---|---|---|
+| 9 | provide 搭配 | provide people more chances | provide people **with** more chances |
+| 10 | contribute to | contribute to improve | contribute to **improving** |
+| 11 | famous for / as | be famous as its scenery | be famous **for** its scenery |
+| 12 | 比较级 | superior than | superior **to** |
+| 13 | 数量介词 | increase to 20%（想说"增长了"） | increase **by** 20% |
+| 14 | 时间介词 | in the Spring Festival | **during** the Spring Festival |
+| 15 | with 后接从句 | With the economy develops | With the **development of** the economy |
+
+### 9.3 内容类（决定档次）
+
+| # | 检查项 | 说明 |
+|---|---|---|
+| 16 | 有没有漏译 | 逐句核对，特别是括号里的补充说明 |
+| 17 | 有没有自行添加 | 不要为了"显得文采好"加原文没有的内容，会扣准确度分 |
+| 18 | 数字与单位是否一致 | 平方公里、米、百分比，别把数字抄错 |
+| 19 | 专有名词大小写 | the Tang Dynasty、the Great Wall |
+| 20 | 是否有整句未译 | 最难的那句往往被悄悄跳过，专门回头找一遍 |
+
+---
+
+## 第十章 实战：五篇真题式段落
+
+每篇给"原文—拆解—译文—亮点"四步。建议先自己译一遍，再对照拆解表看主干抓得对不对，最后对照译文看句式够不够。
+
+### 10.1 练习一：春节（文化类）
+
+**原文**：
+春节是中国最重要的传统节日，通常在农历正月初一。节前，人们会打扫房屋、贴春联、准备年货。除夕夜，全家人围坐在一起吃年夜饭，许多人还会守岁到深夜。春节期间，人们走亲访友，互相拜年，长辈会给孩子们发红包。近年来，越来越多的外国人也开始参与春节庆祝活动。
+
+**逐句拆解**：
+
+| 中文句 | 主干 | 处理要点 |
+|---|---|---|
+| 春节是……节日，通常在农历正月初一 | The Spring Festival is ..., which usually falls on ... | 用 which 从句挂时间 |
+| 节前，人们会打扫房屋、贴春联、准备年货 | Before the festival, people clean ..., put up ..., and prepare ... | 三个动词并列，注意 put up 的搭配 |
+| 除夕夜，全家人围坐在一起吃年夜饭 | On New Year's Eve, the whole family sits together and has ... | 用 on 不用 in |
+| 许多人还会守岁到深夜 | Many stay up late | 简化处理即可 |
+| 春节期间，人们走亲访友，互相拜年 | During the festival, people visit relatives and friends and extend greetings | 两个 and 会重复，改用 exchanging greetings |
+| 长辈会给孩子们发红包 | Elders give children red envelopes | give sb. sth. 双宾语 |
+| 近年来，越来越多的外国人也开始参与 | In recent years, a growing number of foreigners have begun to ... | a growing number of 加分 |
+
+> **参考译文**
+> The Spring Festival, the most important traditional festival in China, usually falls on the first day of the first lunar month. Before the festival, people clean their houses, put up Spring Festival couplets and prepare festival goods. On New Year's Eve, the whole family sits together to have the reunion dinner, and many people stay up late. During the festival, people visit relatives and friends, exchanging New Year greetings, and elders give children red envelopes. In recent years, a growing number of foreigners have also begun to take part in the celebrations.
+
+**亮点**：同位语前置（the most important traditional festival）、现在分词作伴随（exchanging）、a growing number of。
+
+### 10.2 练习二：茶文化（文化类）
+
+**原文**：
+茶是中国人日常生活中不可缺少的一部分。中国是茶的故乡，饮茶的历史可以追溯到几千年前。唐代以后，饮茶之风逐渐普及，茶成为文人雅士喜爱的饮品。中国茶分为绿茶、红茶、乌龙茶等多个种类，每种茶都有独特的风味。如今，茶不仅在中国广受欢迎，也传播到了世界各地。
+
+**逐句拆解**：
+
+| 中文句 | 主干 | 处理要点 |
+|---|---|---|
+| 茶是……不可缺少的一部分 | Tea is an indispensable part of ... | indispensable 是高分词 |
+| 中国是茶的故乡 | China is the hometown of tea | 简洁即可 |
+| 饮茶的历史可以追溯到几千年前 | The history of tea drinking dates back ... | date back to |
+| 唐代以后，饮茶之风逐渐普及 | After the Tang Dynasty, tea drinking gradually became widespread | 不要用 be popularized |
+| 茶成为文人雅士喜爱的饮品 | Tea became a favorite drink of scholars | 简化"文人雅士"为 scholars |
+| 中国茶分为……多个种类 | Chinese tea falls into several categories such as ... | fall into 比 be divided into 更自然 |
+| 每种茶都有独特的风味 | Each has its own distinctive flavor | |
+| 如今，茶不仅在中国广受欢迎，也传播到了世界各地 | Today, tea is not only popular in China but has also spread ... | not only ... but also |
+
+> **参考译文**
+> Tea is an indispensable part of Chinese daily life. China is the hometown of tea, and the history of tea drinking can be traced back to thousands of years ago. After the Tang Dynasty, tea drinking gradually became widespread, and tea became a favorite drink of scholars. Chinese tea falls into several categories such as green tea, black tea and oolong tea, each with its own distinctive flavor. Today, tea is not only popular in China but has also spread to the rest of the world.
+
+**亮点**：each with its own... （独立结构）、can be traced back to、falls into。
+
+### 10.3 练习三：高铁（科技类）
+
+**原文**：
+中国高铁的发展始于 21 世纪初。经过二十多年的建设，中国已建成世界上规模最大的高速铁路网，运营里程超过四万公里。高铁大大缩短了城市之间的出行时间，使人们能够在一天之内往返于相距上千公里的两座城市。高铁不仅方便了人们的出行，也促进了沿线地区的经济发展。
+
+**逐句拆解**：
+
+| 中文句 | 主干 | 处理要点 |
+|---|---|---|
+| 中国高铁的发展始于 21 世纪初 | The development of China's high-speed rail began in the early 21st century | 时间状语用 in |
+| 经过二十多年的建设，中国已建成……网 | After more than 20 years of construction, China has built ... | 用完成时 |
+| 运营里程超过四万公里 | with over 40,000 kilometers in operation | with 结构挂数据 |
+| 高铁大大缩短了……时间 | High-speed rail has greatly shortened the travel time between cities | |
+| 使人们能够…… | enabling people to travel ... | 现在分词表结果，高级 |
+| 高铁不仅方便了出行，也促进了……发展 | It has not only made travel easier but also boosted ... | boost 比 promote 更地道 |
+
+> **参考译文**
+> The development of China's high-speed rail began in the early 21st century. After more than 20 years of construction, China has built the world's largest high-speed rail network, with over 40,000 kilometers in operation. High-speed rail has greatly shortened the travel time between cities, enabling people to travel between cities hundreds of kilometers apart within a single day. It has not only made travel more convenient but also boosted the economic development of the regions along the lines.
+
+**亮点**：with 结构补数据、enabling 分词表结果、boost 替换 promote。
+
+### 10.4 练习四：教育（社会类）
+
+**原文**：
+中国有重视教育的传统。早在两千多年前，孔子就提出了"有教无类"的思想。如今，中国实行九年义务教育，适龄儿童入学率接近百分之百。高考是中国最重要的考试之一，每年有上千万学生参加。近年来，政府不断加大对农村教育的投入，努力缩小城乡教育差距。
+
+**逐句拆解**：
+
+| 中文句 | 主干 | 处理要点 |
+|---|---|---|
+| 中国有重视教育的传统 | China has a tradition of valuing education | value 作动词 |
+| 早在两千多年前，孔子就提出了……思想 | As early as ..., Confucius put forward the idea that ... | put forward 是固定搭配 |
+| "有教无类" | education should be available to all | 意译，绝不直译 |
+| 中国实行九年义务教育 | China provides nine years of compulsory education | |
+| 入学率接近百分之百 | the enrollment rate is close to 100 percent | |
+| 高考是……最重要的考试之一 | The gaokao is one of the most important exams | one of + 最高级 + 复数 |
+| 每年有上千万学生参加 | with over ten million students taking it each year | with + 独立结构 |
+| 政府不断加大投入 | The government has kept increasing investment in ... | |
+| 努力缩小城乡差距 | in an effort to narrow the gap between urban and rural areas | narrow the gap |
+
+> **参考译文**
+> China has a tradition of valuing education. As early as more than two thousand years ago, Confucius put forward the idea that education should be available to all. Today, China provides nine years of compulsory education, and the enrollment rate of school-age children is close to 100 percent. The national college entrance examination, or gaokao, is one of the most important exams in China, with over ten million students taking it every year. In recent years, the government has kept increasing investment in rural education in an effort to narrow the gap between urban and rural areas.
+
+**亮点**：value 作动词、in an effort to、with 独立结构。
+
+### 10.5 练习五：生态文明（环保类）
+
+**原文**：
+过去几十年，中国经济快速发展，但也付出了环境代价。近年来，中国政府把生态文明建设放在突出位置，采取了一系列措施治理污染。如今，许多城市的空气质量明显改善，森林覆盖率持续提高。中国还承诺在 2030 年前实现碳达峰、2060 年前实现碳中和，为全球应对气候变化作出贡献。
+
+**逐句拆解**：
+
+| 中文句 | 主干 | 处理要点 |
+|---|---|---|
+| 经济快速发展，但也付出了环境代价 | China's economy has grown rapidly, but at the cost of the environment | at the cost of 高级搭配 |
+| 把生态文明建设放在突出位置 | give priority to ecological progress | give priority to 固定搭配 |
+| 采取了一系列措施治理污染 | has taken a series of measures to control pollution | |
+| 空气质量明显改善 | air quality has improved noticeably | |
+| 森林覆盖率持续提高 | forest coverage has kept rising | |
+| 承诺在 2030 年前实现碳达峰 | has pledged to peak carbon emissions by 2030 | by + 时间表示"截至" |
+| 为全球应对气候变化作出贡献 | contributing to the global response to climate change | 分词表结果 |
+
+> **参考译文**
+> Over the past few decades, China's economy has grown rapidly, but at the cost of the environment. In recent years, the Chinese government has given priority to ecological progress and taken a series of measures to control pollution. Today, air quality in many cities has improved noticeably and forest coverage has kept rising. China has also pledged to peak carbon emissions by 2030 and achieve carbon neutrality by 2060, contributing to the global response to climate change.
+
+**亮点**：at the cost of、give priority to、pledged to ... by、contributing 分词收尾。
+
+---
+
+## 附录 A 考前七天的背诵安排
+
+| 天 | 内容 | 时间 |
+|---|---|---|
+| 第 1 天 | 第二章 2.1—2.4（节日、民俗、艺术、思想） | 60 分钟 |
+| 第 2 天 | 第二章 2.5—2.8（建筑、饮食、中医、文学） | 60 分钟 |
+| 第 3 天 | 第三章 + 第五章 5.1—5.4 | 60 分钟 |
+| 第 4 天 | 第四章全部（当代题材，考频最高） | 80 分钟 |
+| 第 5 天 | 第五章 5.5—5.8 + 第六章 | 60 分钟 |
+| 第 6 天 | 第七章 20 个句式，每个抄两个例句 | 90 分钟 |
+| 第 7 天 | 第八章策略 + 第十章五篇实战，每篇限时 25 分钟 | 120 分钟 |
+
+> **背诵方法**：不要只念单词表。每个词配一个最短的句子一起记，比如记 preserve 的同时记 `The government has taken steps to preserve the old town.` 有句子的词才用得出来。
+
+## 附录 B 自测：四十个中译英
+
+遮住右列，先自己写，再对照。写不出来的就是明天的复习重点。
+
+| # | 中文 | 英文 |
+|---|---|---|
+| 1 | 春节 | the Spring Festival |
+| 2 | 贴春联 | put up Spring Festival couplets |
+| 3 | 守岁 | stay up late on New Year's Eve |
+| 4 | 清明节 | the Qingming Festival |
+| 5 | 赛龙舟 | hold dragon boat races |
+| 6 | 赏月 | admire the full moon |
+| 7 | 剪纸 | paper-cutting |
+| 8 | 非物质文化遗产 | intangible cultural heritage |
+| 9 | 京剧 | Peking Opera |
+| 10 | 书法 | calligraphy |
+| 11 | 儒家思想 | Confucianism |
+| 12 | 天人合一 | harmony between man and nature |
+| 13 | 四合院 | courtyard house |
+| 14 | 榫卯结构 | mortise-and-tenon structure |
+| 15 | 八大菜系 | the eight major cuisines |
+| 16 | 色香味俱全 | appealing in color, aroma and taste |
+| 17 | 针灸 | acupuncture and moxibustion |
+| 18 | 望闻问切 | observation, listening and smelling, inquiry and pulse taking |
+| 19 | 唐诗 | Tang poetry |
+| 20 | 四大发明 | the four great inventions |
+| 21 | 丝绸之路 | the Silk Road |
+| 22 | 科举制度 | the imperial examination system |
+| 23 | 青藏高原 | the Qinghai-Tibet Plateau |
+| 24 | 海拔……米 | be ... meters above sea level |
+| 25 | 改革开放 | reform and opening-up |
+| 26 | 脱贫攻坚 | poverty alleviation |
+| 27 | 乡村振兴 | rural revitalization |
+| 28 | 一带一路倡议 | the Belt and Road Initiative |
+| 29 | 城镇化 | urbanization |
+| 30 | 高铁 | high-speed rail |
+| 31 | 移动支付 | mobile payment |
+| 32 | 人工智能 | artificial intelligence |
+| 33 | 新能源汽车 | new energy vehicle |
+| 34 | 义务教育 | compulsory education |
+| 35 | 高考 | the national college entrance examination |
+| 36 | 素质教育 | all-round education |
+| 37 | 碳中和 | carbon neutrality |
+| 38 | 可再生能源 | renewable energy |
+| 39 | 全民健身 | the national fitness campaign |
+| 40 | 可持续发展 | sustainable development |
+
+---
+
+## 最后三条建议
+
+**第一，别在考前三天换句式。** 二十个句式里挑七八个用得顺手的，练到不用想就能写出来，比勉强记住二十个却每个都写错要强得多。
+
+**第二，准备五个"万能修饰"。** 比如 `with a long history`、`which plays an important role in`、`one of the most + 形容词 + 复数`、`has attracted increasing attention`、`contributing to`。这五个能挂到绝大多数句子上，是应急的救命工具。
+
+**第三，考场上留四分钟做"五查"。** 查时态、查单复数、查冠词、查主谓一致、查有没有逗号连句。这五项覆盖了四六级翻译 70% 以上的语法扣分点，而它们全都是**不需要重新思考就能改对**的错误。

@@ -1,0 +1,6 @@
+{
+  "version": "1.0.28",
+  "androidVersionCode": 29,
+  "androidCertificateSha256": "6414e2f44526f8e9b16c16711db5d7069b809735d1b6a0ab2dae1f1ccd502579",
+  "releaseNotes": "翻译逐句修改增加对应中文原句，与我的译句、修改后和修改原因一起对照；逐句下载与报告导出同步保留中文原句。"
+}

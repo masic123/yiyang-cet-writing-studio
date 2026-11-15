@@ -1,0 +1,1 @@
+export default "CREATE TABLE account_target_preferences(user_id TEXT PRIMARY KEY REFERENCES users(id) ON DELETE CASCADE,target INTEGER NOT NULL CHECK(target BETWEEN 1 AND 15 AND target=CAST(target AS INTEGER)),version INTEGER NOT NULL DEFAULT 1 CHECK(version>=1),updated_at TEXT NOT NULL);";

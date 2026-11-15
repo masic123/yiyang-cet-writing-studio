@@ -1,0 +1,21 @@
+.practice-header { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 16px 24px; margin-bottom: 18px; }
+.practice-title-row { display: flex; align-items: center; justify-content: space-between; flex: 1; gap: 12px; min-width: 0; }
+.practice-header .page-intro { margin: 0; }
+.practice-header .page-intro h1 { margin: 0; }
+.practice-header-actions { display: flex; align-items: center; flex-wrap: wrap; gap: 12px 20px; }
+.practice-header .practice-toolbar { padding: 0; margin: 0; border: 0; }
+.practice-header .practice-target { align-items: center; }
+.practice-header .upload-question-trigger { display: inline-flex; align-items: center; gap: 8px; min-height: 44px; padding: 10px 13px; border: 1px solid var(--line); border-radius: 8px; background: var(--surface); font-size: .8125rem; white-space: nowrap; }
+.practice-header + .practice-switcher { margin-bottom: 20px; }
+.practice-switcher .track-tabs { width: 100%; }
+.focus-mode .practice-header { display: none; }
+@media (max-width: 767px) {
+  .practice-header { gap: 12px; margin-bottom: 12px; }
+  .practice-title-row { flex: 1 1 100%; }
+  .practice-header-actions { width: 100%; justify-content: space-between; gap: 8px; }
+  .practice-header .practice-target label { display: none; }
+  .practice-header .practice-target { gap: 0; }
+  .practice-header .practice-target-control select, .practice-header .target-login { min-height: 42px; font-size: .75rem; }
+  .practice-header .upload-question-trigger { align-self: auto; padding: 8px 10px; gap: 6px; font-size: .75rem; }
+  .practice-header + .practice-switcher { margin-bottom: 14px; }
+}

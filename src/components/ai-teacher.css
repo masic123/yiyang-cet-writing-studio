@@ -1,0 +1,84 @@
+/* The mobile teacher is a conversation viewport; only its message log scrolls. */
+.teacher-room-actions { display: flex; align-items: center; gap: 12px; }
+.teacher-room-actions > .text-button { font-size: .8125rem; white-space: nowrap; }
+.teacher-room-actions > .teacher-mobile-settings { display: none; }
+.teacher-settings .teacher-context-options { display: grid; gap: 14px; margin: 22px 0; }
+.teacher-settings .teacher-context { align-items: flex-start; margin: 0; line-height: 1.6; }
+.teacher-settings .teacher-context > input { margin-top: 5px; }
+.teacher-settings .teacher-context > span { display: grid; gap: 3px; }
+.teacher-settings .teacher-context small { overflow-wrap: anywhere; }
+.teacher-settings-reset { color: var(--muted); font-size: .75rem; margin: 20px 0 12px; }
+
+@media (max-width: 767px) {
+  .app-shell.teacher-active {
+    position: fixed;
+    top: var(--teacher-viewport-top, 0px);
+    right: 0;
+    left: 0;
+    height: var(--teacher-viewport-height, 100dvh);
+    min-height: 0;
+    overflow: hidden;
+  }
+  .teacher-active .main-shell { display: flex; flex-direction: column; height: 100%; min-height: 0; }
+  .teacher-active .topbar { position: relative; flex: 0 0 auto; order: 0; }
+  .teacher-active .workspace {
+    display: flex;
+    flex: 1 1 0;
+    flex-direction: column;
+    order: 1;
+    min-height: 0;
+    padding: 8px 12px;
+    overflow: hidden;
+  }
+  .teacher-active .mobile-nav { position: relative; inset: auto; flex: 0 0 auto; order: 2; }
+  .teacher-active .workspace > .guest-notice { display: none; }
+  .teacher-active .workspace > .workspace-error { flex: 0 0 auto; max-height: 16%; overflow: auto; margin-bottom: 8px; }
+  .teacher-active .workspace > .client-update-notice { flex: 0 0 auto; margin-bottom: 8px; }
+  .teacher-active .teacher-host:not([hidden]) { display: flex; flex: 1 1 0; min-height: 0; }
+  .teacher-active .teacher-view { display: flex; flex: 1 1 0; width: 100%; min-height: 0; }
+  .teacher-active .teacher-intro,
+  .teacher-active .teacher-knowledge,
+  .teacher-active .teacher-view > .teacher-footnote,
+  .teacher-active .teacher-view > .teacher-scope { display: none; }
+  .teacher-active .teacher-room { display: flex; flex: 1 1 0; flex-direction: column; min-width: 0; min-height: 0; width: 100%; }
+  .teacher-active .teacher-room-heading { flex: 0 0 auto; flex-wrap: nowrap; gap: 8px; min-height: 48px; padding: 4px 12px; }
+  .teacher-active .teacher-room-heading > span { gap: 7px; font-size: .875rem; white-space: nowrap; }
+  .teacher-active .teacher-room-heading > span > svg { width: 20px; flex-shrink: 0; }
+  .teacher-active .teacher-room-actions { gap: 8px; }
+  .teacher-active .teacher-room-actions > .text-button { min-height: 40px; gap: 5px; padding: 4px 0; font-size: .75rem; }
+  .teacher-active .teacher-room-actions > .teacher-mobile-settings { display: inline-flex; }
+  .teacher-active .teacher-log { flex: 1 1 0; min-height: 0; max-height: none; padding: 4px 14px 12px; overflow-x: hidden; overflow-y: auto; overscroll-behavior: contain; scrollbar-gutter: auto; }
+  .teacher-active .teacher-log.is-empty { display: block; }
+  .teacher-active .teacher-welcome { padding: 16px 0 0; }
+  .teacher-active .teacher-welcome > svg { display: none; }
+  .teacher-active .teacher-welcome h2 { margin-bottom: 4px; font-size: 1rem; }
+  .teacher-active .teacher-welcome > p { font-size: .75rem; line-height: 1.7; }
+  .teacher-active .teacher-starters { margin-top: 14px; }
+  .teacher-active .teacher-starters button { min-height: 44px; padding: 8px 0; font-size: .75rem; line-height: 1.7; }
+  .teacher-active .teacher-message { padding: 16px 0; }
+  .teacher-active .teacher-compose { flex: 0 0 auto; min-width: 0; padding: 8px 12px; background: var(--surface); }
+  .teacher-active .teacher-inline-context { display: none; }
+  .teacher-active .teacher-compose > textarea { display: block; height: 64px; min-height: 48px; max-height: 64px; padding: 8px 10px; resize: none; font-size: max(16px, 1rem); line-height: 1.5; scroll-margin-block: 8px; }
+  .teacher-active .teacher-compose-actions { flex-wrap: nowrap; gap: 8px; margin-top: 6px; }
+  .teacher-active .teacher-compose-actions > small { flex: 1 1 auto; min-width: 0; font-size: .6875rem; }
+  .teacher-active .teacher-compose-actions .button { min-height: 40px; padding: 7px 12px; font-size: .75rem; }
+  .teacher-active .teacher-send-shortcut { display: none; }
+  .teacher-active .teacher-error { max-height: 64px; overflow-y: auto; margin-bottom: 6px; padding: 6px 8px; font-size: .75rem; line-height: 1.6; }
+  .teacher-active .teacher-compose > .small { margin: 0 0 6px; font-size: .6875rem; }
+  .teacher-active[data-teacher-keyboard] .mobile-nav,
+  .teacher-active[data-teacher-keyboard] .workspace > .client-update-notice { display: none; }
+  .teacher-active[data-teacher-keyboard] .topbar { min-height: 44px; padding-top: 0; padding-bottom: 0; }
+  .teacher-active[data-teacher-keyboard] .teacher-room-heading { min-height: 40px; padding-top: 0; padding-bottom: 0; }
+  .teacher-active[data-teacher-keyboard] .teacher-room-actions > .text-button { min-height: 36px; }
+  .teacher-active[data-teacher-keyboard] .workspace { padding-bottom: max(4px, env(safe-area-inset-bottom)); }
+  .teacher-active[data-teacher-keyboard] .teacher-compose { padding-top: 6px; padding-bottom: 6px; }
+  .teacher-active[data-teacher-keyboard] .teacher-compose > textarea { height: 48px; min-height: 44px; max-height: 48px; }
+  .teacher-active[data-teacher-keyboard] .teacher-error { max-height: 32px; }
+}
+
+@media (max-width: 359px) {
+  .teacher-active .workspace { padding-right: 8px; padding-left: 8px; }
+  .teacher-active .teacher-room-heading { padding-right: 8px; padding-left: 8px; }
+  .teacher-active .teacher-room-actions > .teacher-mobile-settings { width: 36px; justify-content: center; }
+  .teacher-active .teacher-mobile-settings > span { display: none; }
+}

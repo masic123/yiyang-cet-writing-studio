@@ -1,0 +1,18 @@
+services:
+  writing:
+    build: ../../storage/vps-release
+    restart: unless-stopped
+    init: true
+    env_file: .env
+    ports:
+      - "127.0.0.1:8789:8789"
+    volumes:
+      - writing-data:/app/storage
+    stop_grace_period: 260s
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"
+volumes:
+  writing-data:

@@ -1,0 +1,908 @@
+# 中国文化翻译补充资料
+
+本资料与“中国文化补充题库”配套，围绕廖华英《中国文化概况》修订版的主题编写，帮助练习从中文文化信息到自然英语的表达。词汇按实用性和跨主题迁移价值筛选，“重点”表示复习优先级，不代表官方词频统计或命题预测。
+
+## 使用方法与主题索引
+
+先在题库选择中国文化补充题，再选四级或六级。建议限时翻译后查看报告中的参考译文，回到相应主题复习词汇；逐句精翻提供同组段落的句子练习。参考译文只是一种可行译法，忠实、完整、自然的其他表达同样成立。
+
+四级段落按140–160个汉字编写，六级按180–200个汉字编写，每题建议30分钟。汉字数不计标点与英文。六级主要增加信息关系和表达层次，并不要求堆砌生僻词。
+
+本题库共30个主题、60道原创改编练习，段落和译文均重新编写，部分文化阐释为教学拓展。尚无依据证明该书是官方指定命题来源；请结合中国文化、历史与社会发展其他题材复习。
+
+| 主题 | 领域 | 练习位置 |
+| --- | --- | --- |
+| 01 儒家 | 思想文化 | 中国文化补充题 → 儒家 → 四级 / 六级 |
+| 02 道家 | 思想文化 | 中国文化补充题 → 道家 → 四级 / 六级 |
+| 03 唐诗 | 文学艺术 | 中国文化补充题 → 唐诗 → 四级 / 六级 |
+| 04 四大名著 | 文学艺术 | 中国文化补充题 → 四大名著 → 四级 / 六级 |
+| 05 书法 | 文学艺术 | 中国文化补充题 → 书法 → 四级 / 六级 |
+| 06 中国画 | 文学艺术 | 中国文化补充题 → 中国画 → 四级 / 六级 |
+| 07 京剧 | 文学艺术 | 中国文化补充题 → 京剧 → 四级 / 六级 |
+| 08 皮影戏 | 文学艺术 | 中国文化补充题 → 皮影戏 → 四级 / 六级 |
+| 09 传统乐器 | 文学艺术 | 中国文化补充题 → 传统乐器 → 四级 / 六级 |
+| 10 春节 | 节日民俗 | 中国文化补充题 → 春节 → 四级 / 六级 |
+| 11 清明节 | 节日民俗 | 中国文化补充题 → 清明节 → 四级 / 六级 |
+| 12 端午节 | 节日民俗 | 中国文化补充题 → 端午节 → 四级 / 六级 |
+| 13 中秋节 | 节日民俗 | 中国文化补充题 → 中秋节 → 四级 / 六级 |
+| 14 中国茶 | 饮食文化 | 中国文化补充题 → 中国茶 → 四级 / 六级 |
+| 15 地方菜系 | 饮食文化 | 中国文化补充题 → 地方菜系 → 四级 / 六级 |
+| 16 丝绸 | 服饰与交流 | 中国文化补充题 → 丝绸 → 四级 / 六级 |
+| 17 丝绸之路 | 服饰与交流 | 中国文化补充题 → 丝绸之路 → 四级 / 六级 |
+| 18 旗袍 | 服饰与交流 | 中国文化补充题 → 旗袍 → 四级 / 六级 |
+| 19 孔子教育 | 教育科技 | 中国文化补充题 → 孔子教育 → 四级 / 六级 |
+| 20 科举制度 | 教育科技 | 中国文化补充题 → 科举制度 → 四级 / 六级 |
+| 21 造纸与印刷 | 教育科技 | 中国文化补充题 → 造纸与印刷 → 四级 / 六级 |
+| 22 中医文化 | 教育科技 | 中国文化补充题 → 中医文化 → 四级 / 六级 |
+| 23 太极拳 | 体育文化 | 中国文化补充题 → 太极拳 → 四级 / 六级 |
+| 24 乒乓球 | 体育文化 | 中国文化补充题 → 乒乓球 → 四级 / 六级 |
+| 25 四合院 | 建筑文化 | 中国文化补充题 → 四合院 → 四级 / 六级 |
+| 26 皇家园林 | 建筑文化 | 中国文化补充题 → 皇家园林 → 四级 / 六级 |
+| 27 北京故宫 | 历史名城 | 中国文化补充题 → 北京故宫 → 四级 / 六级 |
+| 28 古都西安 | 历史名城 | 中国文化补充题 → 古都西安 → 四级 / 六级 |
+| 29 长城 | 文化遗产 | 中国文化补充题 → 长城 → 四级 / 六级 |
+| 30 莫高窟 | 文化遗产 | 中国文化补充题 → 莫高窟 → 四级 / 六级 |
+
+## 跨主题常用搭配
+
+优先把这些表达放进完整句子练习。专有名词不确定时，可先用准确的普通词解释；表达选取以原文意思为准。
+
+| 中文 | 英文 | 用法与易错点 |
+| --- | --- | --- |
+| 有悠久的历史 | have a long history | history作历史时通常不可数；a long history是固定表达。 |
+| 起源于 | originate in / have its origins in | 用于已核实的起源，不要把传说写成事实。 |
+| 可追溯到 | date back to | 主动结构，写dates back to，不写is dated back to。 |
+| 以……闻名 | be known for | for接特色；as接身份；to接知晓者。 |
+| 位于 | be located in / lie in | in接范围，on可接河岸等位置。 |
+| 由……组成 | consist of / be made up of | consist of不用被动语态。 |
+| 被视为 | be regarded as | as后接名词或形容词；保留原文评价范围。 |
+| 在……中起作用 | play a role in | in后用名词或动名词。 |
+| 对……产生深远影响 | have a profound influence on | influence on的宾语要与原文对象一致。 |
+| 反映 | reflect | 直接接宾语；reflect traditional values。 |
+| 象征 | symbolize / be a symbol of | 象征不等于证明；不可将文化寓意写成客观功效。 |
+| 表达对……的思念 | express longing for | longing for home；也可用miss one’s family。 |
+| 表达敬意 | show respect for | 尊敬某人用respect for，勿乱用to。 |
+| 重视 | attach importance to / value | to后接名词或动名词，value可直接带宾语。 |
+| 把……联系起来 | connect ... with ... | link ... to/with ...也可，注意关系主体。 |
+| 将……与……相结合 | combine ... with ... | combine A with B；不要丢失任何一方。 |
+| 把……付诸实践 | put ... into practice | practice此处通常不可数。 |
+| 代代相传 | be passed down from generation to generation | 被传承用被动，传授者作主语时用主动。 |
+| 保留文化特色 | retain cultural characteristics | retain重在保留，不一定等于原封不动。 |
+| 保护文化遗产 | protect cultural heritage | heritage此处不可数，不随意加复数。 |
+| 提高对……的认识 | raise awareness of | awareness不可数，后接of。 |
+| 使人们能够 | enable people to | enable sb to do，不用enable sb doing。 |
+| 为……提供机会 | provide an opportunity for ... / to ... | for接人或活动，to接动词原形。 |
+| 有助于 | help / contribute to | contribute to后接名词或动名词。 |
+| 促进文化交流 | promote cultural exchange | 交流活动泛指可用exchange，不必机械复数。 |
+| 国内外 | at home and abroad | abroad前不加in；at home按语境表示国内。 |
+| 遍及全国 | across the country | 不等同于每一个人或每一个地区。 |
+| 丰富多样 | be rich and diverse | diverse为形容词；diversity为名词。 |
+| 地方特色 | local characteristics / regional features | 不要把特色一律译为special。 |
+| 随着时间推移 | over time | 不是每句都要用with the development of。 |
+| 经历变化 | undergo changes | undergo为及物动词。 |
+| 适应变化的需要 | adapt to changing needs | adapt to中的to为介词。 |
+| 与……密切相关 | be closely related to | related后通常接to。 |
+| 相互补充 | complement each other | complement补充，compliment赞美。 |
+| 在……之间取得平衡 | strike a balance between ... and ... | 列清两方，避免只保留一方。 |
+| 不只是……也…… | not only ... but also ... | 两侧尽量使用平行结构；无需为了套句式而倒装。 |
+| 尽管 | although / even though | although与but通常不在同一句重复连接两主句。 |
+| 据传说 | according to legend | 用来保留传说性质，不能直接删去。 |
+| 通常但并非总是 | usually / often / in many cases | 保留原文限定，不把“通常”译为always。 |
+| 通过……了解 | learn about ... through ... | understand偏理解，learn about偏了解信息。 |
+
+## 01 儒家
+
+配套练习：中国文化补充题 → 儒家。四级侧重事物、活动与用途；六级进一步处理解释、变化或文化联系。
+
+### 重点词汇与短语
+
+| 中文 | 英文 | 用法与易错点 |
+| --- | --- | --- |
+| 儒家思想 | Confucianism | 思想流派用 Confucianism；作形容词用 Confucian。 |
+| 道德修养 | moral cultivation | cultivation 在此表示修养，不译为 agricultural cultivation。 |
+| 关爱他人 | care for others | care for 可表示关心照顾；care about 强调在意。 |
+| 承担责任 | take on responsibilities | 具体多项责任可用复数；对……负责用 be responsible for。 |
+| 中庸之道 | the doctrine of the mean | mean 在此指适度；不可译成 average doctrine。 |
+| 把……付诸实践 | put ... into practice | practice 表示实践时通常不可数，前面不加 a。 |
+
+### 例句
+
+儒家是中国传统思想的重要流派，孔子和孟子是其中具有代表性的思想家。
+
+Confucianism is an important school of traditional Chinese thought, with Confucius and Mencius as two of its representative thinkers.
+
+### 练习提示
+
+先找每句的主体和动作，再处理时间、范围与逻辑关系。复查“有些、通常、可能、据说”等限定；译名可以有合理变体，不必为了套用词表而改变原意。
+
+## 02 道家
+
+配套练习：中国文化补充题 → 道家。四级侧重事物、活动与用途；六级进一步处理解释、变化或文化联系。
+
+### 重点词汇与短语
+
+| 中文 | 英文 | 用法与易错点 |
+| --- | --- | --- |
+| 道家思想 | Daoist philosophy | 强调哲学时可加 philosophy，以区别道教宗教传统。 |
+| 简朴的生活 | a simple life | life 指一种生活方式时可以用 a simple life。 |
+| 追逐财富与名声 | pursue wealth and fame | pursue 是及物动词，不接 for。 |
+| 自我约束 | self-discipline | self-discipline 常作不可数名词。 |
+| 内心的平静 | inner peace | peace 在这里不指和平协议，不加不定冠词。 |
+| 精神自由 | spiritual freedom | spiritual 在此指精神层面，不必然表示宗教。 |
+
+### 例句
+
+道家是中国传统思想的重要流派，老子和庄子是其中有代表性的人物。
+
+Daoist philosophy is an important school of traditional Chinese thought, represented by figures such as Laozi and Zhuangzi.
+
+### 练习提示
+
+先找每句的主体和动作，再处理时间、范围与逻辑关系。复查“有些、通常、可能、据说”等限定；译名可以有合理变体，不必为了套用词表而改变原意。
+
+## 03 唐诗
+
+配套练习：中国文化补充题 → 唐诗。四级侧重事物、活动与用途；六级进一步处理解释、变化或文化联系。
+
+### 重点词汇与短语
+
+| 中文 | 英文 | 用法与易错点 |
+| --- | --- | --- |
+| 唐诗 | Tang poetry | poetry 是诗歌总称，通常不可数；单首诗用 a poem。 |
+| 以……著称 | be known for ... | known for 接特色；known as 接身份或称号。 |
+| 想象力 | imagination | 此处不译为 image，后者通常指形象或图像。 |
+| 社会现实 | social reality | 需要突出生活状况时也可用 social conditions。 |
+| 思乡之情 | homesickness | homesickness 表示思乡，不用 home sickness 分写。 |
+| 传达情感 | convey emotions | convey 可直接接宾语，不接 to 后再加情感。 |
+
+### 例句
+
+唐诗在中国文学中占有重要地位，李白和杜甫是广为人知的代表诗人。
+
+Tang poetry holds an important place in Chinese literature, and Li Bai and Du Fu are two of its well-known representative poets.
+
+### 练习提示
+
+先找每句的主体和动作，再处理时间、范围与逻辑关系。复查“有些、通常、可能、据说”等限定；译名可以有合理变体，不必为了套用词表而改变原意。
+
+## 04 四大名著
+
+配套练习：中国文化补充题 → 四大名著。四级侧重事物、活动与用途；六级进一步处理解释、变化或文化联系。
+
+### 重点词汇与短语
+
+| 中文 | 英文 | 用法与易错点 |
+| --- | --- | --- |
+| 中国古典小说 | classical Chinese novels | classical 表示古典的；classic 作名词可指经典作品。 |
+| 四大名著 | the Four Great Classical Novels | 专指中国四大名著时常将主要词大写；译名可有变体。 |
+| 以……为背景 | be set against the background of ... | 描述故事发生的时地也可用 be set in。 |
+| 家族的兴衰 | the rise and fall of a family | rise 和 fall 构成固定并列搭配，不译为 up and down。 |
+| 塑造人物 | portray characters | character 在小说中指人物，不一定是性格。 |
+| 民间传说 | folk legends | folk 常作定语，不能写成 folks legends。 |
+
+### 例句
+
+《三国演义》《水浒传》《西游记》和《红楼梦》通常被称为中国古典小说四大名著。
+
+Romance of the Three Kingdoms, Water Margin, Journey to the West, and A Dream of Red Mansions are commonly known as China's Four Great Classical Novels.
+
+### 练习提示
+
+先找每句的主体和动作，再处理时间、范围与逻辑关系。复查“有些、通常、可能、据说”等限定；译名可以有合理变体，不必为了套用词表而改变原意。
+
+## 05 书法
+
+配套练习：中国文化补充题 → 书法。四级侧重事物、活动与用途；六级进一步处理解释、变化或文化联系。
+
+### 重点词汇与短语
+
+| 中文 | 英文 | 用法与易错点 |
+| --- | --- | --- |
+| 中国书法 | Chinese calligraphy | calligraphy 为艺术名称，通常不可数。 |
+| 毛笔 | a writing brush | 可用 a brush；毛笔不是 brush pen 的唯一所指。 |
+| 笔画 | strokes | stroke 在此指书写的一笔，不是疾病中风。 |
+| 楷书 | regular script | script 在此表示字体或书体，不是剧本。 |
+| 整体布局 | overall composition | 艺术构图可用 composition，不宜机械套用 arrangement of whole。 |
+| 临摹 | copy model works | 艺术学习中的临摹可说明为练习，不等于伪造作品。 |
+
+### 例句
+
+中国书法是通过书写汉字表达美感的传统艺术，毛笔是其中常用的工具。
+
+Chinese calligraphy is a traditional art that expresses beauty through writing Chinese characters, often with a brush.
+
+### 练习提示
+
+先找每句的主体和动作，再处理时间、范围与逻辑关系。复查“有些、通常、可能、据说”等限定；译名可以有合理变体，不必为了套用词表而改变原意。
+
+## 06 中国画
+
+配套练习：中国文化补充题 → 中国画。四级侧重事物、活动与用途；六级进一步处理解释、变化或文化联系。
+
+### 重点词汇与短语
+
+| 中文 | 英文 | 用法与易错点 |
+| --- | --- | --- |
+| 中国传统绘画 | traditional Chinese painting | painting 可以表示绘画艺术；a painting 指一幅画。 |
+| 山水画 | landscape painting | landscape 在艺术语境指风景或山水，不译为 mountain-water painting。 |
+| 花鸟画 | flower-and-bird painting | 常见分类名称，不能漏掉 bird 的含义。 |
+| 墨色的变化 | variations in ink tones | ink 为不可数名词，tones 可指深浅层次。 |
+| 篆刻 | seal carving | seal 在此指印章，不能译作海豹。 |
+| 装裱成卷轴 | mount ... as a scroll | mount 在这里表示装裱，不是爬山。 |
+
+### 例句
+
+中国画是中国传统艺术的重要组成部分，常以人物、山水和花鸟为题材。
+
+Chinese painting is an important part of traditional Chinese art and often features figures, landscapes, flowers, and birds.
+
+### 练习提示
+
+先找每句的主体和动作，再处理时间、范围与逻辑关系。复查“有些、通常、可能、据说”等限定；译名可以有合理变体，不必为了套用词表而改变原意。
+
+## 07 京剧
+
+配套练习：中国文化补充题 → 京剧。四级侧重事物、活动与用途；六级进一步处理解释、变化或文化联系。
+
+### 重点词汇与短语
+
+| 中文 | 英文 | 用法与易错点 |
+| --- | --- | --- |
+| 京剧 | Peking opera | Peking opera 与 Beijing opera 均见使用，全文宜统一。 |
+| 唱、念、做、打 | singing, recitation, acting, and martial arts | 打指武打技艺，不宜简单译为 hitting。 |
+| 脸谱 | facial makeup | makeup 在此通常不可数，不用 masks 代替脸部化妆。 |
+| 角色类型 | role types | type 在这里区分行当，不是演员个人身份。 |
+| 象征意义 | symbolic meaning | symbolic 为形容词；symbol 为名词。 |
+| 塑造人物 | portray characters | portray 是及物动词，后接人物或角色。 |
+
+### 例句
+
+京剧是中国传统戏曲的一种，融合了歌唱、念白、舞蹈和武术等多种艺术手段。
+
+Peking opera is a form of traditional Chinese opera that combines singing, recitation, dance, martial arts, and other artistic means.
+
+### 练习提示
+
+先找每句的主体和动作，再处理时间、范围与逻辑关系。复查“有些、通常、可能、据说”等限定；译名可以有合理变体，不必为了套用词表而改变原意。
+
+## 08 皮影戏
+
+配套练习：中国文化补充题 → 皮影戏。四级侧重事物、活动与用途；六级进一步处理解释、变化或文化联系。
+
+### 重点词汇与短语
+
+| 中文 | 英文 | 用法与易错点 |
+| --- | --- | --- |
+| 皮影戏 | shadow puppetry | 也可用 shadow play；puppetry 表示表演艺术时不可数。 |
+| 在幕后 | behind the screen | 此处强调幕布背面；behind the scenes 常有幕后工作的引申义。 |
+| 操纵皮影人物 | manipulate shadow puppets | manipulate 在此指用手操纵，不带操控人的贬义。 |
+| 幕布 | a screen | 表演中的幕布可以用 screen，不能因影视语境只理解为屏幕。 |
+| 音乐伴奏 | musical accompaniment | accompaniment 作伴奏总称时通常不可数。 |
+| 传授技艺 | pass on skills | pass on 表示传给后人；pass away 表示去世。 |
+
+### 例句
+
+皮影戏是一种将手工制作与舞台表演结合起来的中国民间艺术。
+
+Shadow puppetry is a Chinese folk art that combines handicraft with stage performance.
+
+### 练习提示
+
+先找每句的主体和动作，再处理时间、范围与逻辑关系。复查“有些、通常、可能、据说”等限定；译名可以有合理变体，不必为了套用词表而改变原意。
+
+## 09 传统乐器
+
+配套练习：中国文化补充题 → 传统乐器。四级侧重事物、活动与用途；六级进一步处理解释、变化或文化联系。
+
+### 重点词汇与短语
+
+| 中文 | 英文 | 用法与易错点 |
+| --- | --- | --- |
+| 传统乐器 | traditional musical instruments | 乐器用 musical instruments，不能省略为 music tools。 |
+| 弹拨乐器 | plucked string instruments | plucked 表示以拨弦方式发声，不等同全部弦乐器。 |
+| 拉弦乐器 | bowed string instruments | bowed 表示用弓拉奏；bow 在此不是蝴蝶结。 |
+| 打击乐器 | percussion instruments | percussion 修饰 instruments，不用 hitting instruments。 |
+| 独奏与合奏 | solo and ensemble performances | solo 强调独自演奏；ensemble 指合奏组合或合奏形式。 |
+| 音色 | tone color | 也可用 timbre；不等同 volume 音量。 |
+
+### 例句
+
+中国传统乐器种类丰富，包括弦乐器、管乐器和打击乐器等。
+
+Traditional Chinese musical instruments come in many forms, including string, wind, and percussion instruments.
+
+### 练习提示
+
+先找每句的主体和动作，再处理时间、范围与逻辑关系。复查“有些、通常、可能、据说”等限定；译名可以有合理变体，不必为了套用词表而改变原意。
+
+## 10 春节
+
+配套练习：中国文化补充题 → 春节。四级侧重事物、活动与用途；六级进一步处理解释、变化或文化联系。
+
+### 重点词汇与短语
+
+| 中文 | 英文 | 用法与易错点 |
+| --- | --- | --- |
+| 农历新年 | the Lunar New Year | 节日名称通常首字母大写；lunar 指与月亮有关。 |
+| 春联 | Spring Festival couplets | couplets 通常用复数，指成对的对联。 |
+| 团圆饭 | a family reunion dinner | reunion 作定语，不写成 reunite dinner。 |
+| 走亲访友 | visit relatives and friends | relatives 指亲属，不要与 relationships 混淆。 |
+| 寓意 | symbolic meaning | symbolic 是形容词；symbol 是名词。 |
+| 传承下去 | pass down | 常用 be passed down from generation to generation。 |
+| 喜庆的气氛 | a festive atmosphere | atmosphere 在这里指气氛，不是天气。 |
+
+### 例句
+
+春节是中国重要的传统节日，人们在农历新年到来前就开始准备庆祝活动。
+
+The Spring Festival is an important traditional festival in China, and people start preparing for the celebrations before the Lunar New Year arrives.
+
+### 练习提示
+
+先找每句的主体和动作，再处理时间、范围与逻辑关系。复查“有些、通常、可能、据说”等限定；译名可以有合理变体，不必为了套用词表而改变原意。
+
+## 11 清明节
+
+配套练习：中国文化补充题 → 清明节。四级侧重事物、活动与用途；六级进一步处理解释、变化或文化联系。
+
+### 重点词汇与短语
+
+| 中文 | 英文 | 用法与易错点 |
+| --- | --- | --- |
+| 二十四节气 | the 24 solar terms | 节气按太阳周年运动划分，不译成 lunar terms。 |
+| 扫墓 | sweep tombs | 也可用 visit and clean family graves，按语境表达。 |
+| 祭祖 | pay respects to ancestors | pay respects to 表敬意；ancestors 指祖先。 |
+| 已故亲人 | deceased family members | deceased 为较正式用语，也可用 relatives who have passed away。 |
+| 怀念 | remember with affection | 根据语境也可用 remembrance；避免一律译成 miss。 |
+| 踏青 | go on a spring outing | outing 为可数名词，常用 go on an outing。 |
+| 与过去保持联系 | maintain a connection with the past | connection 后常接 with 或 to。 |
+
+### 例句
+
+清明是中国传统节日，也是二十四节气之一，通常在四月上旬到来。
+
+Qingming is a traditional Chinese festival and one of the 24 solar terms, usually falling in early April.
+
+### 练习提示
+
+先找每句的主体和动作，再处理时间、范围与逻辑关系。复查“有些、通常、可能、据说”等限定；译名可以有合理变体，不必为了套用词表而改变原意。
+
+## 12 端午节
+
+配套练习：中国文化补充题 → 端午节。四级侧重事物、活动与用途；六级进一步处理解释、变化或文化联系。
+
+### 重点词汇与短语
+
+| 中文 | 英文 | 用法与易错点 |
+| --- | --- | --- |
+| 端午节 | the Dragon Boat Festival | 也可用 the Duanwu Festival；festival 前通常用 the。 |
+| 糯米 | glutinous rice | glutinous 指黏的；也可用 sticky rice。 |
+| 用叶子包裹 | wrap in leaves | 被动形式为 be wrapped in leaves。 |
+| 赛龙舟 | dragon boat racing | racing 指比赛活动；一场比赛可说 a dragon boat race。 |
+| 纪念 | in memory of | 纪念逝者常用此表达；不要写成 in the memory of。 |
+| 协调动作 | coordinate movements | coordinate 为动词；coordination 为名词。 |
+| 随着鼓点 | to the beat of drums | beat 在这里是节拍，不是击败。 |
+
+### 例句
+
+端午节在农历五月初五，是中国人熟悉的传统节日。
+
+The Dragon Boat Festival falls on the fifth day of the fifth lunar month and is a familiar traditional festival in China.
+
+### 练习提示
+
+先找每句的主体和动作，再处理时间、范围与逻辑关系。复查“有些、通常、可能、据说”等限定；译名可以有合理变体，不必为了套用词表而改变原意。
+
+## 13 中秋节
+
+配套练习：中国文化补充题 → 中秋节。四级侧重事物、活动与用途；六级进一步处理解释、变化或文化联系。
+
+### 重点词汇与短语
+
+| 中文 | 英文 | 用法与易错点 |
+| --- | --- | --- |
+| 中秋节 | the Mid-Autumn Festival | Mid-Autumn 中间保留连字符。 |
+| 赏月 | admire the moon | 也可用 enjoy the moonlight，按原文意思选择。 |
+| 团圆 | family reunion | 形容家人团聚可用 get together。 |
+| 思乡之情 | longing for home | longing for 后接名词或动名词；也可用 homesickness。 |
+| 寄托祝愿 | convey good wishes | convey 指传达，不能把寄托机械译成 deposit。 |
+| 相隔遥远 | be far apart | apart 表分开，不写成 far away each other。 |
+| 文化记忆 | cultural memory | cultural 为形容词；这里常用单数概括共同记忆。 |
+
+### 例句
+
+中秋节在农历八月十五，赏月和吃月饼是人们熟悉的节日习俗。
+
+The Mid-Autumn Festival falls on the fifteenth day of the eighth lunar month, and admiring the moon and eating mooncakes are familiar festival customs.
+
+### 练习提示
+
+先找每句的主体和动作，再处理时间、范围与逻辑关系。复查“有些、通常、可能、据说”等限定；译名可以有合理变体，不必为了套用词表而改变原意。
+
+## 14 中国茶
+
+配套练习：中国文化补充题 → 中国茶。四级侧重事物、活动与用途；六级进一步处理解释、变化或文化联系。
+
+### 重点词汇与短语
+
+| 中文 | 英文 | 用法与易错点 |
+| --- | --- | --- |
+| 用茶待客 | serve tea to guests | 也可用 offer guests tea；不译成 treat guests with tea。 |
+| 泡茶 | brew tea | make tea 也是自然表达，brew 更强调冲泡过程。 |
+| 茶具 | tea utensils | 整套茶具也可说 a tea set。 |
+| 红茶 | black tea | 英语习惯称 black tea，不能逐字译为 red tea。 |
+| 乌龙茶 | oolong tea | oolong 作茶类名称通常小写。 |
+| 加工方法 | processing methods | process 作动词为加工；processing 可作定语。 |
+| 礼仪 | etiquette | 通常是不可数名词，不加复数词尾。 |
+
+### 例句
+
+在中国，许多家庭有用茶招待客人的习惯，一杯热茶常常是交谈的开始。
+
+In China, many families have the custom of serving tea to guests, and a cup of hot tea often starts a conversation.
+
+### 练习提示
+
+先找每句的主体和动作，再处理时间、范围与逻辑关系。复查“有些、通常、可能、据说”等限定；译名可以有合理变体，不必为了套用词表而改变原意。
+
+## 15 地方菜系
+
+配套练习：中国文化补充题 → 地方菜系。四级侧重事物、活动与用途；六级进一步处理解释、变化或文化联系。
+
+### 重点词汇与短语
+
+| 中文 | 英文 | 用法与易错点 |
+| --- | --- | --- |
+| 地方菜系 | regional cuisines | cuisine 指烹饪传统或风味，不等同于一道 dish。 |
+| 食材 | ingredients | ingredient 通常为可数名词；多种食材用复数。 |
+| 海产品 | seafood | 通常为不可数名词，不说 sea foods。 |
+| 自然风味 | natural flavors | 也可用 original flavors；flavor 指风味。 |
+| 烹饪方法 | cooking methods | 蒸为 steam，炒为 stir-fry，炖可用 stew。 |
+| 因地而异 | vary from region to region | vary 是动词，不要误用 very。 |
+| 涵盖 | cover | 概括分类可用 cover 或 encompass，不机械译成 contain。 |
+
+### 例句
+
+中国各地的食物风味不同，气候、物产和生活习惯都会影响当地人的饮食。
+
+Food flavors vary across China, as climate, local produce and living habits all influence what people eat.
+
+### 练习提示
+
+先找每句的主体和动作，再处理时间、范围与逻辑关系。复查“有些、通常、可能、据说”等限定；译名可以有合理变体，不必为了套用词表而改变原意。
+
+## 16 丝绸
+
+配套练习：中国文化补充题 → 丝绸。四级侧重事物、活动与用途；六级进一步处理解释、变化或文化联系。
+
+### 重点词汇与短语
+
+| 中文 | 英文 | 用法与易错点 |
+| --- | --- | --- |
+| 丝绸 | silk | 指材料时不可数，不说 a silk；一件丝绸制品可说 a silk product。 |
+| 蚕茧 | silkworm cocoons | cocoon 为可数名词，注意复数形式。 |
+| 丝线 | silk thread | thread 指材料时可作不可数名词，具体若干根可用 threads。 |
+| 光泽 | luster | 也可用 sheen，不应一律译成 light。 |
+| 刺绣 | embroidery | 工艺名称常用不可数；embroider 为动词。 |
+| 针法 | stitching techniques | stitch 指针脚，technique 指技巧或技法。 |
+| 手工艺 | craftsmanship | 常用不可数，指工艺水平；handicrafts 可指手工艺品。 |
+
+### 例句
+
+丝绸是中国具有代表性的传统面料，以柔软的质地和自然的光泽受到喜爱。
+
+Silk is a representative traditional Chinese fabric, valued for its soft texture and natural luster.
+
+### 练习提示
+
+先找每句的主体和动作，再处理时间、范围与逻辑关系。复查“有些、通常、可能、据说”等限定；译名可以有合理变体，不必为了套用词表而改变原意。
+
+## 17 丝绸之路
+
+配套练习：中国文化补充题 → 丝绸之路。四级侧重事物、活动与用途；六级进一步处理解释、变化或文化联系。
+
+### 重点词汇与短语
+
+| 中文 | 英文 | 用法与易错点 |
+| --- | --- | --- |
+| 丝绸之路 | the Silk Road | 专名一般大写，通常带 the。 |
+| 贸易通道 | a trade route | route 指路线，不能与 root 混淆。 |
+| 文化交流 | cultural exchange | 泛指交流时 exchange 可作不可数名词，具体活动可用复数。 |
+| 缫丝 | silk reeling | 面向普通读者也可解释为 drawing silk threads from cocoons。 |
+| 古城遗迹 | ruins of ancient cities | ruins 常用复数；relic 通常指具体遗物。 |
+| 双向交流 | a two-way exchange | two-way 作定语须加连字符。 |
+| 沿线 | along the route | along 是沿着，不能误用 alone。 |
+
+### 例句
+
+古代丝绸之路连接中国、亚洲其他地区与欧洲，是重要的贸易通道。
+
+The ancient Silk Road linked China with other parts of Asia and Europe and was an important trade route.
+
+### 练习提示
+
+先找每句的主体和动作，再处理时间、范围与逻辑关系。复查“有些、通常、可能、据说”等限定；译名可以有合理变体，不必为了套用词表而改变原意。
+
+## 18 旗袍
+
+配套练习：中国文化补充题 → 旗袍。四级侧重事物、活动与用途；六级进一步处理解释、变化或文化联系。
+
+### 重点词汇与短语
+
+| 中文 | 英文 | 用法与易错点 |
+| --- | --- | --- |
+| 旗袍 | qipao | 也可用 cheongsam；qipao 指一件衣服时为可数名词。 |
+| 立领 | a stand-up collar | collar 是领子，不能与 color 混淆。 |
+| 合体的腰身 | a fitted waist | fitted 作形容词指剪裁合身，不表示衣服过紧。 |
+| 两侧开衩 | side slits | slit 指狭长开口，常用复数。 |
+| 正式场合 | formal occasions | on formal occasions，不用 in formal occasions。 |
+| 改良 | adapt | 服装根据需要改变可用 adapt；不必一律译成 improve。 |
+| 审美偏好 | aesthetic preferences | preferences 指具体偏好；aesthetic 修饰审美。 |
+
+### 例句
+
+旗袍是一种具有中国传统风格的女装，以简洁而优雅的外形受到喜爱。
+
+The qipao is a women's garment in a traditional Chinese style, admired for its simple and elegant appearance.
+
+### 练习提示
+
+先找每句的主体和动作，再处理时间、范围与逻辑关系。复查“有些、通常、可能、据说”等限定；译名可以有合理变体，不必为了套用词表而改变原意。
+
+## 19 孔子教育
+
+配套练习：中国文化补充题 → 孔子教育。四级侧重事物、活动与用途；六级进一步处理解释、变化或文化联系。
+
+### 重点词汇与短语
+
+| 中文 | 英文 | 用法与易错点 |
+| --- | --- | --- |
+| 孔子 | Confucius | 人名采用通行英文名称。 |
+| 教育家 | educator | 可与 thinker（思想家）并列介绍人物。 |
+| 私学 | private schools | 此处指古代私人讲学，勿套用现代收费学校概念。 |
+| 品德培养 | the development of moral character | moral character 指人的道德品质。 |
+| 因材施教 | teach students according to their abilities | 可用解释性译法，无须逐字翻译。 |
+| 言行 | sayings and deeds | 也可译 words and actions。 |
+| 个人修养 | self-cultivation | 文化语境中也可解释为 personal development。 |
+| 流传后世 | be passed down to later generations | pass down 常用于思想、技艺和传统的传承。 |
+
+### 例句
+
+孔子是中国古代著名的思想家和教育家，他的一生与教学活动紧密相连。
+
+Confucius was a famous thinker and educator in ancient China, and teaching was an important part of his life.
+
+### 练习提示
+
+先找每句的主体和动作，再处理时间、范围与逻辑关系。复查“有些、通常、可能、据说”等限定；译名可以有合理变体，不必为了套用词表而改变原意。
+
+## 20 科举制度
+
+配套练习：中国文化补充题 → 科举制度。四级侧重事物、活动与用途；六级进一步处理解释、变化或文化联系。
+
+### 重点词汇与短语
+
+| 中文 | 英文 | 用法与易错点 |
+| --- | --- | --- |
+| 科举制度 | the imperial examination system | imperial 指帝制时代的，此处不译 national college entrance examination。 |
+| 选拔官员 | select officials | select 强调按标准选拔。 |
+| 经典 | the classics | 此处可按语境具体译为 Confucian classics。 |
+| 考生 | candidates | 指参加考试的人。 |
+| 固定格式 | a fixed format | 可搭配 follow 或 conform to。 |
+| 废除 | abolish | 用于制度、法规等，不能与 cancel 随意互换。 |
+| 社会流动 | social mobility | 指社会地位发生变化的可能性。 |
+| 家庭期望 | family expectations | 也可译 the expectations of a family。 |
+
+### 例句
+
+科举制度是中国古代通过考试选拔官员的一种制度，对传统教育产生了深远影响。
+
+The imperial examination system was a system for selecting officials through examinations in ancient China and had a profound influence on traditional education.
+
+### 练习提示
+
+先找每句的主体和动作，再处理时间、范围与逻辑关系。复查“有些、通常、可能、据说”等限定；译名可以有合理变体，不必为了套用词表而改变原意。
+
+## 21 造纸与印刷
+
+配套练习：中国文化补充题 → 造纸与印刷。四级侧重事物、活动与用途；六级进一步处理解释、变化或文化联系。
+
+### 重点词汇与短语
+
+| 中文 | 英文 | 用法与易错点 |
+| --- | --- | --- |
+| 造纸术 | papermaking | 通常作不可数名词，也可写 the art of papermaking。 |
+| 印刷术 | printing | 描述技术时也可用 printing technology。 |
+| 竹简 | bamboo slips | slip 在此指狭长竹片。 |
+| 树皮 | bark | 作材料时通常不可数。 |
+| 雕版印刷 | woodblock printing | woodblock 指刻有图文的木版。 |
+| 活字印刷 | movable-type printing | 作定语时 movable-type 可加连字符。 |
+| 传播知识 | spread knowledge | knowledge 是不可数名词。 |
+| 重复使用 | reuse | 也可用 use something repeatedly。 |
+
+### 例句
+
+造纸术和印刷术是中国古代的重要技术，改变了人们记录和传播信息的方式。
+
+Papermaking and printing were important technologies in ancient China that changed the ways people recorded and shared information.
+
+### 练习提示
+
+先找每句的主体和动作，再处理时间、范围与逻辑关系。复查“有些、通常、可能、据说”等限定；译名可以有合理变体，不必为了套用词表而改变原意。
+
+## 22 中医文化
+
+配套练习：中国文化补充题 → 中医文化。四级侧重事物、活动与用途；六级进一步处理解释、变化或文化联系。
+
+### 重点词汇与短语
+
+| 中文 | 英文 | 用法与易错点 |
+| --- | --- | --- |
+| 中医 | traditional Chinese medicine (TCM) | 首次出现可写全称并注明缩写，随后用 TCM。 |
+| 传统知识 | traditional knowledge | knowledge 通常不加复数。 |
+| 针灸 | acupuncture and moxibustion | 针刺为 acupuncture，灸法为 moxibustion；准确介绍针灸合称时可并列二者。 |
+| 草药 | herbal medicine | herbal 与 herb 相关；用于笼统指称草药知识或用药传统。 |
+| 切脉 | pulse-taking | 可解释为 feeling a person's pulse。 |
+| 整体观念 | a holistic view | holistic 表示把各部分联系起来整体考虑。 |
+| 历史记录 | historical records | historical 与历史有关，historic 指具有重大历史意义。 |
+| 生活环境 | living environment | 注意 living 作定语。 |
+
+### 例句
+
+中医是中国传统文化的重要组成部分，在漫长的发展过程中形成了自己的知识和实践体系。
+
+Traditional Chinese medicine is an important part of traditional Chinese culture and has developed its own system of knowledge and practice over a long history.
+
+### 练习提示
+
+先找每句的主体和动作，再处理时间、范围与逻辑关系。复查“有些、通常、可能、据说”等限定；译名可以有合理变体，不必为了套用词表而改变原意。
+
+## 23 太极拳
+
+配套练习：中国文化补充题 → 太极拳。四级侧重事物、活动与用途；六级进一步处理解释、变化或文化联系。
+
+### 重点词汇与短语
+
+| 中文 | 英文 | 用法与易错点 |
+| --- | --- | --- |
+| 太极拳 | tai chi / taijiquan | 两者均为通行写法，文内保持一致；不必硬译每个汉字。 |
+| 武术 | martial arts | martial art 可指一种具体武术。 |
+| 缓慢柔和的动作 | slow and gentle movements | movement 表示一次动作时可数。 |
+| 协调 | coordinate | 常用于身体动作或不同部分的配合。 |
+| 套路 | routine | 体育语境中指按顺序组成的一套动作。 |
+| 练习者 | practitioner | 此处指进行该项活动的人，不限于专业人士。 |
+| 传承 | pass on | 可搭配 skills、knowledge 或 traditions。 |
+| 文化遗产 | cultural heritage | heritage 一般不可数。 |
+
+### 例句
+
+太极拳是中国传统武术的一种，以缓慢、柔和而连贯的动作受到许多人的喜爱。
+
+Tai chi is a traditional Chinese martial art enjoyed by many people for its slow, gentle and flowing movements.
+
+### 练习提示
+
+先找每句的主体和动作，再处理时间、范围与逻辑关系。复查“有些、通常、可能、据说”等限定；译名可以有合理变体，不必为了套用词表而改变原意。
+
+## 24 乒乓球
+
+配套练习：中国文化补充题 → 乒乓球。四级侧重事物、活动与用途；六级进一步处理解释、变化或文化联系。
+
+### 重点词汇与短语
+
+| 中文 | 英文 | 用法与易错点 |
+| --- | --- | --- |
+| 乒乓球 | table tennis | 正式介绍运动时常用 table tennis，ping-pong 也通行。 |
+| 休闲活动 | a recreational activity | recreational 指用于休闲娱乐的。 |
+| 社区 | local community | 可按语境省略 local。 |
+| 国际比赛 | international competitions | 注意 competition 的单复数。 |
+| 友好交流 | friendly exchanges | 用于人员往来与相互接触。 |
+| 回访 | pay a return visit | 可加 to + 地点或机构。 |
+| 相互理解 | mutual understanding | 常与 promote、deepen 或 build 连用。 |
+| 乒乓外交 | Ping-Pong Diplomacy | 特定历史事件的通行名称。 |
+
+### 例句
+
+乒乓球在中国广受欢迎，既是竞技项目，也是许多人熟悉的休闲活动。
+
+Table tennis is widely enjoyed in China, both as a competitive sport and as a familiar recreational activity.
+
+### 练习提示
+
+先找每句的主体和动作，再处理时间、范围与逻辑关系。复查“有些、通常、可能、据说”等限定；译名可以有合理变体，不必为了套用词表而改变原意。
+
+## 25 四合院
+
+配套练习：中国文化补充题 → 四合院。四级侧重事物、活动与用途；六级进一步处理解释、变化或文化联系。
+
+### 重点词汇与短语
+
+| 中文 | 英文 | 用法与易错点 |
+| --- | --- | --- |
+| 四合院 | a traditional courtyard house | 初次出现可解释结构，不必只写拼音。 |
+| 庭院 | courtyard | yard泛指院子；courtyard强调建筑围合的庭院。 |
+| 面朝 | face | 及物动词，face the courtyard，无需加to。 |
+| 隐私 | privacy | 不可数名词，protect privacy。 |
+| 挡风 | shelter ... from the wind | 注意shelter的宾语和from搭配。 |
+| 传统民居 | traditional dwelling | 可用traditional home，dwelling偏正式。 |
+
+### 例句
+
+四合院是北京具有代表性的传统民居，房屋分布在庭院四周，门窗通常面向院内。
+
+The courtyard house is a representative type of traditional dwelling in Beijing, with rooms arranged around a courtyard and doors and windows usually facing inward.
+
+### 练习提示
+
+先找每句的主体和动作，再处理时间、范围与逻辑关系。复查“有些、通常、可能、据说”等限定；译名可以有合理变体，不必为了套用词表而改变原意。
+
+## 26 皇家园林
+
+配套练习：中国文化补充题 → 皇家园林。四级侧重事物、活动与用途；六级进一步处理解释、变化或文化联系。
+
+### 重点词汇与短语
+
+| 中文 | 英文 | 用法与易错点 |
+| --- | --- | --- |
+| 皇家园林 | imperial garden | imperial表示帝国或皇室的，此处比royal更常用。 |
+| 颐和园 | the Summer Palace | 专名通常带the，首字母大写。 |
+| 亭子 | pavilion | 可解释为a small open garden building。 |
+| 长廊 | covered walkway | corridor也可；这里强调带顶步道。 |
+| 自然景观 | natural landscape | landscape可指景观，不等于land。 |
+| 融为一体 | integrate ... with ... | 也可用combine ... with ...，注意介词。 |
+
+### 例句
+
+颐和园是北京著名的皇家园林，园中的万寿山和昆明湖构成了主要景观。
+
+The Summer Palace is a famous imperial garden in Beijing, with Longevity Hill and Kunming Lake forming its main landscape.
+
+### 练习提示
+
+先找每句的主体和动作，再处理时间、范围与逻辑关系。复查“有些、通常、可能、据说”等限定；译名可以有合理变体，不必为了套用词表而改变原意。
+
+## 27 北京故宫
+
+配套练习：中国文化补充题 → 北京故宫。四级侧重事物、活动与用途；六级进一步处理解释、变化或文化联系。
+
+### 重点词汇与短语
+
+| 中文 | 英文 | 用法与易错点 |
+| --- | --- | --- |
+| 故宫 | the Forbidden City | 故宫建筑群译the Forbidden City，博物馆机构可译the Palace Museum。 |
+| 建筑群 | architectural complex | complex作名词可指建筑群。 |
+| 皇宫 | imperial palace | 不要写emperor palace。 |
+| 院落 | courtyard | 可数；a series of courtyards指一系列院落。 |
+| 中轴线 | central axis | 复数axes；此处单数。 |
+| 文物 | cultural relics | 可依对象用historic objects，不宜一律写antiques。 |
+
+### 例句
+
+故宫位于北京中心，是一座规模宏大的古代宫殿建筑群，曾是明清两代的皇宫。
+
+Located in central Beijing, the Forbidden City is a vast complex of ancient palace buildings that served as the imperial palace during the Ming and Qing dynasties.
+
+### 练习提示
+
+先找每句的主体和动作，再处理时间、范围与逻辑关系。复查“有些、通常、可能、据说”等限定；译名可以有合理变体，不必为了套用词表而改变原意。
+
+## 28 古都西安
+
+配套练习：中国文化补充题 → 古都西安。四级侧重事物、活动与用途；六级进一步处理解释、变化或文化联系。
+
+### 重点词汇与短语
+
+| 中文 | 英文 | 用法与易错点 |
+| --- | --- | --- |
+| 古都 | ancient capital | 可数名词，一座古都an ancient capital。 |
+| 陕西省 | Shaanxi province | Shaanxi区别于Shanxi山西。 |
+| 长安 | Chang’an | 专名可写Chang’an，不译Long Peace作为主名称。 |
+| 历史遗迹 | historic site | historic侧重有历史意义。 |
+| 兵马俑 | the Terracotta Army | 也可译terracotta warriors and horses。 |
+| 石碑 | stone stele | 复数steles；可释为stone tablets with inscriptions。 |
+
+### 例句
+
+西安是陕西省的省会，也是中国著名的古都，历史上曾以长安之名闻名。
+
+Xi’an is the capital of Shaanxi province and a famous ancient capital of China, historically known as Chang’an.
+
+### 练习提示
+
+先找每句的主体和动作，再处理时间、范围与逻辑关系。复查“有些、通常、可能、据说”等限定；译名可以有合理变体，不必为了套用词表而改变原意。
+
+## 29 长城
+
+配套练习：中国文化补充题 → 长城。四级侧重事物、活动与用途；六级进一步处理解释、变化或文化联系。
+
+### 重点词汇与短语
+
+| 中文 | 英文 | 用法与易错点 |
+| --- | --- | --- |
+| 长城 | the Great Wall | 专名通常带the，两个实词首字母大写。 |
+| 防御工程 | defensive structure | defence work也可，注意defensive不是defensible。 |
+| 城墙 | wall | 可依语境用fortification表示防御工事。 |
+| 山脊 | mountain ridge | ridge不是mountain peak。 |
+| 保存完好 | well preserved | 作表语可用well preserved。 |
+| 修缮 | repair and restoration | restore强调修复原貌，不等于rebuild全部重建。 |
+
+### 例句
+
+长城是中国著名的历史建筑，许多墙段沿山脊延伸，形成壮观的景色。
+
+The Great Wall is a famous historic structure in China, with many sections extending along mountain ridges to create a magnificent landscape.
+
+### 练习提示
+
+先找每句的主体和动作，再处理时间、范围与逻辑关系。复查“有些、通常、可能、据说”等限定；译名可以有合理变体，不必为了套用词表而改变原意。
+
+## 30 莫高窟
+
+配套练习：中国文化补充题 → 莫高窟。四级侧重事物、活动与用途；六级进一步处理解释、变化或文化联系。
+
+### 重点词汇与短语
+
+| 中文 | 英文 | 用法与易错点 |
+| --- | --- | --- |
+| 莫高窟 | the Mogao Caves | Caves复数，专名首字母大写。 |
+| 敦煌 | Dunhuang | 地名首字母大写。 |
+| 壁画 | mural | a mural，复数murals；不是wallpaper。 |
+| 彩塑 | painted sculpture | 也可用coloured sculpture，sculpture可指雕塑艺术或作品。 |
+| 文献 | historical document | 按语境区分document与literature。 |
+| 文化交流 | cultural exchange | 交流活动泛指可用不可数exchange。 |
+
+### 例句
+
+莫高窟位于甘肃敦煌，以洞窟中的壁画和彩塑而闻名。
+
+Located in Dunhuang, Gansu province, the Mogao Caves are famous for the murals and painted sculptures inside them.
+
+### 练习提示
+
+先找每句的主体和动作，再处理时间、范围与逻辑关系。复查“有些、通常、可能、据说”等限定；译名可以有合理变体，不必为了套用词表而改变原意。
+
+## 常见易错点与自查
+
+### 名称与词性
+
+- 红茶常译black tea；不能照颜色机械写red tea。茶的药用与健康说法不能据文化介绍擅自增强。
+
+- 中国画Chinese painting、书法calligraphy、瓷器porcelain等词要按具体对象处理，不随意加复数；一幅画可用a painting，一件瓷器可用a piece of porcelain。
+
+- 中国China与瓷器china大小写有区别。长城the Great Wall、故宫the Forbidden City、颐和园the Summer Palace常带定冠词。
+
+- 文化culture、传统tradition、习俗custom含义不同。某项具体传统可用a tradition；某种生活习惯不一定上升为整个文化。
+
+- 中药需依上下文区分药材、制剂与传统医学体系。针灸可具体译为acupuncture and moxibustion；不要把文化说明改译成疗效保证。
+
+### 信息关系
+
+- “历史悠久”不等于“世界最古老”，“代表之一”不等于“唯一代表”，“许多”不等于“所有”。
+
+- 人物、朝代、地点和时间先查清再写；陕西Shaanxi与山西Shanxi应区分。
+
+- 传说须保留according to legend等提示，文学故事不能当作史实。
+
+- 因果、转折和对比按原文处理，不为了使用therefore而凭空增加因果。
+
+- 被动句须找到真正的动作承受者；分词短语的逻辑主语应与主句一致。
+
+### 完成后检查
+
+1. 原文每个意群是否都有译出，限定和否定是否保留。
+
+2. 动词、主谓一致、单复数、冠词与代词指向是否准确。
+
+3. 数字、专名、方位、朝代和文化寓意是否发生改变。
+
+4. 是否只换了词却改变意思，是否增加了原文没有的评价或功效。
+
+5. 最后通读英文，确认句子完整、搭配自然、句间关系清楚。
+
+## 编写说明
+
+主题参考：廖华英主编《中国文化概况》修订版及用户提供的批注译文本。资料依据主题重新组织，未转载全书。原PDF与MinerU转写仅用于内部选题及页码核验，识别中的错字与过时信息不直接沿用。
+
+题型依据：中国教育考试网《全国大学英语四、六级考试大纲》2016年修订版，翻译题材涉及中国文化、历史与社会发展。补充题覆盖传统文化主题，不替代其他领域的训练。
+
+修订日期：2026年11月3日。

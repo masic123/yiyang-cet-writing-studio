@@ -1,0 +1,26 @@
+.target-coaching { overflow-wrap: anywhere; }
+.target-coaching .coaching-meta { display: flex; flex-wrap: wrap; gap: 8px 24px; margin: 0 0 10px; color: var(--accent); font-weight: 600; }
+.target-coaching .coaching-summary { margin-top: 20px; line-height: 1.8; }
+.target-coaching .coaching-block { margin-top: 28px; }
+.target-coaching h3 { margin: 0 0 14px; }
+.target-coaching h4 { margin: 0 0 8px; font-size: 1rem; }
+.target-coaching .coaching-item { margin: 12px 0; padding: 18px; border: 1px solid var(--line); border-radius: 10px; background: var(--surface-2); }
+.target-coaching .coaching-item p { margin: 8px 0 0; line-height: 1.75; }
+.target-coaching .coaching-item blockquote { margin: 0; padding-left: 14px; border-left: 3px solid var(--accent); line-height: 1.7; }
+.target-coaching .coaching-priorities { padding-left: 24px; }
+.target-coaching .coaching-priorities li { margin: 18px 0; padding-left: 4px; }
+.target-coaching .coaching-priorities p { margin: 6px 0; line-height: 1.75; }
+.target-coaching .coaching-pair { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 0; }
+.target-coaching .coaching-pair dt { color: var(--muted); font-size: .78rem; margin-bottom: 7px; }
+.target-coaching .coaching-pair dd { margin: 0; line-height: 1.7; }
+.target-coaching .coaching-chunks { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+.target-coaching .coaching-chunks .coaching-item { margin: 0; }
+.target-coaching .coaching-example { padding: 10px 0; color: var(--ink); }
+.target-coaching .coaching-prompt { white-space: pre-wrap; padding: 16px; border-left: 3px solid var(--accent); background: var(--surface-2); line-height: 1.8; }
+.target-coaching .coaching-practice details { margin-top: 12px; }
+.target-coaching .coaching-practice summary { cursor: pointer; min-height: 44px; display: list-item; padding: 10px 0; color: var(--accent); }
+.target-coaching .coaching-practice details p { white-space: pre-wrap; line-height: 1.8; }
+@media (max-width: 640px) {
+  .target-coaching .coaching-pair, .target-coaching .coaching-chunks { grid-template-columns: 1fr; }
+  .target-coaching .coaching-item { padding: 14px; }
+}

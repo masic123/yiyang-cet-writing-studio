@@ -1,0 +1,22 @@
+{
+  "version": "1.0.28",
+  "publishedAt": "2026-11-15",
+  "site": "https://yiyangcet.xyz",
+  "releaseNotes": "翻译逐句修改增加对应中文原句，与我的译句、修改后和修改原因一起对照；逐句下载与报告导出同步保留中文原句。",
+  "nativeUpdateVersion": "1.0.2",
+  "android": {
+    "versionCode": 29,
+    "file": "yiyang-1.0.28-android.apk",
+    "bytes": 53718,
+    "sha256": "14538512d2d03dc06b21a53121ac889a6b7960ad1b7824e3552dffb6ed6c5658",
+    "minimum": "Android 8.0",
+    "version": "1.0.28"
+  },
+  "windows": {
+    "file": "yiyang-1.0.28-windows-x64-setup.exe",
+    "minimum": "Windows 10 / 11（64 位）",
+    "bytes": 2213646,
+    "sha256": "a807e5fade77fae34901e7d1a4cade8ca5923140372a674a2665d6aed274ebe2",
+    "version": "1.0.28"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "name": "cet-writing-studio",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "node --env-file-if-exists=.dev.vars --import tsx server/start.ts",
+    "dev:ui": "next dev --hostname 127.0.0.1 --port 3003",
+    "build": "next build --webpack",
+    "build:vps": "node scripts/build-vps.mjs",
+    "start:vps": "node --env-file-if-exists=.dev.vars storage/vps-release/server.mjs",
+    "start": "node --env-file-if-exists=.dev.vars storage/vps-release/server.mjs",
+    "typecheck": "tsc --noEmit",
+    "release:prepare": "node scripts/prepare-client-release.mjs",
+    "test": "tsx --test tests/*.test.ts",
+    "configure:api": "node scripts/configure-deepseek.mjs",
+    "dev:node": "node --env-file-if-exists=.dev.vars --import tsx server/start.ts"
+  },
+  "engines": {
+    "node": ">=24.0.0"
+  },
+  "dependencies": {
+    "@fontsource-variable/manrope": "^5.2.8",
+    "@phosphor-icons/react": "^2.1.10",
+    "@radix-ui/react-dialog": "^1.1.15",
+    "next": "16.4.3",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "zod": "^4.0.0"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^5.20261027.1",
+    "@tailwindcss/postcss": "^4.1.0",
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "esbuild": "^0.28.2",
+    "tailwindcss": "^4.1.0",
+    "tsx": "^4.20.0",
+    "typescript": "^5.9.3",
+    "wrangler": "^4.153.0"
+  },
+  "license": "MIT",
+  "description": "译洋 · 四六级写作与翻译",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shhsh993838383-hub/yiyang-cet-writing-studio.git"
+  },
+  "homepage": "https://github.com/shhsh993838383-hub/yiyang-cet-writing-studio#readme"
+}

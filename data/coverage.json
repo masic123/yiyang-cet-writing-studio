@@ -1,0 +1,175 @@
+{
+  "retrievalDate": "2026-10-28",
+  "importedCount": 304,
+  "byLevel": {
+    "CET4": 152,
+    "CET6": 152
+  },
+  "byTask": {
+    "translation": 152,
+    "writing": 152
+  },
+  "sessions": [
+    "2015-06",
+    "2015-12",
+    "2016-06",
+    "2016-12",
+    "2017-06",
+    "2017-12",
+    "2018-06",
+    "2018-12",
+    "2019-06",
+    "2019-12",
+    "2020-07",
+    "2020-09",
+    "2020-12",
+    "2021-06",
+    "2021-12",
+    "2022-06",
+    "2022-09",
+    "2022-12",
+    "2023-03",
+    "2023-06",
+    "2023-12",
+    "2024-06",
+    "2024-12",
+    "2025-06",
+    "2025-12",
+    "2026-06"
+  ],
+  "selectedScope": {
+    "from": "2013-12",
+    "through": "2026-06",
+    "includesDelayedSittings": true
+  },
+  "availableScope": {
+    "from": "2015-06",
+    "through": "2026-06"
+  },
+  "missingEarlySessions": [
+    "2013-12",
+    "2014-06",
+    "2014-12"
+  ],
+  "visualQuestions": 9,
+  "imageResults": [
+    {
+      "url": "https://img-paper.lazynote.cn/2024/08/25/qumtoTTP.jpg",
+      "file": "public\\questions\\cet4-2015-06-1-writing-1.jpg",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://img-paper.lazynote.cn/2024/08/25/Yumtsu8M.jpg",
+      "file": "public\\questions\\cet4-2015-06-2-writing-1.jpg",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://img-paper.lazynote.cn/2024/08/25/7umtsPIW.jpg",
+      "file": "public\\questions\\cet4-2015-06-3-writing-1.jpg",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://img-paper.lazynote.cn/2024/08/26/QumyOObG.jpg",
+      "file": "public\\questions\\cet6-2015-12-1-writing-1.jpg",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://img-paper.lazynote.cn/2024/08/26/qumyQ8BS.jpg",
+      "file": "public\\questions\\cet6-2015-12-2-writing-1.jpg",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://img-paper.lazynote.cn/2024/08/26/4umyR72m.jpg",
+      "file": "public\\questions\\cet6-2015-12-3-writing-1.jpg",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://img-paper.lazynote.cn/2025/08/08/RuTh0MFB.jpg",
+      "file": "public\\questions\\cet6-2021-06-1-writing-1.jpg",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://img-paper.lazynote.cn/2025/08/08/puTh3nK9.jpg",
+      "file": "public\\questions\\cet6-2021-06-2-writing-1.jpg",
+      "status": "downloaded"
+    },
+    {
+      "url": "https://img-paper.lazynote.cn/2025/08/08/GuTh8Ako.jpg",
+      "file": "public\\questions\\cet6-2021-06-3-writing-1.jpg",
+      "status": "downloaded"
+    }
+  ],
+  "concerns": [
+    {
+      "id": "cet4-2015-06-1-writing",
+      "issue": "visual_meaning_not_verified",
+      "images": [
+        "/questions/cet4-2015-06-1-writing-1.jpg"
+      ]
+    },
+    {
+      "id": "cet4-2015-06-2-writing",
+      "issue": "visual_meaning_not_verified",
+      "images": [
+        "/questions/cet4-2015-06-2-writing-1.jpg"
+      ]
+    },
+    {
+      "id": "cet4-2015-06-3-writing",
+      "issue": "visual_meaning_not_verified",
+      "images": [
+        "/questions/cet4-2015-06-3-writing-1.jpg"
+      ]
+    },
+    {
+      "id": "cet6-2015-12-1-writing",
+      "issue": "visual_meaning_not_verified",
+      "images": [
+        "/questions/cet6-2015-12-1-writing-1.jpg"
+      ]
+    },
+    {
+      "id": "cet6-2015-12-2-writing",
+      "issue": "visual_meaning_not_verified",
+      "images": [
+        "/questions/cet6-2015-12-2-writing-1.jpg"
+      ]
+    },
+    {
+      "id": "cet6-2015-12-3-writing",
+      "issue": "visual_meaning_not_verified",
+      "images": [
+        "/questions/cet6-2015-12-3-writing-1.jpg"
+      ]
+    },
+    {
+      "id": "cet6-2021-06-1-writing",
+      "issue": "visual_meaning_not_verified",
+      "images": [
+        "/questions/cet6-2021-06-1-writing-1.jpg"
+      ]
+    },
+    {
+      "id": "cet6-2021-06-2-writing",
+      "issue": "visual_meaning_not_verified",
+      "images": [
+        "/questions/cet6-2021-06-2-writing-1.jpg"
+      ]
+    },
+    {
+      "id": "cet6-2021-06-3-writing",
+      "issue": "visual_meaning_not_verified",
+      "images": [
+        "/questions/cet6-2021-06-3-writing-1.jpg"
+      ]
+    }
+  ],
+  "duplicateGroups": [],
+  "limitations": [
+    "第三方题面整理，未逐一对照官方原卷。",
+    "套卷序号沿用原站，不能据此证明全部官方版本齐全。",
+    "2013-12至2014-12尚未补齐核验。",
+    "图意未核验的题目只给语言反馈，不给整体分。",
+    "同题可能出现在不同套卷，保留来源身份而不合并考次。"
+  ]
+}

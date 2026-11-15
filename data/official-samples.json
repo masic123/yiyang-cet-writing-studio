@@ -1,0 +1,350 @@
+{
+  "provenance": {
+    "source_url": "https://cet.neea.edu.cn/res/Home/1704/55b02330ac17274664f06d9d3db8249d.pdf",
+    "document_name": "全国大学英语四、六级考试大纲(2016年修订版)",
+    "verification_date": "2026-10-28",
+    "type": "official_published_scoring_samples",
+    "notes": "分数来自考试院2016年修订版大纲公开的评分样卷，非AI打分。20篇覆盖四种任务各五档；每类仅一道题。英文空格与特殊字符经MinerU/CodeBuddy重建，保留原答卷语言错误，转写疑点见各条目。",
+    "transcription_status": "draft_with_uncertainties",
+    "warning": "使用前应核实转写疑点；不可把本数据标为无误的精确人工转录。"
+  },
+  "prompts": [
+    {
+      "id": "cet4-writing-prompt",
+      "exam_level": "CET4",
+      "task_type": "writing",
+      "prompt_text": "Directions: For this part, you are allowed 30 minutes to write an essay based on the picture below. You should start your essay with a brief description of the picture and comment on the kid's understanding of going to school. You should write at least 120 words but no more than 180 words. Write your essay on Answer Sheet 1.\n\n[Picture caption inside the image: \"Why am I going to school if my phone already knows everything?\"]",
+      "picture_image_file": "page-images/page-202.png",
+      "pdf_pages": [
+        202,
+        203,
+        204
+      ]
+    },
+    {
+      "id": "cet6-writing-prompt",
+      "exam_level": "CET6",
+      "task_type": "writing",
+      "prompt_text": "Directions: For this part, you are allowed 30 minutes to write an essay commenting on the saying \"If you cannot do great things, do small things in a great way.\" You can cite examples to illustrate your point of view. You should write at least 150 words but no more than 200 words. Write your essay on Answer Sheet 1.",
+      "pdf_pages": [
+        205,
+        206,
+        207
+      ]
+    },
+    {
+      "id": "cet4-translation-prompt",
+      "exam_level": "CET4",
+      "task_type": "translation",
+      "prompt_text": "Translate the following Chinese paragraph into English within 30 minutes.",
+      "chinese_source": "据报道,今年中国快递服务(courier services)将递送大约120亿件包裹.这将使中国有可能超越美国成为世界上最大的快递市场.大多数包裹里装着网上订购的物品.中国给数百万在线零售商以极具竞争力的价格销售商品的机会.仅在11月11日,中国消费者就从国内最大的购物平台购买了价值90亿美元的商品.中国有不少这样的特殊购物日.因此,快递业在中国扩展就不足为奇了.",
+      "reference_translation": "It is reported that Chinese courier services will deliver about 12 billion parcels this year. This will enable China to overtake the US and become the world's biggest delivery market. The majority of courier packages contain items ordered online. China gives millions of online retailers the opportunity to sell goods at highly competitive prices. On 11 November alone, Chinese consumers bought $9 billion worth of products on the country's biggest shopping platform. China has many special shopping holidays like this. So, it's no surprise the courier industry is expanding in China.",
+      "pdf_pages": [
+        208,
+        209
+      ]
+    },
+    {
+      "id": "cet6-translation-prompt",
+      "exam_level": "CET6",
+      "task_type": "translation",
+      "prompt_text": "Translate the following Chinese paragraph into English within 30 minutes.",
+      "chinese_source": "中国传统的待客之道要求饭菜丰富多样,让客人吃不完.中国宴席上典型的菜单包括开席的一套凉菜及其后的热菜,例如肉类、鸡鸭、蔬菜等.大多数宴席上,全鱼被认为是必不可少的,除非已经上过各式海鲜.如今,中国人喜欢把西方特色菜与传统中式菜肴融于一席,因此牛排上桌也不少见.沙拉也已流行起来,尽管传统上中国人一般不吃任何未经烹饪的菜肴.宴席通常至少有一道汤,可以最先或最后上桌.甜点和水果通常标志宴席的结束.",
+      "reference_translation": "Traditional Chinese hospitality requires that guests be offered a rich variety of dishes which are more than they could possibly finish. Typical menus in a Chinese banquet include a set of cold dishes to begin with, followed by hot dishes, such as meats, chicken, duck, and vegetables. A whole fish is considered essential for most banquets unless various seafoods have already been served. Nowaday the Chinese like to mix Western specialties with traditional Chinese dishes, so it's not unusual to see beefsteaks served. Salads have also come into fashion even though traditionally Chinese tend to refuse anything uncooked. A banquet usually includes at least one soup, which is likely to be served as the first or the last course. Desserts and fruits generally signal the end of a banquet.",
+      "pdf_pages": [
+        210,
+        211
+      ],
+      "transcription_uncertainties": [
+        "参考译文中 Nowaday 可能漏识别词尾 s；原PDF文本层显示 Nowadays。未将参考译文计入带分样本。"
+      ]
+    }
+  ],
+  "samples": [
+    {
+      "id": "cet4-writing-14",
+      "prompt_id": "cet4-writing-prompt",
+      "score": 14,
+      "max_score": 15,
+      "text": "As is demonstrated in the picture, despite his mother's angry face, the kid is unwilling to go to school, arguing that since he can get everything he wants to know through his phone, there's no need going to school and acquiring them in class. It's not uncommon to hear such argument among young students nowadays.\n\nHowever, this kid's understanding of going to school can be potentially harmful for following reasons. First, more than merely acquiring knowledge, going to school is also an act to get involved in society. We'll learn how to build friendship and develop interpersonal skills, which is valuable experience in our life that cannot be learnt from phones. Besides, school also teaches us how to think, how to pursue knowledge actively, which cannot be replaced by cellphones because we can only gain knowledge passively from cellphones.\n\nFor reasons above, it's high time that young students realized the value of school. Put down their phones and interact with others, and a bigger world is waiting for us to explore.",
+      "pdf_pages": [
+        202
+      ],
+      "transcription_uncertainties": [
+        "第一段末 'nowadays' 后是否有句号: 一版识别有 '.', 另一版无, 现按有句号处理。"
+      ]
+    },
+    {
+      "id": "cet4-writing-11",
+      "prompt_id": "cet4-writing-prompt",
+      "score": 11,
+      "max_score": 15,
+      "text": "This picture describes a conversation between a child and his mother. The child thinks it is not necessary to attend school because almost all information can be obtained from cell phone with Internet. That seems make sense, whereas, in my perspective, it is still essential for us to go to school.\n\nWe live in an information age when books and articles are available to everyone on the Internet. Knowledge becomes public. If we want to learn something such as mathematics, we can easily find some related books online. However, knowledge online isn't your knowledge. You will need to learn it and turn it to your own knowledge. Schools, or maybe teachers, can conduct you how to learn well. Actually, they develop your study habits and tell you some methods when dealing with new difficult problems. How to learn is absolutely more important than what to learn. Although there are huge amounts of knowledge online, we still need to know how to master it. That's why we go to school.",
+      "pdf_pages": [
+        202,
+        203
+      ],
+      "transcription_uncertainties": [
+        "跨 202-203 页; 'cell phone' 两版识别为 'cel phone' / 'cell phone', 不确定原卷是否写成一个词 cellphone。",
+        "'it is still essential' 在 MinerU 版作 'stil essential'(断行丢失字母), 按第二版补全为 still。"
+      ]
+    },
+    {
+      "id": "cet4-writing-8",
+      "prompt_id": "cet4-writing-prompt",
+      "score": 8,
+      "max_score": 15,
+      "text": "The carton reveals a young boy who takes a phone and show his doubting, and a man with a dog is listening his question, \"Why am I going to school if my phone already knows everything?\" Nowaday, a great amount of students use electronics like mobile phone. It seems we can acknowledge all information through internet, but something we ignored.\n\nFirst of all, if we have already got a phone and don't need to go to school, so how about improve our communication skills? There is no platform for students to know each other.\n\nSecondly, how to create a team work? We only know ourselves, and don't know sharing, don't know help others, don't know 1+1 more than 2.\n\nLast but not least, we can learn not only knowledge, but also music, computer, and language.\n\nAll reasons show why we should go to school. Although it is convenient for us to acknowledge information through phone, but lost happiness of learning and exploring with others which is the most important.",
+      "pdf_pages": [
+        203
+      ],
+      "transcription_uncertainties": [
+        "'carton'(应为 cartoon)、'Nowaday'、'show his doubting'、'listening his question' 均为学生原文错误, 已照录未改。",
+        "'a man with a dog' 与原图(母亲与孩子)不符, 属学生描写偏差, 按原文保留; 无法看图复核。"
+      ]
+    },
+    {
+      "id": "cet4-writing-5",
+      "prompt_id": "cet4-writing-prompt",
+      "score": 5,
+      "max_score": 15,
+      "text": "In our daily life, more and more morden method can start. Just like the picture said \"why am I going to school if my phone already knows everything?\" As we knowns, we can start from our phones. But I think there is a misunderstanding said about this. Thereasons are above of.\n\nGoing to school, we can start all subjects, example, Chinese, Math, Music and so on. When we not understand, we can ask for teachers. We can receive all kinds of knowledge from the school. Going to school, we have communicate with teacher and classmate, these can help us improving our communicate skills, which can help we when we go to sociate. If you have this communicate relationship, we will have good job.\n\nIn all, learning from the phone cannot steady of learning from school. In our life, the phone knowledge is limit. In our limited education condition, going to school will learn more knowledge. It can take us all knowledge, communication skills, people's relationship.",
+      "pdf_pages": [
+        203,
+        204
+      ],
+      "transcription_uncertainties": [
+        "第一处 'Thereason are above of.'(MinerU 版) 与 'Thereasons are above of.'(第二版) 不一致, 现按 Thereasons 记, 可能应为 Thereason。",
+        "'morden'(modern)、'As we knowns'、'sociate'(socialize)、'cannot steady of'(instead of)、'It can take us all knowledge' 等均为学生原文错误, 未改。",
+        "'ask for teachers' 疑为 ask teachers / ask help from teachers 的学生写法, 按原文保留。"
+      ]
+    },
+    {
+      "id": "cet4-writing-2",
+      "prompt_id": "cet4-writing-prompt",
+      "score": 2,
+      "max_score": 15,
+      "text": "Why I going to school if my phone already knows everything? But you phone can't teacher you how leaning.\n\nFor some reason, in we are a child, we must going to school, to study, to leaning, to player. But if this IT time, this Bigdatetime, my phone can knows everything. He can teacher you, can easy call everone, can giving you happying from something game.\n\nBecause, the school can give more. First, let you going to school, is in government idea, in very long time is a way in they. Two, you father and mother, he want to you going to school, because, in him we are child, in him we be going to school. So, where you phone can already knows everything. But this is just phone he can't chang we are school. For something reason, school away is school, whever IT time, Bigdatetime, school is nobody can easy chang. Because, this is school, by learn, by funing, giving you friend the school.",
+      "pdf_pages": [
+        204
+      ],
+      "transcription_uncertainties": [
+        "'Bigdatetime' 三处均如此识别, 疑为 'Big data time', 也可能就是学生的写法; 未改。",
+        "'call everone' 原文粘连为 'calleverone', 可能应为 'call everyone'(可能漏字母), 未改。",
+        "'can't teacher you how leaning' 中 teacher 作动词、leaning 疑为 learning, 均为学生原文, 未改。",
+        "'chang'(疑 change 或 chance)、'funing'(疑 funny/funning)、'whever'(whenever)、'a way in they' 语境不明, 按识别原文保留。"
+      ]
+    },
+    {
+      "id": "cet6-writing-14",
+      "prompt_id": "cet6-writing-prompt",
+      "score": 14,
+      "max_score": 15,
+      "text": "We all remember a time when we spoke proudly about becoming the next Bill Gates, or Stephen Hawking, and it's never wrong to dream big. As time passes by, we gradually realize that most of us are bound to stay ordinary. Yet there's still a way of achieving excellency. As the saying goes, \"If you cannot do great things, do small things in a great way.\"\n\nA perfect life doesn't have to be so glorious or sparkling as grand plays performed in theatres. The true value lies in our attitude towards tiny daily issues, of which the repairman working in our community is an ideal example. Bicycle-repairing is certainly not the brightest or best-paid profession to many, but this man puts his heart and soul into it and views it as his way of serving for people in the community, which is why he earns high reputation.\n\nAs a generation about to step into the fiercely competitive society, we are haunted by the feeling of worry and helplessness. If we strive for accomplishing remarkable success and becoming world-renowned, we'll probably feel frustrated and disappointed. Only by realizing \"Excellency derives from small matters\" can we survive and thrive.",
+      "pdf_pages": [
+        205
+      ],
+      "transcription_uncertainties": [
+        "连字符在原文文本层为全角 'Ｇ' 字符(BicycleＧrepairing / bestＧpaid / worldＧrenowned), 现还原为半角连字符。"
+      ]
+    },
+    {
+      "id": "cet6-writing-11",
+      "prompt_id": "cet6-writing-prompt",
+      "score": 11,
+      "max_score": 15,
+      "text": "\"If you cannot do great things, do small things in a great way\" is the greatest saying I've ever heard. I admire many people. Some of them are heroes who do great things, but some of them are ordinary people. They do small things which seems simple and boring.\n\nTo illustrate it, I show an example first. My Chinese teacher, Miss Chen, is an ordinary senior high school teacher. She teaches everyday. However, in my eyes, she's a great teacher. She really loves her students and her courses are wonderful. She will spend her spare time to prepare a good class. She's always willing to help students. As a result, she's a very popular teacher in our school.\n\nMiss Chen doesn't do great things, but she tries to make her job great. When you do things wholeheartedly, you are great person. Obviously, not everyone has the chance to be a hero, but when we do our small things in great way, we succeed.\n\nThis is an amazing quality. So we shouldn't complain that we can't do great things. Let's do small things in a great way to be our own hero.",
+      "pdf_pages": [
+        205,
+        206
+      ],
+      "transcription_uncertainties": [
+        "跨 205-206 页('Let's' 在 205 页末, 'do small things...' 在 206 页首)。",
+        "'She teaches everyday' 原文粘连为 'teacheseveryday', 可能实际为 'teaches every day', 未改。",
+        "'you are great person'(缺 a)、'which seems'(应为 seem)、'in great way'(缺 a) 均为学生原文错误, 未改。"
+      ]
+    },
+    {
+      "id": "cet6-writing-8",
+      "prompt_id": "cet6-writing-prompt",
+      "score": 8,
+      "max_score": 15,
+      "text": "A successful great man said: \"a soldier who don't want to be a general is not a good soldier\". We can find that most of men want to become great man, and do great things! But an army has only one general, most of soldiers can only be a normal soldier. So should the soldiers all go back home, just because they can't become a general? Of course not!\n\nEveryone has his value in his position. An army can't win battle if has only a general but no soldiers. If you are a soldier, just do your best, stay in your position and everyone will respect you includ the general. As my father, although he's working in the government as a normal public servant not an officer, but he did his best in work. He solved lots of questions for his department, and served for hundreds of people a week to help them, he feels that he's successful because his leader and all the people he served said to him: \"you are a great man\".\n\nSo we just do our best in our work, do more for the others! We are all the great man!",
+      "pdf_pages": [
+        206
+      ],
+      "transcription_uncertainties": [
+        "'willrespectyou' 在 MinerU 版作 'wil respect'(断行丢字), 按第二版补为 will respect you。",
+        "'respect you includ the general'(应为 including)、'We are all the great man' 等为学生原文错误, 未改。"
+      ]
+    },
+    {
+      "id": "cet6-writing-5",
+      "prompt_id": "cet6-writing-prompt",
+      "score": 5,
+      "max_score": 15,
+      "text": "As show in this saying, Recentally many people, especially young person, think it is certainly do good to do great things, rather than small things. Moreover, they often think do small things has no value and boring.\n\nThe saying above tries to criticize the phenomenon that most people want do great things rather than small things. It's really a wrong views. After carefully consideration, I have state that the saying is more biased. It given following reasons. Firstly, There not only great things but also small things in every project. Besides, the small things can do very excellent too, if you can make your minds to do it. Further, If you can't do a small things well, neither great things.\n\nFrom what discussed above, we conclude that question quite depends on choice. In my own eyes, no matter what ability we have, how excellent we are. Because if you want walk thousands miles, you have to do every step in you foot. Only if do small things well, do great things in the same time.",
+      "pdf_pages": [
+        206
+      ],
+      "transcription_uncertainties": [
+        "'Recentally' 两版均如此识别, 疑为 'Recently' 的学生写法/拼写错误, 未改。",
+        "'I have state that'(应为 stated)、'It given'(gives)、'Further, If'(大小写连用)、'you foot'(your)、'thousands miles'(thousands of miles) 均为学生原文错误, 未改。"
+      ]
+    },
+    {
+      "id": "cet6-writing-2",
+      "prompt_id": "cet6-writing-prompt",
+      "score": 2,
+      "max_score": 15,
+      "text": "Nowadays, everybody want do great things, such as student we would rather to elect the hot of sauce rather than study the useful teknologe. But, as show in the eassy that it saying \"If you cannot do great things, do small things in a great way\".\n\nThere are some reasons we should do some small things. To begin with, nothing is distinguish by great things and small things. To sum up the small thing. It is also a great thing. And the great thing is own to people's opinion. Then, if want to be success, the small things will help to you. Furthermore, the most of all famous people is grown in small things. Finally, the things must said to yourself. If you unable to do, you should give up quickly.\n\nIn short, it is time to do somethings no matter how great things or small things. When we growing up, we are get benefited from those small things. Every is important. Every things is benefit to your future. Only by this way we can successful and more happy.",
+      "pdf_pages": [
+        206,
+        207
+      ],
+      "transcription_uncertainties": [
+        "'the hot of sauce' 在两版识别中一致, 但与上下文不通(疑原文另有写法或识别有误), 建议看图复核; 暂按原文保留。",
+        "'eassy'(疑 essay 的拼写错误)、'teknologe'(technology)、'somethings'、'Every is important' 均为学生原文错误, 未改。",
+        "跨 206-207 页('To begin with, nothing is' 在 206 页末)。"
+      ]
+    },
+    {
+      "id": "cet4-translation-14",
+      "prompt_id": "cet4-translation-prompt",
+      "score": 14,
+      "max_score": 15,
+      "text": "It is reported that the courier services in China will deliver about 12 billion pieces of package, which indicates that China may surpass the U.S. to become the largest market for courier services. Most packages contain products ordered from the Internet. China has provided millions of online retailers with opportunities to sell their products at an extremely competitive price. On November 11th alone, Chinese consumers have purchased products that valued up to 9 billion dollars from the largest shopping platform in the country. Since there are quite a few special shopping festivals in China, it is not particularly surprising that courier services have expanded rapidly in China.",
+      "pdf_pages": [
+        208
+      ],
+      "transcription_uncertainties": [
+        "'11th' 在原文为上标; 'pieces of package'(未用复数 packages) 疑为学生原文, 未改。"
+      ]
+    },
+    {
+      "id": "cet4-translation-11",
+      "prompt_id": "cet4-translation-prompt",
+      "score": 11,
+      "max_score": 15,
+      "text": "It is reported that Chinese courier services will send about 12 billion packages this year, which may make China become the biggest courier market in the world in the place of America. Most of the packages carry the items bought on the Internet. China gives millions of retailers online the opportunities to sell products in extremely competitive prices. Only on November 11th, Chinese consumers bought products valued 9 billion dollars from the biggest shopping platform in China. There are many special shopping days in China. Therefore, it is not strange that courier services have been developing fast in China.",
+      "pdf_pages": [
+        208
+      ],
+      "transcription_uncertainties": [
+        "'at ... prices' 处学生写作 'in extremely competitive prices', 属原文错误, 未改。"
+      ]
+    },
+    {
+      "id": "cet4-translation-8",
+      "prompt_id": "cet4-translation-prompt",
+      "score": 8,
+      "max_score": 15,
+      "text": "It is reported that the courier services in China will deliver about 12 billion packages this year which may show that China would beat the USA to be the biggest courier market in the world. Most packages covers the products which are bought on-line, for China gives millions of companies online opportunities to sell products in competitive prices. Just in November 11th, the cosumers in China bought more than 9 billion prices products from the largest business floor. China has many other unique cosuming day like this, therefore, it's not surprising the courier services expand in China.",
+      "pdf_pages": [
+        209
+      ],
+      "transcription_uncertainties": [
+        "'cosumers'(consumers)、'cosuming'(consuming) 两版识别一致, 按原文保留。",
+        "'most packages covers'(主谓不一致)、'9 billion prices products'、'largest business floor' 均为学生原文错误, 未改。",
+        "连字符 'onＧline'(全角Ｇ还原为半角 '-')。"
+      ]
+    },
+    {
+      "id": "cet4-translation-5",
+      "prompt_id": "cet4-translation-prompt",
+      "score": 5,
+      "max_score": 15,
+      "text": "According to the report, this year courier services in China will send about 12 billion packets. It will make China over America to become the biggest courier market in the world. Most of packets are the things which buy from the Internet. China gives the opportunities to the millions of salesmen to use the competive price selling things. Just on Nov. 11th, Chinese comasters bought 9 billion dollars things from the biggest shopping markets. China has many special shopping days like this. So it is not surprise that the courier services can extend quickly in China.",
+      "pdf_pages": [
+        209
+      ],
+      "transcription_uncertainties": [
+        "'comasters' 两版识别一致(疑为 customers 的学生拼写错误), 未改。",
+        "'competive'(competitive)、'packets'、'will make China over America'、'9 billion dollars things' 均为学生原文错误, 未改。"
+      ]
+    },
+    {
+      "id": "cet4-translation-2",
+      "prompt_id": "cet4-translation-prompt",
+      "score": 2,
+      "max_score": 15,
+      "text": "From the report, China courier services will delivey about 120 million packages in this year. China will beyond America become most biggest courier all over the world. Most packages are goods of online shop. China offer for billions of detial shops that price of competitive sale the goods for a chance. On November 11st, the Chinese comsumer who bought 90 million dollars goods on biggest China shop platform. China have many extraordinary shopping day. Even though, couriesservices will expand that not extrordinary in China.",
+      "pdf_pages": [
+        209
+      ],
+      "transcription_uncertainties": [
+        "'120 million packages' / '90 million dollars' 与原文 120亿 / 90亿 不符, 属该档样卷(2分)的译文错误, 按原文保留, 不要当作改动目标。",
+        "'delivey'(deliver)、'detial'(retail)、'comsumer'(consumer)、'couriesservices'(courier services 未分词)、'extrordinary'(extraordinary)、'11st' 均为学生原文错误, 未改。",
+        "'China offer for billions of detial shops that price of competitive sale the goods for a chance' 句结构混乱但照原文字序保留。"
+      ]
+    },
+    {
+      "id": "cet6-translation-14",
+      "prompt_id": "cet6-translation-prompt",
+      "score": 14,
+      "max_score": 15,
+      "text": "The traditional Chinese way of treating guests requires hosts to prepare abundant and various dishes, and make the guests unable to finish them all. The typical menu for a Chinese feast consists of a set of cold dishes, which are served at the beginning and some hot dishes after that, such as meat, chicken, ducks and vegetables. In most feasts, a complete fish is considered necessary unless various kinds of seafood have been served. Nowadays, Chinese people like to mix western special dishes with traditional Chinese cuisine, so it is not rare to find steak on the table. In addition, salad has gained its popularity constantly, even though Chinese people are not likely to eat dishes that have not been cooked in tradition. There is generally a soup in a feast, which can be served at the beginning or the end of the meal. Besides, desserts and fruits often mark the end of a feast.",
+      "pdf_pages": [
+        210
+      ],
+      "transcription_uncertainties": []
+    },
+    {
+      "id": "cet6-translation-11",
+      "prompt_id": "cet6-translation-prompt",
+      "score": 11,
+      "max_score": 15,
+      "text": "The traditional Chinese way to treat guests demands a variety of food which won't be eaten up. A typical menu of Chinese dinner contains a series of cold dishes at the beginning and cooked food later, such as meat, chicken, duck and vegetables. Fish is thought to be necessary in most formal dinners unless different kinds of seafood has been served. Nowadays, Chinese people like to combine special food from Western countries with traditional Chinese food. As a result, beef is not rare at Chinese dinner. Salad has been more and more popular, although Chinese don't eat any uncooked food traditionally. There will be at least one soup at dinner, which can be served at first or at last. Desserts and fruits are usually a sign of the end of dinner.",
+      "pdf_pages": [
+        210,
+        211
+      ],
+      "transcription_uncertainties": [
+        "跨 210-211 页('served.' 在 210 页末, 'Nowadays...' 在 211 页首)。",
+        "'beef'(原文为牛排 beefsteak) 为学生译文用词, 未改。"
+      ]
+    },
+    {
+      "id": "cet6-translation-8",
+      "prompt_id": "cet6-translation-prompt",
+      "score": 8,
+      "max_score": 15,
+      "text": "The Chinese traditional way of treating guests requires that the food in a dinner should be various and more than what guests could eat up. A typical list of a Chinese dinner including a set of cold dishes at the beginning, followed by hot dishes such as meat, chicken, vegetables and so on. In most dinners, it is thought that an entire fish is unlackable except that all kinds of seafood have been provided. Nowadays, Chinese people prefer to combine western typical food with traditional Chinese food in a dinner. So it's not rare to see steak being provided. Salad is beginning to become popular as well, even though traditional Chinese people don't eat anything uncooked. There should usually be a kind of soup at least, which can be served at the beginning or at the end of a dinner. Deserts and fruits usually mark the end of dinner.",
+      "pdf_pages": [
+        211
+      ],
+      "transcription_uncertainties": [
+        "'unlackable'(非规范词, 疑为 indispensable 的学生造词)、'Deserts'(应为 Desserts)、'A typical list ... including'(缺谓语) 均为学生原文错误, 未改。"
+      ]
+    },
+    {
+      "id": "cet6-translation-5",
+      "prompt_id": "cet6-translation-prompt",
+      "score": 5,
+      "max_score": 15,
+      "text": "The tradition of Chinese treatment to guests is that the food must be much enough to let guests be unable to finish. The traditional food in China includes the beginning cool food and hot food next, such as meat, chicken, vegetables and etc. In most parties, fish is considered to be important, except that the seafood has been given. Nowadays, Chinese like to mix Western food and traditional Chinese food together, thus the pearl can be seen frequently on the table. Sala has also gained its popularity, even though traditionally, Chinese people don't eat any food without being fired. There's at least one kind of soup on the table. It can be taken into the table firstly or lastly. Desserts and fruits often mark the ending of the party.",
+      "pdf_pages": [
+        211
+      ],
+      "transcription_uncertainties": [
+        "'the pearl can be seen frequently on the table' 与原文'牛排上桌也不少见'不符, 两版识别均为 'pearl', 高度疑为识别有误(或考生写错), 建议看图复核; 暂按原文保留。",
+        "'Salahas' 两版一致, 已按 'Sala has' 分词, 疑应为 'Salad has'(d 被识别丢失)。",
+        "'without being fired'(应为 cooked)、'vegetables and etc.'、'taken into the table' 均为学生原文错误, 未改。"
+      ]
+    },
+    {
+      "id": "cet6-translation-2",
+      "prompt_id": "cet6-translation-prompt",
+      "score": 2,
+      "max_score": 15,
+      "text": "In the way of Chinese traditional treat, the food should be many and too much to eat. Classical Chinese treat includes some cold dishes in the beginning, and than some hot dishes, like meat, vegetable and chiken. Often, the fish is must provided, expect there are many sea foods, now, Chinese like mix some west dishes in a Chinese traditional treat. So, beef is a often dish. Salad also start to be popular. Although Chinese don't eat any food not be cooked. Usually, there is at least a soup, in the start or the last. Dessert or fruit usually symbles that treat will be over.",
+      "pdf_pages": [
+        211
+      ],
+      "transcription_uncertainties": [
+        "'and than'(then)、'chiken'(chicken)、'expect'(except)、'symbles'(symbolizes)、'west dishes'(western) 为学生原文错误, 未改。",
+        "'Salad also start to be popular.' 后原文似用句号断句(MinerU 版无句号), 按第二版补句号。"
+      ]
+    }
+  ]
+}

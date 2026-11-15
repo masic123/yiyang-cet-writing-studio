@@ -1,0 +1,1069 @@
+# 四六级写作高频词汇·短语·固定句式手册
+
+**Writing Toolkit for CET-4 / CET-6**
+
+六个题型的骨架、四类段落的写法、24 个议论文句式、40 组提分替换，以及五篇可直接拆解的范文。按"先搭骨架、再填论据、最后亮语言"的顺序编排。
+
+---
+
+## 第一章 规则与得分逻辑
+
+写作和翻译是同一张卷子上的两项，但提分逻辑完全相反。翻译考的是"准确转写"，写作考的是"**用一套可复用的结构，把三句话说成一篇文章**"。所以写作的准备重点不是背更多词，而是把骨架练到不用思考。
+
+### 1.1 考什么
+
+| 项目 | 四级 | 六级 |
+|---|---|---|
+| 字数 | 120—180 词 | 150—200 词 |
+| 时间 | 30 分钟（考试第一项） | 同左 |
+| 分值 | 15%（106.5 分） | 15%（106.5 分） |
+| 形式 | 命题作文，附中文提纲或英文提示 | 同左，题目更抽象 |
+| 文体 | 议论文为主 | 议论文，偶有说明文 |
+
+**字数一定要写够。** 四级少于 120 词、六级少于 150 词，会按比例扣分；但也不必写到 250 词——超字数不扣分，却会挤占检查时间，反而多出错。**目标：四级写到 150 词左右，六级写到 180 词左右。**
+
+### 1.2 五档评分
+
+| 档次 | 分数 | 标准 |
+|---|---|---|
+| 一档 | 13—15 | 切题，表达思想清楚，文字通顺连贯，基本无语言错误 |
+| 二档 | 10—12 | 切题，表达思想清楚，文字较连贯，有少量语言错误 |
+| 三档 | 7—9 | 基本切题，有些地方表达不够清楚，连贯性差，语言错误相当多 |
+| 四档 | 4—6 | 基本切题，表达思想不清楚，连贯性差，有较多严重错误 |
+| 五档 | 1—3 | 条理不清，思路紊乱，语言支离破碎 |
+
+注意这个排列顺序：**切题 > 表达清楚 > 连贯 > 语言正确**。语言排最后，不是因为不重要，而是因为前三项不过关时，语言再好也进不了一档。
+
+### 1.3 定档靠什么
+
+阅卷是"**先定档、再微调**"的过程。定档看的是三件事，按权重排序：
+
+1. **有没有跑题** —— 提纲三点都写到了吗？
+2. **结构能不能一眼看出来** —— 是不是三段？每段有没有主题句？
+3. **句子能不能读下去** —— 有没有连续两句语法崩掉？
+
+微调看的是**亮点**：一个恰当的倒装、一个地道的搭配、一个准确的例子，都能把分数从 11 推到 13。反过来，模板痕迹过重、通篇 I think / very important / a lot of，很难上二档以上。
+
+> **一句话结论**：结构和切题决定你的下限，语言亮点决定你的上限。先把下限拿稳，再谈亮点。
+
+### 1.4 三段式骨架
+
+四六级写作最稳的结构永远是三段。不管题目怎么变，每段的功能是固定的：
+
+| 段落 | 功能 | 句数 | 内容 |
+|---|---|---|---|
+| 第一段 | 引入 + 立论 | 3 句 | 现象/背景 + 他人观点或数据 + 我的观点 |
+| 第二段 | 论证 | 5—6 句 | 主题句 + 理由一（例证）+ 理由二（例证）+ 让步或收束 |
+| 第三段 | 结论 | 2—3 句 | 重申观点 + 建议/展望 |
+
+按每句 15—20 词算，10—11 句正好 150—180 词。**这就是字数的来源**：不靠拉长句子凑，靠句数够。
+
+### 1.5 30 分钟怎么分
+
+| 阶段 | 用时 | 做什么 |
+|---|---|---|
+| 审题 + 列提纲 | 5 分钟 | 判断题型，定三段各写什么，列出两个理由的关键词 |
+| 写第一段 | 5 分钟 | 三句话，写慢一点，开头错误最刺眼 |
+| 写第二段 | 12 分钟 | 主题句先行，两个理由各配一句例证 |
+| 写第三段 | 4 分钟 | 两句话收尾，别引入新观点 |
+| 检查 | 4 分钟 | 查时态、单复数、主谓一致、拼写、字数 |
+
+> **关键提醒**：那 5 分钟提纲不能省。多数 7—9 分的作文，问题不是英语差，是**边写边想导致逻辑跳跃**。提纲写下来，主体段就不会写着写着跑偏。
+
+---
+
+## 第二章 题型识别与对应骨架
+
+四六级写作看似五花八门，其实只有六种题。**认出题型，骨架就定了**，剩下只是填空。
+
+### 2.1 六种题型速查
+
+| 题型 | 识别特征 | 第一段 | 第二段 | 第三段 |
+|---|---|---|---|---|
+| 现象解释型 | "近年来……现象" | 描述现象 + 点明争议 | 分析原因（2 条）+ 影响 | 我的看法 + 建议 |
+| 观点论证型 | "On the Importance of..." | 引出话题 + 我的立场 | 两个理由 + 例证 | 重申 + 呼吁 |
+| 对比选择型 | "A or B?" / "Should...?" | 呈现两种观点 | 比较两者优劣 | 我的选择 + 理由 |
+| 问题解决型 | "How to...?" | 指出问题严重性 | 分析原因或后果 | 提出 2—3 条措施 |
+| 图表型 | 给出数据或图表 | 描述数据变化 | 分析原因 | 预测趋势 / 建议 |
+| 引言型 | 给一句名言 | 解释引言含义 | 论证引言（举例） | 联系自身 / 总结 |
+
+### 2.2 三种最高频题型的完整骨架
+
+**观点论证型**（出现频率最高）
+
+> **第一段**
+> ① 现象或背景句：`Nowadays, ... has become increasingly common among college students.`
+> ② 引出争议或强调重要性：`Whether ... has aroused heated discussion.` / `Its importance cannot be overstated.`
+> ③ 我的立场：`From my perspective, ... plays a vital role in ...`
+>
+> **第二段**
+> ④ 主题句：`The reasons are twofold.`
+> ⑤ 理由一 + 例证：`To begin with, ... For instance, ...`
+> ⑥ 理由二 + 例证：`In addition, ... A case in point is that ...`
+> ⑦ 小收束或让步：`Admittedly, ..., but ...`
+>
+> **第三段**
+> ⑧ 重申：`In conclusion, ...`
+> ⑨ 建议或展望：`Therefore, it is advisable that we should ...`
+
+**问题解决型**
+
+> **第一段**：现象 + 危害（`This trend has given rise to widespread concern.`）
+> **第二段**：三条原因或三条危害（`Several factors contribute to this problem.`）
+> **第三段**：三条措施（`To reverse this situation, joint efforts are required.`）
+
+**对比选择型**
+
+> **第一段**：`When it comes to ..., opinions vary from person to person. Some argue that ..., while others hold that ...`
+> **第二段**：各自理由（`Those who prefer A believe that ... However, supporters of B point out that ...`）
+> **第三段**：`As far as I am concerned, ...`
+
+> **提醒**：骨架是用来保证"结构分"的，不是用来套话的。每段的**主题句必须自己写**，模板句只负责连接。整篇全是模板句，阅卷一眼就能看出来，反而压分。
+
+---
+
+## 第三章 开头段：八种引入方式
+
+开头段只干一件事：**用两三句话把话题引出来，并亮明立场**。原则是"由大到小"——从普遍现象收到具体话题，最后落到"我认为"。
+
+### 3.1 现象引入（最通用）
+
+**模板**：`In recent years, ... has become increasingly popular / common among ...`
+> **例** In recent years, taking part-time jobs has become increasingly common among college students.
+> （近年来，兼职在大学生中越来越普遍。）
+
+变体：`Nowadays, more and more people tend to ...` / `... is gaining popularity at an astonishing rate.`
+
+### 3.2 数据引入（显得有据可依）
+
+**模板**：`According to a recent survey, ... percent of ... `
+> **例** According to a recent survey, nearly 70 percent of college students spend over three hours a day on their phones.
+> （据最近一项调查，近七成大学生每天花三小时以上在手机上。）
+
+> **注意**：不要编造过于精确的数据（如 67.3%），用 nearly / about / over 这类模糊限定更稳妥。
+
+### 3.3 引言引入（题目给了名言时必须用）
+
+**模板**：`As the saying goes, "...", which reveals that ...`
+> **例** As the saying goes, "Action speaks louder than words," which reveals that practice carries more weight than empty talk.
+> （常言道"行动胜于言辞"，这说明实践比空谈更重要。）
+
+变体：`There is an old saying that ...` / `As a proverb puts it, ...`
+
+### 3.4 提问引入（抓注意力）
+
+**模板**：`Have you ever wondered why ...? / What would happen if ...?`
+> **例** Have you ever wondered why some students excel in both study and social activities while others struggle?
+> （你有没有想过，为什么有些学生学业和社交都很出色，而另一些却很吃力？）
+
+> **警示**：提问开头很有力，但**一篇只能用一次**，且第二段必须真的回答这个问题，否则显得空。
+
+### 3.5 对比引入（适合争议话题）
+
+**模板**：`Some people believe that ..., while others argue that ...`
+> **例** Some people believe that online learning is as effective as traditional classes, while others argue that it can never replace face-to-face interaction.
+
+### 3.6 定义引入（适合抽象概念）
+
+**模板**：`... refers to ... / By ..., we mean ...`
+> **例** By "team spirit," we mean the willingness to cooperate with others and to put collective goals above personal interests.
+
+### 3.7 背景引入（适合社会话题）
+
+**模板**：`With the rapid development of ..., ... has drawn widespread attention.`
+> **例** With the rapid development of the Internet, the way people communicate has changed dramatically.
+
+### 3.8 观点直陈（最省时间，适合时间紧时）
+
+**模板**：`I firmly believe that ... / In my view, ... is of vital importance.`
+> **例** I firmly believe that reading classics is of vital importance to college students.
+
+### 3.9 开头段的三个禁忌
+
+| 禁忌 | 错误示例 | 为什么不行 |
+|---|---|---|
+| 抄题目 | 题目 "On the Importance of Reading"，开头照抄一遍 | 不计入字数，且暴露词汇贫乏 |
+| 空洞铺陈 | "With the development of society and economy, people's living standards are improving..." | 与主题无关，占掉宝贵的 30 词 |
+| 过早下结论 | 第一段就把理由说完 | 第二段没话写，只能重复 |
+
+---
+
+## 第四章 主体段：论点展开的五种方式
+
+主体段是分数的核心。一段合格的主体段必须有三样东西：**主题句、支撑、收束**。缺主题句，阅卷找不到你的论点；缺支撑，论点站不住；缺收束，段落显得没有结束。
+
+### 4.1 主体段的标准结构
+
+**主题句（1 句）+ 支撑一（2 句）+ 支撑二（2 句）+ 收束（1 句）**，共 6 句约 100 词。
+
+> **主题句模板**：`There are several reasons why ... / ... benefits us in more than one way.`
+>
+> **收束模板**：`For these reasons, ... / Therefore, ... is by no means ...`
+
+### 4.2 方式一：举例论证（最好用）
+
+**句式**：
+- `For instance, ...`
+- `A case in point is that ...`
+- `Take ... as an example.`
+- `This can be illustrated by ...`
+
+> **示例**：To begin with, part-time jobs help students develop practical skills. **For instance**, a student working as a sales assistant learns how to communicate with customers and handle pressure, neither of which can be learned from textbooks.
+>
+> （首先，兼职帮助学生培养实践技能。例如，做销售助理的学生能学会如何与顾客沟通、如何应对压力，这两样都是课本里学不到的。）
+
+> **要点**：例证要**具体到场景**。"For example, my friend Tom..." 太空；"a student working as a sales assistant" 这种**类型化但具体**的例子最好用。
+
+### 4.3 方式二：因果论证（最有说服力）
+
+**句式**：
+- `... because ...` / `Since ..., ...`
+- `... results in / leads to / gives rise to ...`
+- `... stems from / arises from ...`
+- `The root cause lies in ...`
+
+> **示例**：Secondly, excessive screen time **gives rise to** a series of health problems. **This is mainly because** staring at screens for hours strains the eyes and disrupts sleep patterns.
+>
+> （其次，过长的屏幕时间引发一系列健康问题，主要因为长时间盯着屏幕会损伤视力、打乱睡眠。）
+
+### 4.4 方式三：对比论证（适合突出观点）
+
+**句式**：
+- `Compared with ..., ...`
+- `While A ..., B ...`
+- `On the contrary, ...`
+- `... , whereas ...`
+
+> **示例**：**Compared with** students who study alone, those who join study groups tend to understand complex concepts more quickly, **whereas** the former often give up when they meet difficulties.
+>
+> （与独自学习的学生相比，参加学习小组的学生往往更快理解复杂概念，而前者遇到困难常常放弃。）
+
+### 4.5 方式四：让步论证（最能体现思维层次）
+
+先承认对方合理性，再转折回来。这是**二档冲一档最有效的技巧**。
+
+**句式**：
+- `Admittedly, ... However, ...`
+- `It is true that ..., but ...`
+- `While it may be true that ..., this does not mean ...`
+- `Some may argue that ..., yet ...`
+
+> **示例**：**Admittedly**, part-time jobs may take up some study time. **However**, the skills students gain from real working experience often prove more valuable in the long run.
+>
+> （诚然，兼职可能占用一些学习时间。然而从长远看，学生从真实工作经历中获得的技能往往更有价值。）
+
+> **加分点**：一篇作文里出现一次让步结构，阅卷会认为"这个考生会辩证思考"，这比多背十个形容词有用。
+
+### 4.6 方式五：引用常识或普遍看法
+
+**句式**：
+- `It is widely acknowledged that ...`
+- `As is well known to all, ...`
+- `Common sense tells us that ...`
+
+> **注意**：这一种最容易写成空话。只在**支撑一个具体论点**时用，不要整段都是"众所周知"。
+
+### 4.7 论据素材：三个万能角度
+
+想不出理由时，从这三个角度各找一个，基本不会卡壳。
+
+| 角度 | 问自己 | 常用词 |
+|---|---|---|
+| 个人层面 | 对个人能力/健康/心态有什么影响？ | skills, health, confidence, pressure |
+| 社会层面 | 对社会效率/公平/风气有什么影响？ | efficiency, equality, atmosphere |
+| 长远层面 | 十年后会产生什么后果？ | in the long run, future generations, sustainable |
+
+> **示例**：谈"大学生该不该做兼职"
+> 个人层面 → 培养沟通能力（practical skills）
+> 社会层面 → 缓解企业用人压力（ease the shortage of experienced employees）
+> 长远层面 → 提前适应职场（adapt to the workplace earlier）
+
+---
+
+## 第五章 结尾段：六种收尾方式
+
+结尾段只有两句话的空间，**不要再引入新观点**。它的任务是让阅卷确认"这篇文章完整"。
+
+### 5.1 总结重申
+
+**模板**：`In conclusion, ... is of great significance to ...`
+> **例** In conclusion, reading classics is of great significance to college students, both for their language ability and for their depth of thought.
+
+### 5.2 提出建议
+
+**模板**：`Therefore, it is advisable that ... (should) ...`
+> **例** Therefore, it is advisable that universities should offer more courses on traditional culture.
+
+> **提示**：`It is advisable that` 后面的从句用**虚拟语气**（should + 动词原形，should 可省略）。写成 `it is advisable that universities offer ...` 也对。这个句式用对了很显功底。
+
+### 5.3 展望预测
+
+**模板**：`With joint efforts, ... will surely ... in the years to come.`
+> **例** With joint efforts from both schools and families, this problem will surely be eased in the years to come.
+
+### 5.4 呼吁行动
+
+**模板**：`It is high time that we took action to ...`
+> **例** It is high time that we took action to protect our traditional culture.
+
+> **提示**：`It is high time that` 后接**过去式**（虚拟语气），`took` 不能写成 `take`。这是六级高频加分点。
+
+### 5.5 辩证收束（适合两面性话题）
+
+**模板**：`While ... , it is we who decide whether ...`
+> **例** While technology itself is neutral, it is we who decide whether it serves us or controls us.
+
+### 5.6 回扣引言（题目给了名言时）
+
+**模板**：`As the saying goes, ... Only by ... can we truly ...`
+> **例** As the saying goes, "Action speaks louder than words." Only by putting our plans into practice can we truly turn dreams into reality.
+
+### 5.7 结尾段三个禁忌
+
+| 禁忌 | 说明 |
+|---|---|
+| 引入新论点 | 结尾提新观点，等于告诉阅卷"我没写完" |
+| 重复第一段原句 | 换词重申，不要复制粘贴 |
+| 只写一句 | 一句话结尾显得敷衍，写两句 |
+
+---
+
+## 第六章 高频主题词群
+
+写作词汇和翻译词汇的差别在于：翻译背"名词"（节日、建筑、朝代），写作背"**抽象名词 + 评价形容词 + 论证动词**"。下面八类覆盖了四六级写作九成以上的话题。
+
+### 6.1 教育与学习
+
+| 中文 | 英文 |
+|---|---|
+| 素质教育 | all-round education |
+| 应试教育 | exam-oriented education |
+| 独立思考 | independent thinking |
+| 创新能力 | innovative ability |
+| 实践能力 | practical skills |
+| 终身学习 | lifelong learning |
+| 知识更新 | knowledge renewal |
+| 学业压力 | academic pressure |
+| 课业负担 | workload |
+| 全面发展 | develop in an all-round way |
+| 培养兴趣 | cultivate interest |
+| 开阔视野 | broaden one's horizons |
+| 打下基础 | lay a solid foundation |
+| 学以致用 | apply what one has learned |
+| 因材施教 | teach students according to their aptitude |
+
+> **论点句**：Education is not merely about passing examinations; it is about equipping students with the ability to think independently.
+
+### 6.2 科技与网络
+
+| 中文 | 英文 |
+|---|---|
+| 智能手机 | smartphone |
+| 社交媒体 | social media |
+| 网络成瘾 | Internet addiction |
+| 沉迷于 | be addicted to |
+| 信息安全 | information security |
+| 隐私泄露 | privacy leakage |
+| 网络暴力 | cyberbullying |
+| 虚假信息 | misinformation |
+| 数字鸿沟 | the digital divide |
+| 提高效率 | improve efficiency |
+| 面对面交流 | face-to-face communication |
+| 人际关系 | interpersonal relationships |
+| 双刃剑 | a double-edged sword |
+| 利大于弊 | the benefits outweigh the drawbacks |
+| 科技的飞速发展 | the rapid advance of technology |
+
+> **论点句**：Like a double-edged sword, the Internet brings convenience while quietly eroding our ability to concentrate.
+
+### 6.3 就业与职业
+
+| 中文 | 英文 |
+|---|---|
+| 就业压力 | employment pressure |
+| 激烈竞争 | fierce competition |
+| 求职 | apply for a job |
+| 面试 | job interview |
+| 职业规划 | career planning |
+| 创业 | start a business / entrepreneurship |
+| 实习 | internship |
+| 综合素质 | overall quality |
+| 团队合作 | teamwork |
+| 沟通能力 | communication skills |
+| 适应能力 | adaptability |
+| 脱颖而出 | stand out from the crowd |
+| 用人单位 | employer |
+| 核心竞争力 | core competitiveness |
+
+> **论点句**：In a job market where diplomas are no longer a guarantee, practical experience has become a decisive advantage.
+
+### 6.4 环境与可持续
+
+| 中文 | 英文 |
+|---|---|
+| 全球变暖 | global warming |
+| 碳排放 | carbon emission |
+| 可持续发展 | sustainable development |
+| 环保意识 | environmental awareness |
+| 绿色出行 | green travel |
+| 一次性用品 | disposable products |
+| 垃圾分类 | garbage sorting |
+| 资源枯竭 | resource depletion |
+| 生态平衡 | ecological balance |
+| 从我做起 | start with oneself |
+| 不可逆转的损害 | irreversible damage |
+
+> **论点句**：Environmental protection is not a burden imposed on us but an obligation we owe to future generations.
+
+### 6.5 健康与生活方式
+
+| 中文 | 英文 |
+|---|---|
+| 亚健康 | sub-health |
+| 作息不规律 | an irregular lifestyle |
+| 熬夜 | stay up late |
+| 久坐不动 | a sedentary lifestyle |
+| 肥胖 | obesity |
+| 心理健康 | mental health |
+| 缓解压力 | relieve stress |
+| 均衡饮食 | a balanced diet |
+| 规律锻炼 | regular exercise |
+| 免疫力 | immunity |
+| 身心俱疲 | be worn out both physically and mentally |
+
+> **论点句**：Good health is not everything, but without it, everything else becomes meaningless.
+
+### 6.6 文化与传承
+
+| 中文 | 英文 |
+|---|---|
+| 传统文化 | traditional culture |
+| 文化自信 | cultural confidence |
+| 文化传承 | cultural inheritance |
+| 文化多样性 | cultural diversity |
+| 文化交流 | cultural exchange |
+| 取其精华 | take the essence |
+| 去其糟粕 | discard the dross |
+| 受到冲击 | be under attack |
+| 融合 | integration |
+| 文化认同 | cultural identity |
+| 文化软实力 | cultural soft power |
+
+> **论点句**：A nation that forgets its own culture is like a tree without roots, however tall it may grow.
+
+### 6.7 社会与人际
+
+| 中文 | 英文 |
+|---|---|
+| 人际交往 | interpersonal communication |
+| 信任 | trust |
+| 合作 | cooperation |
+| 竞争 | competition |
+| 尊重 | respect |
+| 包容 | tolerance |
+| 责任感 | a sense of responsibility |
+| 社会公德 | public morality |
+| 志愿者 | volunteer |
+| 孤独感 | a sense of loneliness |
+| 社会风气 | social atmosphere |
+
+> **论点句**：In an age when everyone is connected online, genuine human bonds are becoming rarer and more precious.
+
+### 6.8 个人成长与品质
+
+| 中文 | 英文 |
+|---|---|
+| 毅力 | perseverance |
+| 自律 | self-discipline |
+| 自信 | self-confidence |
+| 乐观 | optimism |
+| 抗压能力 | the ability to handle pressure |
+| 明确目标 | set a clear goal |
+| 付诸行动 | take action |
+| 坚持不懈 | persist in doing sth. |
+| 面对失败 | face failure |
+| 积累经验 | accumulate experience |
+| 发挥潜能 | tap one's potential |
+| 实现突破 | make a breakthrough |
+| 走出舒适区 | step out of one's comfort zone |
+
+> **论点句**：Talent may determine where you start, but perseverance decides how far you go.
+
+---
+
+## 第七章 写作专用动词与搭配
+
+写作里真正拉开差距的，是**表达"说、有、重要、影响、建议"这五个基本动作**的词。下面按功能分组，每条给一个可以整句搬走的例句。
+
+### 7.1 表达观点
+
+| 强度 | 英文 | 说明 |
+|---|---|---|
+| 中性 | I believe / think that | 最普通，可用但别通篇用 |
+| 稍强 | In my view / From my perspective | 书面感更好 |
+| 较强 | I am convinced that | 有把握 |
+| 强 | I firmly believe that | 立场坚定 |
+| 学术 | It is my contention that | 六级可用，别多用 |
+
+> **提醒**：一篇文章里 `I think` 出现两次以上就是硬伤。换用 `From my perspective`、`As far as I am concerned`、`In my view` 交替。
+
+### 7.2 说明重要性
+
+| 中文 | 英文 |
+|---|---|
+| 起重要作用 | play a vital / crucial role in |
+| 具有重要意义 | be of great significance |
+| 不可忽视 | cannot be ignored / overlooked |
+| 至关重要 | be of vital importance |
+| 不可或缺 | be indispensable to |
+| 值得重视 | deserve attention |
+| 关乎…… | have a bearing on |
+
+> **例**：Reading plays a vital role in shaping one's values, and its influence cannot be overlooked.
+
+### 7.3 表达因果
+
+| 方向 | 英文 |
+|---|---|
+| 导致 | lead to / result in / give rise to / bring about |
+| 源于 | stem from / arise from / be rooted in |
+| 归因于 | be attributed to |
+| 因此 | therefore / consequently / as a result |
+| 根本原因 | the root cause lies in |
+
+> **例**：The pressure students feel largely **stems from** the belief that a single exam can decide their future.
+
+### 7.4 表达利弊
+
+| 中文 | 英文 |
+|---|---|
+| 有利有弊 | have both merits and demerits |
+| 利大于弊 | the benefits outweigh the drawbacks |
+| 以……为代价 | at the cost of |
+| 双刃剑 | a double-edged sword |
+| 一方面……另一方面 | on the one hand ... on the other hand |
+| 得不偿失 | the gains do not justify the losses |
+
+> **例**：Convenience, in many cases, is achieved **at the cost of** privacy.
+
+### 7.5 表达建议
+
+| 中文 | 英文 |
+|---|---|
+| 应该采取措施 | measures should be taken to |
+| 建议某人做 | it is advisable that sb. (should) do |
+| 有必要 | it is necessary that |
+| 呼吁 | call on sb. to do |
+| 从自身做起 | start with oneself |
+| 共同努力 | joint efforts are required |
+
+> **例**：**It is advisable that** universities **offer** more courses on mental health.
+
+### 7.6 表达趋势
+
+| 中文 | 英文 |
+|---|---|
+| 越来越多的 | an increasing number of / a growing number of |
+| 引起广泛关注 | draw widespread attention |
+| 成为一个热门话题 | become a hot topic |
+| 呈上升趋势 | be on the rise |
+| 日益严重 | become increasingly serious |
+| 令人担忧 | give cause for concern |
+
+> **例**：The number of students suffering from anxiety **is on the rise**, which **gives cause for concern**.
+
+### 7.7 提分小词：六个能让句子"高级"起来的副词
+
+| 普通 | 升级 | 用法 |
+|---|---|---|
+| very | highly / extremely / remarkably | highly effective |
+| really | genuinely / truly | genuinely valuable |
+| more and more | increasingly | increasingly dependent |
+| a lot of | a considerable amount of / numerous | |
+| always | invariably / consistently | |
+| quickly | rapidly / at an alarming rate | |
+
+> **注意**：`very` 不是不能用，而是**不要用三次以上**。写作里 `very important` 出现两次，阅卷基本会判定"词汇贫乏"。
+
+---
+
+## 第八章 24 个议论文固定句式
+
+这一章是整本手册的核心。每个句式都标注了**适用位置**，考场上看题干就知道该调动哪几个。
+
+### 8.1 开头立论类
+
+**第 1 式**　`It is universally acknowledged that + 从句`
+> **例** It is universally acknowledged that education is the foundation of a nation's development.
+> **位置**：第一段首句。最稳的开场，四六级通用。
+
+**第 2 式**　`There is a growing awareness that + 从句`
+> **例** There is a growing awareness that mental health deserves as much attention as physical health.
+> **位置**：第一段，比上一式更新鲜。
+
+**第 3 式**　`Nothing is more + 形容词 + than + 名词`
+> **例** Nothing is more valuable than the ability to think for oneself.
+> **位置**：第一段强调重要性。注意用比较级形式，`more important` 不能写 `more importance`。
+
+**第 4 式**　`... has become a matter of public concern`
+> **例** Whether college students should take part-time jobs has become a matter of public concern.
+> **位置**：第一段引出争议。
+
+**第 5 式**　`When it comes to ..., opinions vary from person to person.`
+> **例** When it comes to online learning, opinions vary from person to person.
+> **位置**：对比选择型开头。`When it comes to` 后面接**名词或动名词**，不能接句子。
+
+**第 6 式**　`Those who ... argue that ..., while others hold that ...`
+> **例** Those who favor part-time jobs argue that they build practical skills, while others hold that they distract students from study.
+> **位置**：第一段呈现双方观点。
+
+### 8.2 主体论证类
+
+**第 7 式**　`The reasons are twofold.`
+> **例** The reasons behind this phenomenon are twofold.
+> **位置**：第二段首句，直接引出两个理由。三个理由用 `threefold`。
+
+**第 8 式**　`A case in point is that + 从句`
+> **例** A case in point is that many graduates who once worked part-time adapt to the workplace far more quickly.
+> **位置**：举例论证，比 `For example` 更书面。
+
+**第 9 式**　`Take ... as an example.`
+> **例** Take reading as an example. A student who reads widely rarely struggles to express himself.
+> **位置**：举例，后面必须跟具体展开。
+
+**第 10 式**　`Admittedly, ... However, ...`
+> **例** Admittedly, part-time jobs take up time. However, the experience they provide is beyond the reach of textbooks.
+> **位置**：第二段中后部，让步转折。**最推荐的加分结构**。
+
+**第 11 式**　`It is true that ..., but this does not mean that ...`
+> **例** It is true that technology saves us time, but this does not mean that we should let it fill every spare minute.
+> **位置**：让步，比上一式更委婉。
+
+**第 12 式**　`... , which explains why ...`
+> **例** Reading requires sustained attention, which explains why it is becoming rarer in the age of short videos.
+> **位置**：因果衔接，用非限制性定语从句显得自然。
+
+**第 13 式**　`What matters most is ...`
+> **例** What matters most is not how much we know, but how well we apply it.
+> **位置**：主体段收束或结尾段强调。
+
+**第 14 式**　`Compared with ..., ...`
+> **例** Compared with students who memorize mechanically, those who question what they read develop deeper understanding.
+> **位置**：对比论证。注意 compared with 后接名词，不接完整句子。
+
+**第 15 式**　`The more ..., the more ...`
+> **例** The more we rely on search engines, the less capable we become of remembering things.
+> **位置**：表达趋势或递进，一句话就能撑起一个论点。
+
+### 8.3 结论建议类
+
+**第 16 式**　`In conclusion, ... is of great significance to ...`
+> **例** In conclusion, independent thinking is of great significance to every college student.
+> **位置**：结尾段首句，最稳。
+
+**第 17 式**　`It is high time that + 主语 + 动词过去式`
+> **例** It is high time that we took concrete action to protect the environment.
+> **位置**：结尾呼吁。**必须用过去式**，`took` 不能写 `take`。
+
+**第 18 式**　`It is advisable that + 主语 + (should) + 动词原形`
+> **例** It is advisable that schools should place more emphasis on mental health education.
+> **位置**：结尾提建议。虚拟语气，`should` 可省略。
+
+**第 19 式**　`Only by ... can we ...`（倒装）
+> **例** Only by working together can we build a more sustainable society.
+> **位置**：结尾升华。Only 引导状语置句首，主句部分倒装。
+
+**第 20 式**　`With joint efforts, ... will surely ...`
+> **例** With joint efforts from schools and families, this situation will surely improve.
+> **位置**：结尾展望，万能。
+
+### 8.4 高分进阶类
+
+**第 21 式**　`It is not ... but ... that ...`（强调 + 对比）
+> **例** It is not talent but perseverance that determines how far a person can go.
+> **位置**：任何需要强调的地方，比单纯 `not A but B` 有力得多。
+
+**第 22 式**　`There is no denying that + 从句`
+> **例** There is no denying that the Internet has transformed the way we learn.
+> **位置**：承认既成事实，为后面的转折铺垫。
+
+**第 23 式**　`It is no exaggeration to say that + 从句`
+> **例** It is no exaggeration to say that a single habit can shape a person's entire life.
+> **位置**：强调程度，适合结尾或论点拔高。一篇用一次即可。
+
+**第 24 式**　`Not until ... did ...`（倒装）
+> **例** Not until we lose our health do we realize how precious it is.
+> **位置**：六级进阶句式。要改动语序，把握不大就别用。
+
+> **使用建议**：24 个句式里，**挑 8—10 个练到滚瓜烂熟**，比硬记 24 个每个都用得半生不熟要安全得多。推荐组合：1、6、7、8、10、16、17、20 这八个，覆盖了三段的所有位置。
+
+---
+
+## 第九章 提分替换表
+
+同样的意思，换一种说法，档次就不同。下表左边是"能拿分但不加分"的表达，右边是"同样安全、但更像英文"的表达。**不要一次全换**——一篇作文里用上四五处升级，就已经足够明显。
+
+### 9.1 表达观点与看法
+
+| 普通 | 升级 |
+|---|---|
+| I think | From my perspective / In my view |
+| I think it is good | I believe it is beneficial |
+| In my opinion, | As far as I am concerned, |
+| I agree | I couldn't agree more |
+| I don't agree | I hold a different view |
+| I will talk about | This essay will examine |
+
+### 9.2 描述现象与趋势
+
+| 普通 | 升级 |
+|---|---|
+| more and more people | a growing number of people |
+| many people think | a considerable number of people hold the view that |
+| now | at present / in this day and age |
+| very common | widespread / prevalent |
+| becomes more serious | is deteriorating / is becoming increasingly serious |
+| a big problem | a pressing problem |
+
+### 9.3 表达重要与必要
+
+| 普通 | 升级 |
+|---|---|
+| very important | of vital importance / crucial / indispensable |
+| we must | it is essential that we |
+| should do | it is advisable that we do |
+| is good for | is beneficial to / contributes to |
+| is bad for | is detrimental to / does harm to |
+
+### 9.4 表达因果与结果
+
+| 普通 | 升级 |
+|---|---|
+| because of this | as a result / consequently |
+| makes | leads to / gives rise to / results in |
+| comes from | stems from / is rooted in |
+| so | therefore / thus |
+
+### 9.5 表达利弊与两面性
+
+| 普通 | 升级 |
+|---|---|
+| has good and bad sides | has both merits and demerits |
+| good points are more | the benefits outweigh the drawbacks |
+| every coin has two sides | every advantage carries a hidden cost |
+| it is like a knife with two sides | it is a double-edged sword |
+
+### 9.6 表达解决与建议
+
+| 普通 | 升级 |
+|---|---|
+| we should solve it | measures should be taken to address it |
+| everyone should do something | joint efforts are required |
+| the government should | it is the government's responsibility to |
+| we can start from ourselves | we can begin with our own daily choices |
+
+### 9.7 常用词替换：动词与形容词
+
+| 普通 | 升级 | 备注 |
+|---|---|---|
+| get | obtain / acquire / gain | get 太口语 |
+| make | produce / generate / create | 看语境 |
+| use | utilize / make use of | utilize 别滥用 |
+| help | facilitate / contribute to | |
+| a lot of | numerous / a considerable amount of | |
+| big | significant / substantial | big problem → pressing problem |
+| good | beneficial / favorable / rewarding | |
+| bad | harmful / detrimental / adverse | |
+| difficult | challenging / demanding | |
+| happy | delighted / content | 写作中少用 happy |
+
+> **一个朴素的原则**：升级的前提是**搭配正确**。`of vital importance` 对，`of vital important` 错；`contribute to improving` 对，`contribute to improve` 错。宁可用普通表达写对，也不要用高级表达写错。
+
+---
+
+## 第十章 五篇范文与拆解
+
+五篇覆盖五种题型。**建议的用法不是背，是拆**：先看题目自己写一遍，再对照范文的结构表，看自己哪一段没撑起来。
+
+### 10.1 现象解释型：短视频对大学生的影响
+
+**题目**：The Impact of Short Videos on College Students
+**提纲**：1. 短视频在大学生中的流行 2. 它带来的影响 3. 你的建议
+
+> **范文**
+> Nowadays, short videos have become an indispensable part of college life. Wherever we go on campus, we can see students scrolling through their phones. While these videos bring pleasure and information, they also raise concerns about concentration and time management.
+>
+> Admittedly, short videos offer quick entertainment and make it possible to learn something new in spare minutes. However, the problems they bring deserve more attention. To begin with, such videos are designed to hold our attention, which gradually weakens our ability to focus on lengthy tasks. A case in point is that many students now find it hard to sit through a forty-minute lecture. In addition, endless scrolling consumes hours that could have been spent on exercise or sleep.
+>
+> In conclusion, short videos are neither good nor bad in themselves; what matters is how we use them. It is advisable that we should set a daily time limit and keep some hours free from screens.
+
+**结构拆解**：
+
+| 段落 | 句子 | 功能 | 调用的句式 |
+|---|---|---|---|
+| 一 | 1 | 现象引入 | In recent years 变体：Nowadays |
+| 一 | 2 | 具体化 | Wherever 引导 |
+| 一 | 3 | 双向立论 | While ..., ... |
+| 二 | 4 | 让步 | Admittedly, ... |
+| 二 | 5 | 转折立论 | However, ... deserve more attention |
+| 二 | 6—8 | 理由一 + 例证 | To begin with / A case in point |
+| 二 | 9 | 理由二 | In addition |
+| 三 | 10—11 | 辩证收束 + 建议 | neither ... nor / It is advisable that |
+
+**可迁移**：`neither good nor bad in themselves; what matters is how we use them` —— 这一句几乎能用在所有"科技产品影响"类题目上。
+
+### 10.2 观点论证型：团队合作的重要性
+
+**题目**：On the Importance of Teamwork
+**提纲**：1. 团队合作的重要性 2. 举例说明 3. 你的建议
+
+> **范文**
+> In an age when tasks are becoming increasingly complex, teamwork has never been more important. Few achievements today can be attributed to a single person, no matter how talented he or she may be.
+>
+> The reasons are twofold. To begin with, a team combines different strengths. While one member excels at analysis, another may be skilled at communication, and together they accomplish what none of them could manage alone. A case in point is the development of a new product, which requires engineers, designers and marketers to work side by side. In addition, teamwork teaches us to listen. Admittedly, cooperation is not always smooth and disagreements are inevitable. However, learning to resolve them is itself a valuable lesson.
+>
+> In conclusion, teamwork not only improves efficiency but also shapes character. Therefore, it is advisable that universities should provide more group projects for students to practise this ability.
+
+**结构拆解**：
+
+| 段落 | 关键句 | 功能 |
+|---|---|---|
+| 一 | teamwork has never been more important | 用比较级最高化，比 very important 高级 |
+| 一 | Few achievements ... can be attributed to | 反面论证，增加厚度 |
+| 二 | The reasons are twofold. | 明确告诉阅卷"我要说两点" |
+| 二 | While one member ..., another ... | 对比论证 |
+| 二 | A case in point is ... | 例证 |
+| 二 | Admittedly, ... However, ... | 让步转折 |
+| 三 | not only ... but also ... | 双重结论 |
+| 三 | It is advisable that ... should ... | 虚拟语气建议 |
+
+**可迁移**：`has never been more important` 是"very important"最安全的升级版，任何重要性话题都能用。
+
+### 10.3 对比选择型：大学生该不该做兼职
+
+**题目**：Should College Students Take Part-time Jobs?
+**提纲**：1. 有人赞成 2. 有人反对 3. 你的看法
+
+> **范文**
+> When it comes to part-time jobs, opinions vary from person to person. Some students regard them as a valuable opportunity to gain experience, while others worry that work will distract them from study.
+>
+> Those who support part-time jobs argue that the workplace teaches skills no classroom can offer, such as communicating with customers and handling pressure. A student working as a sales assistant, for instance, learns quickly how to deal with complaints and stay calm. However, supporters of the opposite view point out that time is a student's scarcest resource, and a demanding job may leave little energy for courses.
+>
+> As far as I am concerned, the key lies not in whether to work but in how to choose. A job related to one's major and limited to weekends is likely to benefit rather than harm. What we should avoid is working merely for money at the cost of our studies.
+
+**结构拆解**：
+
+| 段落 | 关键句 | 功能 |
+|---|---|---|
+| 一 | When it comes to ..., opinions vary | 对比型标准开头 |
+| 一 | Some regard ..., while others worry ... | 双向呈现 |
+| 二 | Those who support ... argue that ... | 正方 + 例证 |
+| 二 | However, supporters of the opposite view point out ... | 反方 |
+| 三 | the key lies not in whether ... but in how ... | 跳出二元对立，最出彩的一句 |
+| 三 | is likely to benefit rather than harm | rather than 结构 |
+| 三 | at the cost of | 高级搭配收尾 |
+
+**可迁移**：`the key lies not in A but in B` —— 任何"该不该/好不好"的题目，用这一句立刻显得思维有层次。
+
+### 10.4 问题解决型：如何缓解学业压力
+
+**题目**：How to Relieve Academic Pressure
+**提纲**：1. 学生压力大的表现 2. 压力的来源 3. 如何缓解
+
+> **范文**
+> Academic pressure has become an unavoidable part of student life. Many students complain of sleepless nights, constant anxiety and a feeling of being overwhelmed by endless assignments and examinations.
+>
+> Several factors contribute to this situation. The most obvious one is the belief that a single score can determine one's future, which turns every exam into a matter of survival. In addition, competition among classmates makes students reluctant to admit that they are struggling, so problems are often hidden until they become serious.
+>
+> To reverse this situation, joint efforts are required. On the one hand, schools should offer psychological counseling and reduce unnecessary workloads. On the other hand, students themselves need to set realistic goals and take regular exercise, which is a proven way to ease tension. Only by facing pressure calmly can we turn it into motivation rather than a burden.
+
+**结构拆解**：
+
+| 段落 | 关键句 | 功能 |
+|---|---|---|
+| 一 | has become an unavoidable part | 定调 |
+| 一 | complain of ... | 具体化表现，三个并列 |
+| 二 | Several factors contribute to this situation. | 原因段主题句 |
+| 二 | The most obvious one is ... | 主次分明 |
+| 二 | In addition, ... | 第二条原因 |
+| 三 | To reverse this situation, joint efforts are required. | 措施段主题句 |
+| 三 | On the one hand ... On the other hand ... | 两条措施 |
+| 三 | Only by ... can we ... | 倒装收尾 |
+
+**可迁移**：`To reverse this situation` —— 问题解决型第三段的万能开头，比 `To solve this problem` 高级得多。
+
+### 10.5 引言型：行动胜于言辞
+
+**题目**：Write an essay based on the saying "Action speaks louder than words."
+**提纲**：1. 你对这句话的理解 2. 举例说明 3. 结论
+
+> **范文**
+> As the saying goes, "Action speaks louder than words." This proverb reminds us that what a person actually does carries far more weight than what he merely promises, a truth that holds in study, work and personal relationships alike.
+>
+> History offers a convincing example. Many ambitious plans have been proposed over the years, yet only those backed by consistent effort have ever changed anything. In our daily life the same logic applies: a classmate who quietly reviews his notes every evening often achieves more than one who keeps announcing how hard he will study. Admittedly, words can inspire and encourage. However, without action behind them, even the most inspiring words soon fade away.
+>
+> In conclusion, words may open a door, but only action walks through it. It is high time that we stopped talking about our plans and started working on them today.
+
+**结构拆解**：
+
+| 段落 | 关键句 | 功能 |
+|---|---|---|
+| 一 | As the saying goes, ... | 引言型必备开头 |
+| 一 | a truth that holds in ... | 同位语扩展，把一句话拉长成两句的容量 |
+| 二 | History offers a convincing example. | 从历史切入，显得有分量 |
+| 二 | the same logic applies | 由远及近的过渡 |
+| 二 | Admittedly ... However ... | 让步转折 |
+| 三 | words may open a door, but only action walks through it | 比喻收尾，全篇最亮 |
+| 三 | It is high time that we stopped | 虚拟语气呼吁 |
+
+**可迁移**：`words may open a door, but only action walks through it` 这类**比喻式收尾**，一篇用一次就够，是 13 分档的标志性写法。
+
+---
+
+## 第十一章 高频错误二十条
+
+写作的错误和翻译不同：翻译错在"词不会"，写作错在"句子结构崩了"。下面按扣分频率排序。
+
+### 11.1 语法类
+
+| # | 错误 | 典型写法 | 修正 |
+|---|---|---|---|
+| 1 | 主谓一致 | The number of students **have** increased | **has** |
+| 2 | 时态混用 | 通篇在现在时和过去时之间跳 | 议论文统一用现在时 |
+| 3 | 单复数 | one of the most important **factor** | **factors** |
+| 4 | 冠词缺失 | He is **student** of our school | **a student** |
+| 5 | 逗号连句 | It is convenient, **people like it**. | ...**, so** people like it. |
+| 6 | 句子不完整 | Because they want to succeed. | 补主句，或并入上一句 |
+| 7 | 悬垂修饰 | **Reading books**, the idea became clear. | **Reading books, I found** the idea clear. |
+| 8 | 词性误用 | It is **benefit** to us. | It is **beneficial** to us. |
+| 9 | 虚拟语气 | It is high time that we **take** action. | we **took** action |
+| 10 | 非谓语误用 | **Learn** English is important. | **Learning** English is important. |
+
+### 11.2 用词类
+
+| # | 错误 | 典型写法 | 修正 |
+|---|---|---|---|
+| 11 | 中式搭配 | **learn** knowledge | **acquire / gain** knowledge |
+| 12 | 介词错配 | **in** the Internet | **on** the Internet |
+| 13 | 口语词入文 | a lot of / kids / stuff / things like that | numerous / children / matters |
+| 14 | 缩写 | don't / can't / it's | do not / cannot / it is |
+| 15 | 连接词误用 | 用 **On the contrary** 表示"此外" | 表递进用 In addition |
+| 16 | 重复用词 | 一段里 think 出现四次 | 换 believe / hold / argue |
+
+> **关于第 15 条**：`on the contrary` 只能用于"否定前面的说法，提出相反情况"，不能当"另一方面"用。这是四六级作文里最常见的连接词错误，写错会让整段逻辑断裂。
+
+### 11.3 篇章类
+
+| # | 错误 | 说明 |
+|---|---|---|
+| 17 | 没有主题句 | 每段第一句就该是这段的论点，不能是背景铺垫 |
+| 18 | 字数不足 | 四级 120 词、六级 150 词是底线，写不够直接按比例扣分 |
+| 19 | 抄题目 | 开头整句照抄题干，既不计入字数，又暴露词汇量 |
+| 20 | 模板痕迹过重 | 通篇 With the development of society / Every coin has two sides，阅卷一眼识破 |
+
+### 11.4 拼写高危词
+
+这十个词是四六级作文里拼错率最高的，考前默写一遍：
+
+| 词 | 易错点 |
+|---|---|
+| environment | 中间是 iron，不是 envor |
+| government | 中间是 vern，不是 vernment 漏 n |
+| beneficial | 双 l 前是 cia，不是 cial |
+| development | 没有 e 结尾的 developement |
+| success | 双 c 双 s |
+| necessary | 一个 c 两个 s |
+| receive | ei 不是 ie |
+| believe | ie 不是 ei |
+| achieve | 结尾是 ve，不是 chive |
+| knowledge | 中间是 ledge |
+
+---
+
+## 附录 A 七天准备计划
+
+| 天 | 内容 | 时间 |
+|---|---|---|
+| 第 1 天 | 第二章六种题型 + 背三个骨架 | 50 分钟 |
+| 第 2 天 | 第三章八种开头，各写一句 | 50 分钟 |
+| 第 3 天 | 第四章五种论证方式，各造一个例子 | 60 分钟 |
+| 第 4 天 | 第六章主题词群（挑四个高频话题） | 60 分钟 |
+| 第 5 天 | 第八章句式 1—12，每个写一句 | 60 分钟 |
+| 第 6 天 | 第八章句式 13—24 + 第九章替换表 | 60 分钟 |
+| 第 7 天 | 限时写两篇（30 分钟/篇），对照第十章拆解 | 90 分钟 |
+
+> **最有效的单项练习**：每天写**三个开头段**，只写开头，不写全文。开头段决定了阅卷的第一印象，而它只需要三句话，练起来的性价比最高。
+
+## 附录 B 二十个万能论点句
+
+这些句子可以直接背，也可以改一个词就用。**不要整段套用**，每篇挑两句融进去即可。
+
+| # | 论点句 |
+|---|---|
+| 1 | Nothing is more valuable than the ability to think independently. |
+| 2 | What matters most is not how much we know, but how well we apply it. |
+| 3 | Every advantage carries a hidden cost. |
+| 4 | Convenience, in many cases, is achieved at the cost of privacy. |
+| 5 | A habit, once formed, is far harder to break than to build. |
+| 6 | Talent may decide where you start, but perseverance decides how far you go. |
+| 7 | It is not talent but persistence that makes the real difference. |
+| 8 | Knowledge that is not put into practice remains a dead letter. |
+| 9 | The more we rely on machines, the less we trust our own judgment. |
+| 10 | A society is judged not by what it builds, but by what it protects. |
+| 11 | Genuine communication requires presence, not just connection. |
+| 12 | Pressure, properly handled, is a source of strength rather than a burden. |
+| 13 | One cannot expect to harvest what one has never planted. |
+| 14 | Culture is not a museum piece but a living practice. |
+| 15 | The value of education lies not in the diploma it grants, but in the curiosity it awakens. |
+| 16 | Success belongs to those who are prepared to fail more than once. |
+| 17 | A goal without action is merely a wish. |
+| 18 | Nothing shapes a person more than the choices he makes when no one is watching. |
+| 19 | Technology is neutral; it is human intention that gives it direction. |
+| 20 | Small daily efforts, accumulated over time, produce results no sudden effort can match. |
+
+## 附录 C 自测：三十个中译英
+
+遮住右列，先写，再对照。写不出来的就是复习重点。
+
+| # | 中文 | 英文 |
+|---|---|---|
+| 1 | 起重要作用 | play a vital role in |
+| 2 | 具有重要意义 | be of great significance |
+| 3 | 不可或缺 | be indispensable to |
+| 4 | 导致 | lead to / give rise to |
+| 5 | 源于 | stem from |
+| 6 | 利大于弊 | the benefits outweigh the drawbacks |
+| 7 | 以……为代价 | at the cost of |
+| 8 | 双刃剑 | a double-edged sword |
+| 9 | 越来越多的 | a growing number of |
+| 10 | 引起广泛关注 | draw widespread attention |
+| 11 | 呈上升趋势 | be on the rise |
+| 12 | 采取措施 | measures should be taken to |
+| 13 | 建议某人做 | it is advisable that sb. (should) do |
+| 14 | 呼吁 | call on sb. to do |
+| 15 | 素质教育 | all-round education |
+| 16 | 独立思考 | independent thinking |
+| 17 | 开阔视野 | broaden one's horizons |
+| 18 | 打下基础 | lay a solid foundation |
+| 19 | 网络成瘾 | Internet addiction |
+| 20 | 数字鸿沟 | the digital divide |
+| 21 | 面对面交流 | face-to-face communication |
+| 22 | 就业压力 | employment pressure |
+| 23 | 脱颖而出 | stand out from the crowd |
+| 24 | 核心竞争力 | core competitiveness |
+| 25 | 可持续发展 | sustainable development |
+| 26 | 环保意识 | environmental awareness |
+| 27 | 缓解压力 | relieve stress |
+| 28 | 抗压能力 | the ability to handle pressure |
+| 29 | 走出舒适区 | step out of one's comfort zone |
+| 30 | 文化自信 | cultural confidence |
+
+---
+
+## 最后三条建议
+
+**第一，把三段式当纪律，不当模板。** 骨架固定（引入—论证—结论），但每段的**主题句必须自己写**。骨架保证结构分，自己的主题句保证不撞模板。
+
+**第二，一个句式练到能默写，胜过十个句式都眼熟。** 从第八章挑八个，抄二十遍，写作文时自然就出来了。
+
+**第三，考前一定要手写两篇并计时。** 很多人知道结构却写不满字数，问题都出在"写的时候要一句一句想"。手写两篇，你会发现自己卡在哪一段，然后针对性补。
